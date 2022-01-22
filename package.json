@@ -1,0 +1,30 @@
+{
+    "name": "bigueneuwoyoff",
+    "version": "1.0.0",
+    "description": "Bi Gueneu Woyoff",
+    "main": "api/server.js",
+    "type": "module",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "colors": "^1.4.0",
+        "concurrently": "^6.4.0",
+        "cors": "^2.8.5",
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "express-async-handler": "^1.2.0",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^6.1.1",
+        "nodemon": "^2.0.15"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node api/server",
+        "api": "nodemon api/server",
+        "client": "npm start --prefix client",
+        "dev": "concurrently \"npm run api\" \"npm run client\"",
+        "data:import": "node api/seeder",
+        "data:destroy": "node api/seeder -d"
+    },
+    "author": "Bi-Gueneu-Woyoff",
+    "license": "ISC"
+}
