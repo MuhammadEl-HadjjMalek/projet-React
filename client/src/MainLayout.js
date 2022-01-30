@@ -1,9 +1,9 @@
 import React, { useEffect, useRef } from "react";
 import { useSelector } from "react-redux";
-import { View, Animated } from "react-native";
+import { View, Animated, StatusBar } from "react-native";
 import { MaterialIcons, MaterialCommunityIcons } from "@expo/vector-icons";
-import { IconTextButton } from "../components";
-import { COLORS, SIZES } from "../constants";
+import { IconTextButton } from "./components";
+import { COLORS, SIZES } from "./constants";
 
 const MainLayout = ({ children }) => {
 
@@ -31,7 +31,7 @@ const MainLayout = ({ children }) => {
 
   const modalY = modalAnimatedValue.interpolate({
     inputRange: [0, 1],
-    outputRange: [SIZES.height, SIZES.height - 320]
+    outputRange: [SIZES.height, SIZES.height - 260]
   })
 
   return (
@@ -40,6 +40,8 @@ const MainLayout = ({ children }) => {
         flex: 1
       }}
     >
+      <StatusBar barStyle="light-content" />
+
       {children}
 
       {/* Dimmed the background */}
@@ -67,6 +69,7 @@ const MainLayout = ({ children }) => {
           top: modalY,
           width: "100%",
           padding: SIZES.padding,
+          minHeight: 300,
           backgroundColor: COLORS.primary
         }}
       >

@@ -3,8 +3,8 @@ import {
     TouchableOpacity,
 } from "react-native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs"
-import { Ionicons, FontAwesome5, MaterialIcons } from '@expo/vector-icons';
-import { Home, Info, Social, Payment, Search } from "../screens"
+import { Ionicons, AntDesign, Feather, FontAwesome5, MaterialIcons } from '@expo/vector-icons';
+import { Home, Info, Social, Payment, Settings } from "../screens"
 import { COLORS } from "../constants";
 import { TabIcon } from "../components";
 import { NavigationContainer } from "@react-navigation/native";
@@ -49,6 +49,7 @@ const Tabs = () => {
             <Tab.Navigator
                 screenOptions={{
                     tabBarShowLabel: false,
+                    headerShown: false,
                     tabBarStyle: {
                         height: 100,
                         backgroundColor: COLORS.primary,
@@ -66,13 +67,13 @@ const Tabs = () => {
                                     <TabIcon
                                         focused={focused}
                                         icon={
-                                            <Ionicons
+                                            <AntDesign
                                                 name="home"
                                                 size={24}
                                                 color={focused ? COLORS.white : COLORS.secondary}
                                             />
                                         }
-                                        label="Home"
+                                        label="Accueil"
                                     />
                                 )
                             }
@@ -102,7 +103,7 @@ const Tabs = () => {
                                                 color={focused ? COLORS.white : COLORS.secondary}
                                             />
                                         }
-                                        label="Social"
+                                        label="Sociale"
                                     />
                                 )
                             }
@@ -126,12 +127,12 @@ const Tabs = () => {
                                     focused={focused}
                                     icon={
                                         <MaterialIcons
-                                            name={ visibility ? "close" : "payments" }
+                                            name={visibility ? "close" : "payments"}
                                             size={24}
                                             color={COLORS.white}
                                         />
                                     }
-                                    label="Payment"
+                                    label="Paiement"
                                     isPayment={true}
                                 />
                             )
@@ -176,8 +177,8 @@ const Tabs = () => {
                     }}
                 />
                 <Tab.Screen
-                    name="Search"
-                    component={Search}
+                    name="Settings"
+                    component={Settings}
                     options={{
                         tabBarIcon: ({ focused }) => {
                             if (!visibility) {
@@ -185,13 +186,13 @@ const Tabs = () => {
                                     <TabIcon
                                         focused={focused}
                                         icon={
-                                            <FontAwesome5
-                                                name="search"
+                                            <Feather
+                                                name="settings"
                                                 size={24}
                                                 color={focused ? COLORS.white : COLORS.secondary}
                                             />
                                         }
-                                        label="Search"
+                                        label="Settings"
                                     />
                                 )
                             }
