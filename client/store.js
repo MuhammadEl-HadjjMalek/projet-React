@@ -1,31 +1,15 @@
 import thunk from "redux-thunk";
 import { composeWithDevTools } from "redux-devtools-extension";
 import { combineReducers, applyMiddleware, createStore } from "redux";
-import {
-    userCreationReducer,
-    userLoginReducer,
-    userLogoutReducer,
-} from "./src/reducers/user.reducer";
-import {
-    billDetailsReducer,
-    billListReducer,
-} from "./src/reducers/bill.reducer";
+import { tabModalVisibilityReducer } from "./src/reducers/tab.reducer";
+// import AsyncStorage from '@react-native-async-storage/async-storage';
+
 
 const reducers = combineReducers({
-    userLogin: userLoginReducer,
-    userLogout: userLogoutReducer,
-    userCreation: userCreationReducer,
-    billList: billListReducer,
-    billDetails: billDetailsReducer,
+    tabModalVisibility: tabModalVisibilityReducer,
 });
 
-const userInfoFromStorage = localStorage.getItem("userInfo") ?
-    JSON.parse(localStorage.getItem("userInfo")) :
-    null;
-
-const initialState = {
-    userLogin: { userInfo: userInfoFromStorage },
-};
+const initialState = {};
 
 const middleware = composeWithDevTools(applyMiddleware(thunk));
 

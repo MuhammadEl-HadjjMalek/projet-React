@@ -6,8 +6,8 @@ import {
     BILL_LIST_FAIL,
     BILL_LIST_REQUEST,
     BILL_LIST_SUCCESS,
-} from "../constants/bill.constant";
-import { API_BASE_URL } from "../constants/utils";
+} from "../types/bill.type";
+import { API_BASE_URL } from "../constants";
 
 export const listBill = () => async(dispatch) => {
     dispatch({ type: BILL_LIST_REQUEST });
@@ -20,6 +20,9 @@ export const listBill = () => async(dispatch) => {
         const { data } = await axios.get(`${API_BASE_URL}/api/bills`, config);
         dispatch({ type: BILL_LIST_SUCCESS, payload: data });
     } catch (err) {
+
+        console.log(err);
+
         const message =
             err.message && err.response.data.message ?
             err.response.data.message :
@@ -44,6 +47,9 @@ export const getSingleBill = (id) => async(dispatch) => {
 
         dispatch({ type: BILL_DETAILS_SUCCESS, payload: data });
     } catch (err) {
+
+        console.log(err);
+
         const message =
             err.message && err.response.data.message ?
             err.response.data.message :
