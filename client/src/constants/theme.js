@@ -43,19 +43,21 @@ export const SIZES = {
     width,
     height
 };
+
+
 export const FONTS = {
-    largeTitle: { fontSize: SIZES.largeTitle },
-    h1: { fontSize: SIZES.h1, lineHeight: 36 },
-    h2: { fontSize: SIZES.h2, lineHeight: 30 },
-    h3: { fontSize: SIZES.h3, lineHeight: 22 },
-    h4: { fontSize: SIZES.h4, lineHeight: 22 },
-    h5: { fontSize: SIZES.h5, lineHeight: 22 },
-    h6: { fontSize: SIZES.h6, lineHeight: 20 },
-    body1: { fontSize: SIZES.body1, lineHeight: 36 },
-    body2: { fontSize: SIZES.body2, lineHeight: 30 },
-    body3: { fontSize: SIZES.body3, lineHeight: 22 },
-    body4: { fontSize: SIZES.body4, lineHeight: 22 },
-    body5: { fontSize: SIZES.body5, lineHeight: 22 },
+    largeTitle: { fontFamily: "Poppins-Black", fontSize: SIZES.largeTitle },
+    h1: { fontFamily: "Poppins-Bold", fontSize: SIZES.h1, lineHeight: 36 },
+    h2: { fontFamily: "Poppins-Bold", fontSize: SIZES.h2, lineHeight: 30 },
+    h3: { fontFamily: "Poppins-SemiBold", fontSize: SIZES.h3, lineHeight: 22 },
+    h4: { fontFamily: "Poppins-SemiBold", fontSize: SIZES.h4, lineHeight: 22 },
+    h5: { fontFamily: "Poppins-SemiBold", fontSize: SIZES.h5, lineHeight: 22 },
+    h6: { fontFamily: "Poppins-SemiBold", fontSize: SIZES.h6, lineHeight: 20 },
+    body1: { fontFamily: "Poppins-Regular", fontSize: SIZES.body1, lineHeight: 36 },
+    body2: { fontFamily: "Poppins-Regular", fontSize: SIZES.body2, lineHeight: 30 },
+    body3: { fontFamily: "Poppins-Regular", fontSize: SIZES.body3, lineHeight: 22 },
+    body4: { fontFamily: "Poppins-Regular", fontSize: SIZES.body4, lineHeight: 22 },
+    body5: { fontFamily: "Poppins-Regular", fontSize: SIZES.body5, lineHeight: 22 },
 };
 
 const appTheme = { COLORS, SIZES, FONTS };

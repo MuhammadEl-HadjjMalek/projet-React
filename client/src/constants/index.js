@@ -1,5 +1,6 @@
-import { API_BASE_URL } from "./constants";
 import data from "./dummy";
+import images from "./images";
+import { API_BASE_URL } from "./constants";
 import theme, { COLORS, SIZES, FONTS } from "./theme";
 
 export {
@@ -9,4 +10,5 @@ export {
     COLORS,
     SIZES,
     FONTS,
+    images
 };

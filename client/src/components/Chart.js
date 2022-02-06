@@ -1,7 +1,7 @@
 import React from "react";
 import { View } from "react-native";
 import { LineChart } from "react-native-chart-kit";
-import { SIZES } from "../constants";
+import { COLORS, SIZES } from "../constants";
 
 const Chart = ({ containerStyle }) => {
     return (
@@ -39,7 +39,7 @@ const Chart = ({ containerStyle }) => {
                 bezier
                 style={{
                     marginVertical: 4,
-                    borderRadius: 10
+                    backgroundColor: COLORS.white
                 }}
             />
         </View>
