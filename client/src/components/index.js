@@ -4,6 +4,7 @@ import TabIcon from "./TabIcon";
 import IconTextButton from "./IconTextButton";
 import BillInfo from "./BillInfo";
 import Chart from "./Chart";
+import TextButton from "./TextButton";
 import HeaderBar from "./HeaderBar";
 
 export {
@@ -13,5 +14,6 @@ export {
     IconTextButton,
     BillInfo,
     Chart,
+    TextButton,
     HeaderBar
 };

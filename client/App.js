@@ -6,7 +6,7 @@ import Tabs from "./src/navigations/tabs";
 import { DefaultTheme, NavigationContainer } from "@react-navigation/native";
 import store from "./store";
 import { createStackNavigator } from "@react-navigation/stack";
-import { Register } from "./src/screens";
+import { Login, Register } from "./src/screens";
 import { StatusBar } from "react-native";
 
 
@@ -26,7 +26,7 @@ export default function App() {
         "Poppins-Bold": require("./src/assets/fonts/Poppins-Bold.ttf"),
         "Poppins-Black": require("./src/assets/fonts/Poppins-Black.ttf"),
         "Poppins-Regular": require("./src/assets/fonts/Poppins-Regular.ttf"),
-        "Poppins-Semibold": require("./src/assets/fonts/Poppins-SemiBold.ttf")
+        "Poppins-SemiBold": require("./src/assets/fonts/Poppins-SemiBold.ttf")
     });
 
     if (!isFontLoaded) {
@@ -46,6 +46,7 @@ export default function App() {
                     initialRouteName="Register"
                 >
                     <Stack.Screen name="Register" component={Register} />
+                    <Stack.Screen name="Login" component={Login} />
                     <Stack.Screen name="Dashboard" component={Tabs} />
                 </Stack.Navigator>
             </NavigationContainer>

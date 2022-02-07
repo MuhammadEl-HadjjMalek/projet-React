@@ -3,8 +3,6 @@ import {
   View,
   Text,
   Image,
-  FlatList,
-  TouchableWithoutFeedback,
   TouchableOpacity,
   KeyboardAvoidingView,
   ScrollView,
@@ -16,9 +14,10 @@ import { Entypo } from '@expo/vector-icons';
 import { KeyboardAwareScrollView } from "react-native-keyboard-aware-scroll-view";
 import { COLORS, FONTS, images, SIZES, } from "../constants";
 import { TextInput } from "react-native-gesture-handler";
+import { TextButton } from "../components";
 
 
-const Register = () => {
+const Register = ({ navigation }) => {
 
   const renderHeader = () => {
     return (
@@ -133,26 +132,32 @@ const Register = () => {
             marginTop: 3
           }}
         >
-          <OTPInputView 
+          <Text style={{ color: COLORS.white, ...FONTS.body4 }}>Votre Code Secret</Text>
+
+          <OTPInputView
             pinCount={4}
             style={{
               width: '100%',
-              height: 40
+              height: 60,
             }}
             codeInputFieldStyle={{
-              width: 65,
-              height: 65,
-              borderBottomColor: COLORS.secondary,
-              borderBottomWidth: 1,
+              width: 50,
+              height: 50,
               color: COLORS.white,
+              backgroundColor: COLORS.secondary,
+              borderRadius: SIZES.radius,
+              borderColor: COLORS.white,
+              borderWidth: 1,
               ...FONTS.body4
             }}
+            selectionColor={COLORS.white}
             onCodeFilled={(code) => { console.log(code) }}
           />
         </View>
+
       </KeyboardAwareScrollView>
     )
-  }
+  };
 
   return (
     <KeyboardAvoidingView
@@ -184,6 +189,58 @@ const Register = () => {
           />
 
           {renderForm()}
+
+          {/* Render Sign up Button */}
+          <View
+            style={{
+              alignItems: 'center',
+              justifyContent: 'center',
+              width: '100%',
+              marginTop: SIZES.padding
+            }}
+          >
+            <TextButton
+              label={"Creer un compte"}
+              buttonContainerStyle={{
+                height: 50,
+                width: SIZES.width - SIZES.padding * 2,
+                marginHorizontal: SIZES.padding,
+                borderRadius: SIZES.radius
+              }}
+              onPress={() => console.log("Sign Up pressed.")}
+            // onPress={() => navigation.replace("SignIn")}
+            />
+          </View>
+
+          <View
+            style={{
+              flexDirection: 'row',
+              marginTop: 5,
+              justifyContent: 'center',
+              alignItems: "baseline"
+            }}
+          >
+            <Text
+              style={{
+                color: COLORS.secondary,
+                ...FONTS.body5
+              }}
+            >
+              Vous avez déjà un compte?
+            </Text>
+            <TextButton
+              label={"Se connecter"}
+              buttonContainerStyle={{
+                marginLeft: 3,
+                backgroundColor: null
+              }}
+              labelStyle={{
+                color: COLORS.white,
+                ...FONTS.h5
+              }}
+              onPress={() => navigation.navigate("Login")}
+            />
+          </View>
         </ScrollView>
       </View>
     </KeyboardAvoidingView>
