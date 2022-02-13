@@ -10,9 +10,9 @@ const TabIcon = ({ focused, icon, label, isPayment }) => {
                 style={{
                     alignItems: "center",
                     justifyContent:"center",
-                    width: 60,
-                    height: 60,
-                    borderRadius: 30,
+                    width: 64,
+                    height: 64,
+                    borderRadius: 20,
                     backgroundColor: COLORS.black,
                 }}
             >
@@ -30,7 +30,8 @@ const TabIcon = ({ focused, icon, label, isPayment }) => {
                 {icon}
                 <Text
                     style={{
-                        color: focused ? COLORS.white : COLORS.secondary
+                        color: focused ? COLORS.white : COLORS.secondary,
+                        ...FONTS.h6
                     }}
                 >{label}</Text>
             </View>

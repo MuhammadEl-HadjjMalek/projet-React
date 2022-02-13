@@ -6,7 +6,7 @@ const Info = () => {
     return (
         <MainLayout>
             <View>
-                <Text>Bill Details Screen</Text>
+                <Text>News feed related to electricity</Text>
             </View>
         </MainLayout>
     )

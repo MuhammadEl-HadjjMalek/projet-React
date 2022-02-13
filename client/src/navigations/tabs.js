@@ -4,12 +4,13 @@ import {
 } from "react-native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs"
 import { Ionicons, AntDesign, Feather, FontAwesome5, MaterialIcons } from '@expo/vector-icons';
-import { Home, Info, Social, Payment, Settings } from "../screens"
+import { Info, Social, Payment, Settings } from "../screens"
 import { COLORS } from "../constants";
 import { TabIcon } from "../components";
 import { useDispatch } from "react-redux";
 import { setPaymentModalVisibility } from "../actions/tab.action";
 import { useSelector } from "react-redux";
+import BillStack from "./stacks";
 
 const Tab = createBottomTabNavigator()
 
@@ -57,7 +58,7 @@ const Tabs = () => {
         >
             <Tab.Screen
                 name="Home"
-                component={Home}
+                component={BillStack}
                 options={{
                     tabBarIcon: ({ focused }) => {
                         if (!visibility) {

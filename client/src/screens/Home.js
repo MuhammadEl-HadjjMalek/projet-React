@@ -8,15 +8,15 @@ import MainLayout from "../MainLayout";
 
 const { billData } = data;
 
-const HomeScreen = () => {
+const HomeScreen = ({ navigation }) => {
 
     const renderBillInfoSection = () => {
         return (
             <View
                 style={{
-                    paddingHorizontal: SIZES.padding,
-                    borderBottomLeftRadius: 25,
-                    borderBottomRightRadius: 25,
+                    paddingHorizontal: SIZES.base,
+                    borderBottomLeftRadius: 20,
+                    borderBottomRightRadius: 20,
                     paddingBottom: 5,
                     backgroundColor: COLORS.gray
                 }}
@@ -27,7 +27,8 @@ const HomeScreen = () => {
                     displayAmount="25,000"
                     consInKw={23.4}
                     containerStyle={{
-                        marginTop: 10
+                        marginTop: 10,
+                        padding: SIZES.base
                     }}
                 />
                 {/* Buttons */}
@@ -41,7 +42,7 @@ const HomeScreen = () => {
                 >
                     <IconTextButton
                         label="Voir"
-                        icon={<FontAwesome name="eye" size={24} color="black" />}
+                        icon={<FontAwesome name="eye" size={20} color="black" />}
                         containerStyle={{
                             flex: 1,
                             height: 40,
@@ -52,7 +53,7 @@ const HomeScreen = () => {
 
                     <IconTextButton
                         label="Regler"
-                        icon={<Entypo name="stopwatch" size={24} color="black" />}
+                        icon={<Entypo name="stopwatch" size={20} color="black" />}
                         containerStyle={{
                             flex: 1,
                             height: 40,
@@ -114,21 +115,21 @@ const HomeScreen = () => {
                                     borderBottomWidth: 0.4,
                                     borderBottomColor: COLORS.lightGray3
                                 }}
-                                onPress={() => console.log("Button Pressed.")}
+                                onPress={() => navigation.navigate("Detail", { item })}
                             >
                                 {/* Icon */}
                                 <View
                                     style={{ width: 35 }}
                                 >
-                                    <Ionicons name="md-receipt" size={24} color={item.isPaid ? COLORS.lightGreen : COLORS.red} />
+                                    <Ionicons name="md-receipt" size={28} color={item.isPaid ? COLORS.lightGreen : COLORS.red} />
                                 </View>
                                 {/* From | Cons - Price */}
                                 <View
                                     style={{
-                                        flex: 1
+                                        flex: 3,
                                     }}
                                 >
-                                    <Text style={{ color: COLORS.lightGray3, ...FONTS.h3 }}>
+                                    <Text style={{ color: COLORS.lightGray3, ...FONTS.h6 }}>
                                         {item.from}
                                     </Text>
                                     <Text style={{ color: COLORS.white, ...FONTS.h5 }}>
@@ -139,14 +140,15 @@ const HomeScreen = () => {
                                     <View
                                         style={{
                                             flexDirection: "row",
-                                            alignItems: "flex-end",
-                                            marginTop: -5
+                                            alignItems: "center",
+                                            justifyContent: "flex-start",
+                                            marginTop: -3
                                         }}
                                     >
                                         {item.consInKw > 20 ? (
-                                            <Feather name="arrow-up-right" size={10} color={COLORS.red} style={{ paddingBottom: 3 }} />
+                                            <Feather name="arrow-up-right" size={10} color={COLORS.red} />
                                         ) : (
-                                            <Feather name="arrow-down-left" size={10} color={COLORS.lightGreen} style={{ paddingBottom: 3 }} />
+                                            <Feather name="arrow-down-left" size={10} color={COLORS.lightGreen} />
                                         )}
                                         <Text style={{
                                             color: item.consInKw > 20 ? COLORS.red : COLORS.lightGreen,
@@ -159,13 +161,14 @@ const HomeScreen = () => {
                                 <View
                                     style={{
                                         flex: 1,
+                                        alignContent: 'space-between',
                                     }}
                                 >
                                     <Text
                                         style={{
                                             textAlign: "right",
                                             color: COLORS.lightGray3,
-                                            ...FONTS.h5
+                                            ...FONTS.h6
                                         }}
                                     >
                                         Date
@@ -179,8 +182,8 @@ const HomeScreen = () => {
                                                 justifyContent: "flex-end"
                                             }}
                                         >
-                                            <Text style={{ color: COLORS.lightGreen, ...FONTS.h4 }}>Payé</Text>
-                                            <Entypo name="check" size={18} color={COLORS.lightGreen} />
+                                            <Text style={{ color: COLORS.lightGreen, ...FONTS.h6 }}>Payé</Text>
+                                            <Entypo name="check" size={10} color={COLORS.lightGreen} />
                                         </View>
                                     ) : (
                                         <View
@@ -190,8 +193,8 @@ const HomeScreen = () => {
                                                 justifyContent: "flex-end"
                                             }}
                                         >
-                                            <Text style={{ color: COLORS.red, ...FONTS.h4 }}>Non Payé</Text>
-                                            <FontAwesome name="exclamation" size={18} color={COLORS.red} />                                        
+                                            <Text style={{ color: COLORS.red, ...FONTS.h6 }}>Non Payé</Text>
+                                            <FontAwesome name="exclamation" size={10} color={COLORS.red} />
                                         </View>
                                     )}
 

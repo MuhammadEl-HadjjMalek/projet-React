@@ -15,10 +15,10 @@ const BillInfo = ({ title, displayAmount, consInKw, containerStyle }) => {
                     justifyContent: "space-between",
                 }}
             >
-                <Text style={{ ...FONTS.h3, color: COLORS.lightGray3 }}>
+                <Text style={{ ...FONTS.h4, color: COLORS.lightGray3 }}>
                     {title}
                 </Text>
-                <Text style={{ ...FONTS.h5, color: COLORS.lightGray3 }}>
+                <Text style={{ ...FONTS.h6, color: COLORS.lightGray3 }}>
                     Jeu, 05 2021
                 </Text>
             </View>
@@ -27,10 +27,11 @@ const BillInfo = ({ title, displayAmount, consInKw, containerStyle }) => {
             <View
                 style={{
                     flexDirection: "row",
-                    alignItems: "flex-end"
+                    alignItems: "center",
+                    justifyContent: 'flex-start'
                 }}
             >
-                <FontAwesome name="money" size={24} color={COLORS.lightGray3} style={{ paddingBottom: 2 }} />
+                <FontAwesome name="money" size={24} color={COLORS.lightGray3}  />
                 <Text style={{ marginLeft: SIZES.base, ...FONTS.h2, color: COLORS.white }}>{displayAmount.toLocaleString()}</Text>
                 <Text style={{ color: COLORS.lightGray3, ...FONTS.h3 }}> XOF </Text>
             </View>
@@ -39,7 +40,8 @@ const BillInfo = ({ title, displayAmount, consInKw, containerStyle }) => {
             <View
                 style={{
                     flexDirection: "row",
-                    alignItems: "flex-end"
+                    alignItems: "center",
+                    justifyContent: "flex-start"
                 }}
             >
                 {consInKw > 20 ? (

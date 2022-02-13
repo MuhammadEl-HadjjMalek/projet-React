@@ -20,7 +20,7 @@ const IconTextButton = ({ label, icon, containerStyle, onPress }) => {
             <Text
                 style={{
                     marginLeft: SIZES.base,
-                    ...FONTS.h3
+                    ...FONTS.h4
                 }}
             >
                 {label}

@@ -181,8 +181,7 @@ const Register = ({ navigation }) => {
           <View
             style={{
               alignSelf: 'center',
-              width: '35%',
-              height: 1,
+              width: '100%',
               marginVertical: SIZES.padding,
               backgroundColor: COLORS.secondary
             }}
@@ -222,7 +221,7 @@ const Register = ({ navigation }) => {
           >
             <Text
               style={{
-                color: COLORS.secondary,
+                color: COLORS.white,
                 ...FONTS.body5
               }}
             >

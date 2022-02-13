@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { View, Text, ScrollView, TouchableOpacity, Switch } from "react-native";
+import { View, Text, ScrollView, TouchableOpacity, Switch, SafeAreaView } from "react-native";
 import { HeaderBar } from "../components";
 import { COLORS, FONTS, SIZES, data } from "../constants";
 import MainLayout from "../MainLayout";
@@ -33,21 +33,22 @@ const Setting = ({ title, value, type, unit, onPress }) => {
                 style={{
                     flexDirection: "row",
                     height: 50,
-                    alignItems: "center"
+                    alignItems: "baseline",
                 }}
                 onPress={onPress}
             >
-                <Text style={{ flex: 1, color: COLORS.white, ...FONTS.h4 }}>{title}</Text>
+                <Text style={{ flex: 1, color: COLORS.white, ...FONTS.h5 }}>{title}</Text>
                 <View
                     style={{
                         flexDirection: "row",
-                        alignItems: "center"
+                        alignItems: "center",
+                        justifyContent: "center"
                     }}
                 >
-                    <Text style={{ marginLeft: SIZES.radius, color: COLORS.lightGray3, ...FONTS.h4 }}>
+                    <Text style={{ marginLeft: SIZES.radius, color: COLORS.lightGray3, ...FONTS.h6 }}>
                         {value} {unit}
                     </Text>
-                    <Entypo name="chevron-right" size={24} color={COLORS.white} />
+                    <Entypo name="chevron-right" size={20} color={COLORS.white} />
                 </View>
             </TouchableOpacity>
         )
@@ -60,7 +61,7 @@ const Setting = ({ title, value, type, unit, onPress }) => {
                     alignItems: "center"
                 }}
             >
-                <Text style={{ flex: 1, color: COLORS.white, ...FONTS.h4}}>
+                <Text style={{ flex: 1, color: COLORS.white, ...FONTS.h5}}>
                     {title}
                 </Text>
 
@@ -79,7 +80,7 @@ const Settings = () => {
 
     return (
         <MainLayout>
-            <View
+            <SafeAreaView
                 style={{
                     flex: 1,
                     paddingHorizontal: SIZES.padding,
@@ -105,7 +106,7 @@ const Settings = () => {
                                 flex: 1
                             }}
                         >
-                            <Text style={{ color: COLORS.white, ...FONTS.h4 }}>
+                            <Text style={{ color: COLORS.white, ...FONTS.h5 }}>
                                 {profile.email}
                             </Text>
                             <Text style={{ color: COLORS.lightGray3, ...FONTS.body5 }}>ID: {profile.id}</Text>
@@ -185,7 +186,7 @@ const Settings = () => {
                     
 
                 </ScrollView>
-            </View>
+            </SafeAreaView>
         </MainLayout>
     )
 }

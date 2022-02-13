@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text } from 'react-native';
+import { Text, View } from 'react-native';
 import { COLORS, FONTS, SIZES } from '../constants';
 
 const HeaderBar = ({ title }) => {
@@ -7,12 +7,12 @@ const HeaderBar = ({ title }) => {
     <View
         style={{
             height: 100,
-            paddingHorizontal: SIZES.radius,
-            justifyContent: "flex-end"
+            alignItems: "flex-start",
+            justifyContent: "center"
         }}
     >
       <Text
-        style={{ color: COLORS.white, ...FONTS.largeTitle }}
+        style={{ color: COLORS.white, ...FONTS.h1 }}
       >
         { title }
       </Text>
