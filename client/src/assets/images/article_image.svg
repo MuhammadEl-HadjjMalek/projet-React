@@ -1,0 +1,2610 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="180.31848mm"
+   height="165.17407mm"
+   viewBox="0 0 180.31847 165.17408"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Senegal electricity production.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath26">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.84 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path24" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath42">
+      <path
+         d="M 97.37,209.95 H 473.68 V 594.68 H 97.37 Z"
+         clip-rule="evenodd"
+         id="path40" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath52">
+      <path
+         d="M 97.37,209.95 H 473.68 V 594.68 H 97.37 Z"
+         clip-rule="evenodd"
+         id="path50" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath62">
+      <path
+         d="M 97.37,209.95 H 473.68 V 594.68 H 97.37 Z"
+         clip-rule="evenodd"
+         id="path60" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath72">
+      <path
+         d="M 97.37,209.95 H 473.68 V 594.68 H 97.37 Z"
+         clip-rule="evenodd"
+         id="path70" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath82">
+      <path
+         d="M 97.37,209.95 H 473.68 V 594.68 H 97.37 Z"
+         clip-rule="evenodd"
+         id="path80" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath92">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path90" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath104">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path102" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath116">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path114" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath128">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path126" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath140">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path138" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath152">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path150" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath164">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path162" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath176">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path174" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath188">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path186" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath200">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path198" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath212">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path210" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath224">
+      <path
+         d="M 561.54,624.84 V 167.28 H 50.43 v 457.56 z"
+         clip-rule="evenodd"
+         id="path222" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath234">
+      <path
+         d="M 561.54,624.84 V 167.28 H 50.43 v 457.56 z"
+         clip-rule="evenodd"
+         id="path232" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath244">
+      <path
+         d="M 561.54,624.84 V 167.28 H 50.43 v 457.56 z"
+         clip-rule="evenodd"
+         id="path242" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath254">
+      <path
+         d="M 561.54,624.84 V 167.28 H 50.43 v 457.56 z"
+         clip-rule="evenodd"
+         id="path252" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath264">
+      <path
+         d="M 50.43,624.84 H 561.54 V 167.28 H 50.43 Z"
+         clip-rule="evenodd"
+         id="path262" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath274">
+      <path
+         d="M 561.54,624.84 V 167.28 H 50.43 v 457.56 z"
+         clip-rule="evenodd"
+         id="path272" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath284">
+      <path
+         d="M 561.54,624.84 V 167.28 H 50.43 v 457.56 z"
+         clip-rule="evenodd"
+         id="path282" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath294">
+      <path
+         d="M 50.43,624.84 H 561.54 V 167.28 H 50.43 Z"
+         clip-rule="evenodd"
+         id="path292" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath304">
+      <path
+         d="M 561.54,624.84 V 167.28 H 50.43 v 457.56 z"
+         clip-rule="evenodd"
+         id="path302" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath314">
+      <path
+         d="M 561.54,624.84 V 167.28 H 50.43 v 457.56 z"
+         clip-rule="evenodd"
+         id="path312" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath324">
+      <path
+         d="M 561.54,624.84 V 167.28 H 50.43 v 457.56 z"
+         clip-rule="evenodd"
+         id="path322" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath334">
+      <path
+         d="M 561.54,624.84 V 167.28 H 50.43 v 457.56 z"
+         clip-rule="evenodd"
+         id="path332" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath344">
+      <path
+         d="M 561.54,624.84 V 167.28 H 50.43 v 457.56 z"
+         clip-rule="evenodd"
+         id="path342" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath354">
+      <path
+         d="M 561.54,624.84 V 167.28 H 50.43 v 457.56 z"
+         clip-rule="evenodd"
+         id="path352" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath364">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path362" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath376">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path374" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath388">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path386" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath400">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path398" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath412">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path410" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath634">
+      <path
+         d="M 50.4,177.84 H 561.6 V 614.16 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path632" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath650">
+      <path
+         d="m 97.297,218.62 h 388.34 V 585.34 H 97.297 Z"
+         clip-rule="evenodd"
+         id="path648" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath660">
+      <path
+         d="m 97.297,218.62 h 388.34 V 585.34 H 97.297 Z"
+         clip-rule="evenodd"
+         id="path658" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath670">
+      <path
+         d="m 97.297,218.62 h 388.34 V 585.34 H 97.297 Z"
+         clip-rule="evenodd"
+         id="path668" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath680">
+      <path
+         d="m 97.297,218.62 h 388.34 V 585.34 H 97.297 Z"
+         clip-rule="evenodd"
+         id="path678" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath690">
+      <path
+         d="m 97.297,218.62 h 388.34 V 585.34 H 97.297 Z"
+         clip-rule="evenodd"
+         id="path688" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath700">
+      <path
+         d="M 50.52,177.84 H 561.6 v 436.2 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path698" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath712">
+      <path
+         d="M 50.52,177.84 H 561.6 v 436.2 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path710" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath724">
+      <path
+         d="M 50.52,177.84 H 561.6 v 436.2 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path722" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath736">
+      <path
+         d="M 50.52,177.84 H 561.6 v 436.2 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path734" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath748">
+      <path
+         d="M 50.52,177.84 H 561.6 v 436.2 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path746" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath760">
+      <path
+         d="M 50.52,177.84 H 561.6 v 436.2 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path758" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath772">
+      <path
+         d="M 50.52,177.84 H 561.6 v 436.2 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path770" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath784">
+      <path
+         d="M 50.52,177.84 H 561.6 v 436.2 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path782" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath796">
+      <path
+         d="M 50.52,177.84 H 561.6 v 436.2 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path794" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath808">
+      <path
+         d="M 50.52,177.84 H 561.6 v 436.2 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path806" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath820">
+      <path
+         d="M 50.52,177.84 H 561.6 v 436.2 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path818" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath832">
+      <path
+         d="M 561.6,614.05 V 177.84 H 50.438 v 436.21 z"
+         clip-rule="evenodd"
+         id="path830" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath842">
+      <path
+         d="M 561.6,614.05 V 177.84 H 50.438 v 436.21 z"
+         clip-rule="evenodd"
+         id="path840" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath852">
+      <path
+         d="M 561.6,614.05 V 177.84 H 50.438 v 436.21 z"
+         clip-rule="evenodd"
+         id="path850" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath862">
+      <path
+         d="M 561.6,614.05 V 177.84 H 50.438 v 436.21 z"
+         clip-rule="evenodd"
+         id="path860" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath872">
+      <path
+         d="M 561.6,614.05 V 177.84 H 50.438 v 436.21 z"
+         clip-rule="evenodd"
+         id="path870" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath882">
+      <path
+         d="M 561.6,614.05 V 177.84 H 50.438 v 436.21 z"
+         clip-rule="evenodd"
+         id="path880" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath892">
+      <path
+         d="M 561.6,614.05 V 177.84 H 50.438 v 436.21 z"
+         clip-rule="evenodd"
+         id="path890" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath902">
+      <path
+         d="M 561.6,614.05 V 177.84 H 50.438 v 436.21 z"
+         clip-rule="evenodd"
+         id="path900" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath912">
+      <path
+         d="M 561.6,614.05 V 177.84 H 50.438 v 436.21 z"
+         clip-rule="evenodd"
+         id="path910" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath922">
+      <path
+         d="M 561.6,614.05 V 177.84 H 50.438 v 436.21 z"
+         clip-rule="evenodd"
+         id="path920" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath932">
+      <path
+         d="M 561.6,614.05 V 177.84 H 50.438 v 436.21 z"
+         clip-rule="evenodd"
+         id="path930" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath942">
+      <path
+         d="M 561.6,614.05 V 177.84 H 50.438 v 436.21 z"
+         clip-rule="evenodd"
+         id="path940" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath952">
+      <path
+         d="M 561.6,614.05 V 177.84 H 50.438 v 436.21 z"
+         clip-rule="evenodd"
+         id="path950" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath962">
+      <path
+         d="M 561.6,614.05 V 177.84 H 50.438 v 436.21 z"
+         clip-rule="evenodd"
+         id="path960" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath972">
+      <path
+         d="M 50.52,177.84 H 561.6 v 436.2 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path970" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath984">
+      <path
+         d="M 50.52,177.84 H 561.6 v 436.2 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path982" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath996">
+      <path
+         d="M 50.52,177.84 H 561.6 v 436.2 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path994" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1008">
+      <path
+         d="M 50.52,177.84 H 561.6 v 436.2 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1006" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1020">
+      <path
+         d="M 50.52,177.84 H 561.6 v 436.2 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1018" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1242">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path1240" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1258">
+      <path
+         d="m 97.439,209.97 h 386.7 v 384.57 h -386.7 z"
+         clip-rule="evenodd"
+         id="path1256" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1268">
+      <path
+         d="m 97.439,209.97 h 386.7 v 384.57 h -386.7 z"
+         clip-rule="evenodd"
+         id="path1266" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1278">
+      <path
+         d="m 97.439,209.97 h 386.7 v 384.57 h -386.7 z"
+         clip-rule="evenodd"
+         id="path1276" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1288">
+      <path
+         d="m 97.439,209.97 h 386.7 v 384.57 h -386.7 z"
+         clip-rule="evenodd"
+         id="path1286" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1298">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.72 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1296" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1310">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.72 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1308" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1322">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.72 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1320" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1334">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.72 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1332" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1346">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.72 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1344" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1358">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.72 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1356" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1370">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.72 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1368" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1382">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.72 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1380" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1394">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.72 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1392" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1406">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.72 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1404" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1418">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.72 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1416" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1430">
+      <path
+         d="M 561.6,624.72 V 167.28 H 50.508 v 457.44 z"
+         clip-rule="evenodd"
+         id="path1428" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1440">
+      <path
+         d="M 561.6,624.72 V 167.28 H 50.508 v 457.44 z"
+         clip-rule="evenodd"
+         id="path1438" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1450">
+      <path
+         d="M 561.6,624.72 V 167.28 H 50.508 v 457.44 z"
+         clip-rule="evenodd"
+         id="path1448" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1460">
+      <path
+         d="M 561.6,624.72 V 167.28 H 50.508 v 457.44 z"
+         clip-rule="evenodd"
+         id="path1458" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1470">
+      <path
+         d="M 561.6,624.72 V 167.28 H 50.508 v 457.44 z"
+         clip-rule="evenodd"
+         id="path1468" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1480">
+      <path
+         d="M 561.6,624.72 V 167.28 H 50.508 v 457.44 z"
+         clip-rule="evenodd"
+         id="path1478" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1490">
+      <path
+         d="M 561.6,624.72 V 167.28 H 50.508 v 457.44 z"
+         clip-rule="evenodd"
+         id="path1488" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1500">
+      <path
+         d="M 561.6,624.72 V 167.28 H 50.508 v 457.44 z"
+         clip-rule="evenodd"
+         id="path1498" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1510">
+      <path
+         d="M 561.6,624.72 V 167.28 H 50.508 v 457.44 z"
+         clip-rule="evenodd"
+         id="path1508" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1520">
+      <path
+         d="M 561.6,624.72 V 167.28 H 50.508 v 457.44 z"
+         clip-rule="evenodd"
+         id="path1518" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1530">
+      <path
+         d="M 561.6,624.72 V 167.28 H 50.508 v 457.44 z"
+         clip-rule="evenodd"
+         id="path1528" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1540">
+      <path
+         d="M 561.6,624.72 V 167.28 H 50.508 v 457.44 z"
+         clip-rule="evenodd"
+         id="path1538" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1550">
+      <path
+         d="M 561.6,624.72 V 167.28 H 50.508 v 457.44 z"
+         clip-rule="evenodd"
+         id="path1548" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1560">
+      <path
+         d="M 561.6,624.72 V 167.28 H 50.508 v 457.44 z"
+         clip-rule="evenodd"
+         id="path1558" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1570">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.72 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1568" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1582">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.72 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1580" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1594">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.72 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1592" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1606">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.72 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1604" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1618">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.72 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1616" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1835">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.84 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path1833" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1851">
+      <path
+         d="m 97.395,209.98 h 388.29 V 594.64 H 97.395 Z"
+         clip-rule="evenodd"
+         id="path1849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1861">
+      <path
+         d="m 97.395,209.98 h 388.29 V 594.64 H 97.395 Z"
+         clip-rule="evenodd"
+         id="path1859" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1871">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1869" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1883">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1881" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1895">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1893" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1907">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1905" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1919">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1917" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1931">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1929" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1943">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1941" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1955">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1953" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1967">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1965" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1979">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1977" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1991">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path1989" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2005">
+      <path
+         d="M 561.57,624.84 V 167.28 H 50.463 v 457.56 z"
+         clip-rule="evenodd"
+         id="path2003" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2015">
+      <path
+         d="M 50.463,624.84 H 561.57 V 167.28 H 50.463 Z"
+         clip-rule="evenodd"
+         id="path2013" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2025">
+      <path
+         d="M 561.57,624.84 V 167.28 H 50.464 l -10e-4,457.56 z"
+         clip-rule="evenodd"
+         id="path2023" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2035">
+      <path
+         d="M 561.57,624.84 V 167.28 H 50.463 v 457.56 z"
+         clip-rule="evenodd"
+         id="path2033" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2045">
+      <path
+         d="M 50.463,624.84 H 561.57 V 167.28 H 50.463 Z"
+         clip-rule="evenodd"
+         id="path2043" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2055">
+      <path
+         d="M 50.463,624.84 H 561.57 V 167.28 H 50.463 Z"
+         clip-rule="evenodd"
+         id="path2053" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2065">
+      <path
+         d="M 561.57,624.84 V 167.28 H 50.463 v 457.56 z"
+         clip-rule="evenodd"
+         id="path2063" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2075">
+      <path
+         d="M 561.57,624.84 V 167.28 H 50.464 l -10e-4,457.56 z"
+         clip-rule="evenodd"
+         id="path2073" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2085">
+      <path
+         d="M 561.57,624.84 V 167.28 H 50.464 l -10e-4,457.56 z"
+         clip-rule="evenodd"
+         id="path2083" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2095">
+      <path
+         d="M 50.463,624.84 H 561.57 V 167.28 H 50.463 Z"
+         clip-rule="evenodd"
+         id="path2093" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2105">
+      <path
+         d="M 561.57,624.84 V 167.28 H 50.464 l -10e-4,457.56 z"
+         clip-rule="evenodd"
+         id="path2103" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2115">
+      <path
+         d="M 561.57,624.84 V 167.28 H 50.464 v 457.56 z"
+         clip-rule="evenodd"
+         id="path2113" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2125">
+      <path
+         d="M 50.463,624.84 H 561.57 V 167.28 H 50.464 Z"
+         clip-rule="evenodd"
+         id="path2123" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2135">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path2133" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2147">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path2145" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2159">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path2157" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2171">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path2169" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2183">
+      <path
+         d="M 50.52,167.28 H 561.6 V 624.84 H 50.52 Z"
+         clip-rule="evenodd"
+         id="path2181" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2386">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2384" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2402">
+      <path
+         d="m 97.288,209.95 h 374.01 V 594.59 H 97.288 Z"
+         clip-rule="evenodd"
+         id="path2400" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2412">
+      <path
+         d="m 97.288,209.95 h 374.01 V 594.59 H 97.288 Z"
+         clip-rule="evenodd"
+         id="path2410" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2422">
+      <path
+         d="m 97.288,209.95 h 374.01 V 594.59 H 97.288 Z"
+         clip-rule="evenodd"
+         id="path2420" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2432">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2430" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2444">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2442" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2456">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2454" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2468">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2466" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2480">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2478" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2492">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2490" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2504">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2502" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2516">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2514" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2528">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2526" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2540">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2538" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2552">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2550" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2564">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2562" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2576">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2574" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2588">
+      <path
+         d="M 561.55,624.72 V 167.28 H 50.4 v 457.44 z"
+         clip-rule="evenodd"
+         id="path2586" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2598">
+      <path
+         d="M 561.55,624.72 V 167.28 H 50.4 v 457.44 z"
+         clip-rule="evenodd"
+         id="path2596" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2608">
+      <path
+         d="M 561.55,624.72 V 167.28 H 50.4 v 457.44 z"
+         clip-rule="evenodd"
+         id="path2606" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2618">
+      <path
+         d="M 50.4,624.72 H 561.55 V 167.28 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2616" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2628">
+      <path
+         d="M 561.55,624.72 V 167.28 H 50.4 v 457.44 z"
+         clip-rule="evenodd"
+         id="path2626" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2638">
+      <path
+         d="M 50.4,624.72 H 561.55 V 167.28 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2636" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2650">
+      <path
+         d="M 561.55,624.72 V 167.28 H 50.4 v 457.44 z"
+         clip-rule="evenodd"
+         id="path2648" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2660">
+      <path
+         d="M 561.55,624.72 V 167.28 H 50.4 v 457.44 z"
+         clip-rule="evenodd"
+         id="path2658" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2670">
+      <path
+         d="M 561.55,624.72 V 167.28 H 50.4 v 457.44 z"
+         clip-rule="evenodd"
+         id="path2668" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2680">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2678" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2692">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2690" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2704">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2702" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2716">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2714" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2728">
+      <path
+         d="M 50.4,167.28 H 561.6 V 624.72 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2726" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2928">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2926" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2944">
+      <path
+         d="m 97.344,205.73 h 383.55 V 599.38 H 97.344 Z"
+         clip-rule="evenodd"
+         id="path2942" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2954">
+      <path
+         d="m 97.344,205.73 h 383.55 V 599.38 H 97.344 Z"
+         clip-rule="evenodd"
+         id="path2952" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2964">
+      <path
+         d="m 97.344,205.73 h 383.55 V 599.38 H 97.344 Z"
+         clip-rule="evenodd"
+         id="path2962" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2974">
+      <path
+         d="m 97.344,205.73 h 383.55 V 599.38 H 97.344 Z"
+         clip-rule="evenodd"
+         id="path2972" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2984">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2982" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2996">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path2994" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3008">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3006" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3020">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3018" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3032">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3030" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3044">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3042" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3056">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3054" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3068">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3066" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3080">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3078" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3092">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3090" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3104">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3102" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3116">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3114" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3128">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3126" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3140">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3138" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3152">
+      <path
+         d="M 561.6,630.24 V 161.88 H 50.4 v 468.36 z"
+         clip-rule="evenodd"
+         id="path3150" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3162">
+      <path
+         d="M 561.6,630.24 V 161.88 H 50.4 v 468.36 z"
+         clip-rule="evenodd"
+         id="path3160" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3174">
+      <path
+         d="M 50.4,630.24 H 561.6 V 161.88 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3172" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3184">
+      <path
+         d="M 50.4,630.24 H 561.6 V 161.88 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3182" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3196">
+      <path
+         d="M 561.6,630.24 V 161.88 H 50.4 v 468.36 z"
+         clip-rule="evenodd"
+         id="path3194" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3206">
+      <path
+         d="M 561.6,630.24 V 161.88 H 50.4 v 468.36 z"
+         clip-rule="evenodd"
+         id="path3204" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3216">
+      <path
+         d="M 561.6,630.24 V 161.88 H 50.4 v 468.36 z"
+         clip-rule="evenodd"
+         id="path3214" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3226">
+      <path
+         d="M 561.6,630.24 V 161.88 H 50.4 v 468.36 z"
+         clip-rule="evenodd"
+         id="path3224" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3236">
+      <path
+         d="M 561.6,630.24 V 161.88 H 50.4 v 468.36 z"
+         clip-rule="evenodd"
+         id="path3234" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3246">
+      <path
+         d="M 561.6,630.24 V 161.88 H 50.4 v 468.36 z"
+         clip-rule="evenodd"
+         id="path3244" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3256">
+      <path
+         d="M 561.6,630.24 V 161.88 H 50.4 v 468.36 z"
+         clip-rule="evenodd"
+         id="path3254" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3266">
+      <path
+         d="M 561.6,630.24 V 161.88 H 50.4 v 468.36 z"
+         clip-rule="evenodd"
+         id="path3264" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3276">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3274" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3288">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3286" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3300">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3298" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3312">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3310" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3324">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.24 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3322" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3551">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3549" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3567">
+      <path
+         d="m 97.312,205.6 h 390.66 V 599.27 H 97.312 Z"
+         clip-rule="evenodd"
+         id="path3565" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3577">
+      <path
+         d="m 97.312,205.6 h 390.66 V 599.27 H 97.312 Z"
+         clip-rule="evenodd"
+         id="path3575" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3587">
+      <path
+         d="m 97.312,205.6 h 390.66 V 599.27 H 97.312 Z"
+         clip-rule="evenodd"
+         id="path3585" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3597">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3595" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3609">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3607" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3621">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3619" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3633">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3631" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3645">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3643" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3657">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3655" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3669">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3667" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3681">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3679" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3693">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3691" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3705">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3703" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3717">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3715" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3729">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3727" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3741">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3739" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3753">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3751" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3765">
+      <path
+         d="M 561.57,630.12 V 161.88 H 50.4 v 468.24 z"
+         clip-rule="evenodd"
+         id="path3763" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3775">
+      <path
+         d="M 561.57,630.12 V 161.88 H 50.4 v 468.24 z"
+         clip-rule="evenodd"
+         id="path3773" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3785">
+      <path
+         d="M 50.4,630.12 H 561.57 V 161.88 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3783" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3795">
+      <path
+         d="M 561.57,630.12 V 161.88 H 50.4 v 468.24 z"
+         clip-rule="evenodd"
+         id="path3793" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3805">
+      <path
+         d="M 50.4,630.12 H 561.57 V 161.88 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3803" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3815">
+      <path
+         d="M 50.4,630.12 H 561.57 V 161.88 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3813" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3825">
+      <path
+         d="M 561.57,630.12 V 161.88 H 50.4 v 468.24 z"
+         clip-rule="evenodd"
+         id="path3823" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3835">
+      <path
+         d="M 561.57,630.12 V 161.88 H 50.4 v 468.24 z"
+         clip-rule="evenodd"
+         id="path3833" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3845">
+      <path
+         d="M 561.57,630.12 V 161.88 H 50.4 v 468.24 z"
+         clip-rule="evenodd"
+         id="path3843" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3855">
+      <path
+         d="M 561.57,630.12 V 161.88 H 50.4 v 468.24 z"
+         clip-rule="evenodd"
+         id="path3853" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3865">
+      <path
+         d="M 561.57,630.12 V 161.88 H 50.4 v 468.24 z"
+         clip-rule="evenodd"
+         id="path3863" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3875">
+      <path
+         d="M 561.57,630.12 V 161.88 H 50.4 v 468.24 z"
+         clip-rule="evenodd"
+         id="path3873" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3885">
+      <path
+         d="M 561.57,630.12 V 161.88 H 50.4 v 468.24 z"
+         clip-rule="evenodd"
+         id="path3883" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3895">
+      <path
+         d="M 561.57,630.12 V 161.88 H 50.4 v 468.24 z"
+         clip-rule="evenodd"
+         id="path3893" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3905">
+      <path
+         d="M 561.57,630.12 V 161.88 H 50.4 v 468.24 z"
+         clip-rule="evenodd"
+         id="path3903" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3915">
+      <path
+         d="M 561.57,630.12 V 161.88 H 50.4 v 468.24 z"
+         clip-rule="evenodd"
+         id="path3913" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3925">
+      <path
+         d="M 561.57,630.12 V 161.88 H 50.4 v 468.24 z"
+         clip-rule="evenodd"
+         id="path3923" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3935">
+      <path
+         d="M 561.57,630.12 V 161.88 H 50.4 v 468.24 z"
+         clip-rule="evenodd"
+         id="path3933" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3945">
+      <path
+         d="M 561.57,630.12 V 161.88 H 50.4 v 468.24 z"
+         clip-rule="evenodd"
+         id="path3943" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3955">
+      <path
+         d="M 561.57,630.12 V 161.88 H 50.4 v 468.24 z"
+         clip-rule="evenodd"
+         id="path3953" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3965">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3963" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3977">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3975" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3989">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3987" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4001">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path3999" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4013">
+      <path
+         d="M 50.4,161.88 H 561.6 V 630.12 H 50.4 Z"
+         clip-rule="evenodd"
+         id="path4011" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="667.99911"
+     inkscape:cy="775.00659"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1278"
+     inkscape:window-height="1378"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(70.908093,56.887155)">
+    <g
+       id="g3543"
+       inkscape:label="Senegal electricity production"
+       transform="matrix(0.35277777,0,0,-0.35277777,-88.709612,165.39459)">
+      <g
+         id="g3545">
+        <g
+           id="g3547"
+           clip-path="url(#clipPath3551)">
+          <path
+             d="m 50.461,161.76 h 511.2 v 468.33 h -511.2 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path3553" />
+        </g>
+      </g>
+      <path
+         d="M 97.339,249.8 H 487.5 M 97.339,293.46 H 487.5 M 97.339,337.12 H 487.5 M 97.339,380.88 H 487.5 M 97.339,424.54 H 487.5 M 97.339,468.2 H 487.5 M 97.339,511.86 H 487.5 M 97.339,555.61 H 487.5 M 97.339,599.26 H 487.5"
+         style="fill:none;stroke:#d9d9d9;stroke-width:0.55353;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path3555" />
+      <path
+         d="M 97.339,206.11 H 487.5"
+         style="fill:none;stroke:#d9d9d9;stroke-width:0.55353;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path3557" />
+      <path
+         d="m 97.339,206.11 v -4.22 m 10.251,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.28,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.28,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.28,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.19,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.28,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.28,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.28,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.28,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.28,4.22 v -4.22 m 10.18,4.22 v -4.22 m 10.28,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.28,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.28,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.27,4.22 v -4.22 m 10.28,4.22 v -4.22 m 10.24,4.22 v -4.22"
+         style="fill:none;stroke:#d9d9d9;stroke-width:0.55353;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path3559" />
+      <g
+         id="g3561">
+        <g
+           id="g3563"
+           clip-path="url(#clipPath3567)">
+          <path
+             d="m 97.339,258.09 10.251,3.04 10.27,0.54 10.27,-2.22 10.28,3.54 10.27,4.96 10.27,0.27 10.28,-7.53 10.27,-2.12 10.27,17.62 10.28,4.87 10.27,2.04 10.19,6.91 10.27,-1.07 10.27,2.75 10.28,3.99 10.27,5.31 10.27,7.17 10.28,5.41 10.27,3.27 10.28,10.45 10.27,20.99 10.27,-8.32 10.28,-1.6 10.27,12.76 10.27,25.86 10.28,3.45 10.18,22.14 10.28,5.94 10.27,4.43 10.27,11.33 10.28,4.52 10.27,23.03 10.27,10.98 10.28,28.61 10.27,19.04 10.27,22.58 10.28,17.36 10.24,4.17"
+             style="fill:none;stroke:#c55a11;stroke-width:2.5832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path3569" />
+        </g>
+      </g>
+      <g
+         id="g3571">
+        <g
+           id="g3573"
+           clip-path="url(#clipPath3577)">
+          <path
+             d="m 312.96,206.11 10.28,16.76 10.28,12.4 10.27,-3.8 10.27,-2.31 10.28,-2.74 10.18,-4.7 10.28,4.25 10.27,0.8 10.27,1.15 10.28,0.36 10.27,2.92 10.27,1.59 10.28,0.8 10.27,1.33 10.27,2.3 10.28,0.02 h 10.24"
+             style="fill:none;stroke:#4472c4;stroke-width:2.5832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path3579" />
+        </g>
+      </g>
+      <g
+         id="g3581">
+        <g
+           id="g3583"
+           clip-path="url(#clipPath3587)">
+          <path
+             d="m 189.75,206.11 10.3,3.83 h 10.27 10.19 l 10.27,0.09 h 10.27 l 10.28,0.09 10.27,0.09 10.27,0.09 10.28,0.09 10.27,0.09 10.28,0.26 10.27,0.8 10.27,0.71 10.28,-1.24 10.27,-0.98 10.27,0.89 10.28,-0.09 10.18,-1.24 10.28,0.27 10.27,0.88 10.27,2.13 10.28,0.26 10.27,-2.74 10.27,1.24 10.28,0.79 10.27,0.45 10.27,-0.71 10.28,9.32 10.24,-0.64"
+             style="fill:none;stroke:#70ad47;stroke-width:2.5832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path3589" />
+        </g>
+      </g>
+      <g
+         id="g3591">
+        <g
+           id="g3593"
+           clip-path="url(#clipPath3597)">
+          <text
+             transform="matrix(1,0,0,-1,493.82,549.98)"
+             style="font-variant:normal;font-weight:bold;font-size:13.296px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#843c0c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3601"><tspan
+               x="0 5.930016 13.083264 18.388369 23.693472 26.964289"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3599">Fossil</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3603">
+        <g
+           id="g3605"
+           clip-path="url(#clipPath3609)">
+          <text
+             transform="matrix(1,0,0,-1,493.8,237.6)"
+             style="font-variant:normal;font-weight:bold;font-size:13.272px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#2f5597;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3613"><tspan
+               x="0 8.4144478 14.53284 21.69972 26.2122"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3611">Hydro</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3615">
+        <g
+           id="g3617"
+           clip-path="url(#clipPath3621)">
+          <text
+             transform="matrix(1,0,0,-1,510.22,224.33)"
+             style="font-variant:normal;font-weight:bold;font-size:13.272px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#548235;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3625"><tspan
+               x="0 8.9718723 13.577256 20.704321 27.446495"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3623">Other</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3627">
+        <g
+           id="g3629"
+           clip-path="url(#clipPath3633)">
+          <text
+             transform="matrix(1,0,0,-1,493.03,208.13)"
+             style="font-variant:normal;font-weight:bold;font-size:13.296px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#548235;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3637"><tspan
+               x="0 7.2463198 13.934208 21.127344 27.748753 37.49472 44.062943 51.202896 54.473713 61.18819"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3635">Renewables</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3639">
+        <g
+           id="g3641"
+           clip-path="url(#clipPath3645)">
+          <text
+             transform="matrix(1,0,0,-1,82.512,203.06)"
+             style="font-variant:normal;font-weight:normal;font-size:10.368px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3649"><tspan
+               x="0"
+               y="0"
+               id="tspan3647">0</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3651">
+        <g
+           id="g3653"
+           clip-path="url(#clipPath3657)">
+          <text
+             transform="matrix(1,0,0,-1,74.664,246.74)"
+             style="font-variant:normal;font-weight:normal;font-size:10.344px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3661"><tspan
+               x="0 5.2444081 7.8821278"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3659">0.5</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3663">
+        <g
+           id="g3665"
+           clip-path="url(#clipPath3669)">
+          <text
+             transform="matrix(1,0,0,-1,82.512,290.45)"
+             style="font-variant:normal;font-weight:normal;font-size:10.368px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3673"><tspan
+               x="0"
+               y="0"
+               id="tspan3671">1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3675">
+        <g
+           id="g3677"
+           clip-path="url(#clipPath3681)">
+          <text
+             transform="matrix(1,0,0,-1,74.664,334.13)"
+             style="font-variant:normal;font-weight:normal;font-size:10.368px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3685"><tspan
+               x="0 5.2565761 7.8693118"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3683">1.5</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3687">
+        <g
+           id="g3689"
+           clip-path="url(#clipPath3693)">
+          <text
+             transform="matrix(1,0,0,-1,82.512,377.83)"
+             style="font-variant:normal;font-weight:normal;font-size:10.368px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3697"><tspan
+               x="0"
+               y="0"
+               id="tspan3695">2</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3699">
+        <g
+           id="g3701"
+           clip-path="url(#clipPath3705)">
+          <text
+             transform="matrix(1,0,0,-1,74.664,421.51)"
+             style="font-variant:normal;font-weight:normal;font-size:10.368px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3709"><tspan
+               x="0 5.2565761 7.8693118"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3707">2.5</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3711">
+        <g
+           id="g3713"
+           clip-path="url(#clipPath3717)">
+          <text
+             transform="matrix(1,0,0,-1,82.512,465.22)"
+             style="font-variant:normal;font-weight:normal;font-size:10.368px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3721"><tspan
+               x="0"
+               y="0"
+               id="tspan3719">3</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3723">
+        <g
+           id="g3725"
+           clip-path="url(#clipPath3729)">
+          <text
+             transform="matrix(1,0,0,-1,74.664,508.9)"
+             style="font-variant:normal;font-weight:normal;font-size:10.368px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3733"><tspan
+               x="0 5.2565761 7.8693118"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3731">3.5</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3735">
+        <g
+           id="g3737"
+           clip-path="url(#clipPath3741)">
+          <text
+             transform="matrix(1,0,0,-1,82.512,552.6)"
+             style="font-variant:normal;font-weight:normal;font-size:10.368px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3745"><tspan
+               x="0"
+               y="0"
+               id="tspan3743">4</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3747">
+        <g
+           id="g3749"
+           clip-path="url(#clipPath3753)">
+          <text
+             transform="matrix(1,0,0,-1,74.664,596.28)"
+             style="font-variant:normal;font-weight:normal;font-size:10.368px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3757"><tspan
+               x="0 5.2565761 7.8693118"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3755">4.5</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3759">
+        <g
+           id="g3761"
+           clip-path="url(#clipPath3765)">
+          <path
+             d="m 98.681,184.78 c -0.058,-0.06 -0.112,-0.11 -0.16,-0.14 -0.049,-0.03 -0.094,-0.05 -0.133,-0.06 -0.04,0 -0.075,0 -0.106,0 -0.031,0.01 -0.057,0.03 -0.078,0.05 l -3.101,3.1 c -0.021,0.02 -0.036,0.05 -0.043,0.08 -0.008,0.03 -0.008,0.06 0,0.1 0.007,0.04 0.027,0.09 0.057,0.14 0.031,0.05 0.075,0.1 0.133,0.16 0.055,0.05 0.107,0.1 0.156,0.13 0.049,0.03 0.093,0.05 0.133,0.06 0.04,0.01 0.077,0.02 0.11,0.01 0.034,-0.01 0.063,-0.02 0.087,-0.05 l 1.239,-1.23 4.515,4.51 -1.832,0.46 c -0.089,0.03 -0.154,0.06 -0.195,0.09 -0.041,0.03 -0.063,0.06 -0.064,0.1 -0.002,0.04 0.017,0.09 0.055,0.14 0.038,0.06 0.092,0.12 0.163,0.19 0.052,0.05 0.098,0.09 0.14,0.13 0.041,0.03 0.078,0.05 0.112,0.07 0.034,0.01 0.068,0.02 0.103,0.02 0.038,0 0.078,0 0.118,-0.01 l 2.25,-0.49 c 0.02,0 0.04,-0.01 0.07,-0.02 0.02,-0.01 0.05,-0.03 0.08,-0.05 0.04,-0.02 0.07,-0.05 0.11,-0.09 0.04,-0.03 0.09,-0.08 0.14,-0.13 0.07,-0.08 0.13,-0.14 0.17,-0.2 0.05,-0.05 0.08,-0.1 0.09,-0.14 0.02,-0.03 0.03,-0.07 0.02,-0.09 -0.01,-0.03 -0.02,-0.05 -0.04,-0.07 l -5.216,-5.21 1.073,-1.08 c 0.025,-0.02 0.041,-0.05 0.048,-0.09 0.008,-0.03 0.006,-0.07 -0.007,-0.11 -0.012,-0.04 -0.034,-0.08 -0.066,-0.13 -0.032,-0.05 -0.076,-0.1 -0.131,-0.15 z m 7.679,-1.9 c -0.25,-0.26 -0.53,-0.51 -0.82,-0.74 -0.3,-0.23 -0.6,-0.43 -0.92,-0.6 -0.31,-0.17 -0.64,-0.3 -0.98,-0.39 -0.33,-0.09 -0.68,-0.12 -1.02,-0.09 -0.35,0.03 -0.7,0.13 -1.05,0.3 -0.34,0.17 -0.69,0.42 -1.03,0.76 -0.13,0.13 -0.25,0.27 -0.36,0.41 -0.11,0.14 -0.199,0.27 -0.274,0.4 -0.074,0.12 -0.132,0.23 -0.172,0.33 -0.039,0.09 -0.061,0.17 -0.064,0.23 -0.003,0.05 0.012,0.11 0.046,0.17 0.034,0.07 0.09,0.14 0.17,0.22 0.067,0.06 0.124,0.11 0.164,0.15 0.05,0.03 0.09,0.06 0.12,0.07 0.03,0.01 0.05,0.01 0.08,0 0.02,0 0.05,-0.02 0.07,-0.05 0.04,-0.03 0.07,-0.09 0.11,-0.17 0.04,-0.09 0.09,-0.19 0.16,-0.31 0.06,-0.12 0.15,-0.26 0.25,-0.4 0.1,-0.15 0.23,-0.3 0.39,-0.46 0.29,-0.3 0.6,-0.49 0.93,-0.59 0.33,-0.1 0.66,-0.12 0.98,-0.06 0.33,0.06 0.65,0.18 0.97,0.37 0.33,0.18 0.63,0.41 0.92,0.69 -0.26,0.07 -0.54,0.18 -0.84,0.33 -0.3,0.15 -0.59,0.37 -0.89,0.67 -0.33,0.33 -0.56,0.65 -0.69,0.97 -0.14,0.31 -0.2,0.61 -0.18,0.91 0.02,0.29 0.11,0.57 0.27,0.85 0.15,0.27 0.35,0.53 0.61,0.79 0.26,0.26 0.55,0.47 0.86,0.63 0.32,0.16 0.64,0.25 0.99,0.27 0.34,0.02 0.69,-0.04 1.05,-0.19 0.35,-0.14 0.71,-0.39 1.06,-0.74 0.24,-0.24 0.43,-0.49 0.56,-0.75 0.13,-0.25 0.2,-0.51 0.23,-0.77 0.02,-0.26 0,-0.52 -0.07,-0.78 -0.07,-0.27 -0.18,-0.53 -0.33,-0.8 -0.15,-0.27 -0.34,-0.55 -0.56,-0.82 -0.22,-0.27 -0.47,-0.54 -0.74,-0.81 z m -0.71,0.89 c 0.39,0.39 0.69,0.74 0.91,1.06 0.21,0.32 0.35,0.61 0.42,0.88 0.06,0.27 0.06,0.51 -0.02,0.73 -0.07,0.22 -0.2,0.43 -0.4,0.62 -0.19,0.2 -0.4,0.33 -0.61,0.4 -0.22,0.07 -0.43,0.09 -0.64,0.06 -0.21,-0.03 -0.41,-0.1 -0.61,-0.21 -0.19,-0.11 -0.37,-0.25 -0.53,-0.41 -0.19,-0.18 -0.33,-0.37 -0.44,-0.55 -0.11,-0.19 -0.18,-0.38 -0.2,-0.57 -0.02,-0.19 0.02,-0.38 0.1,-0.58 0.08,-0.19 0.22,-0.39 0.42,-0.59 0.23,-0.23 0.49,-0.42 0.77,-0.56 0.28,-0.15 0.56,-0.24 0.83,-0.28 z m 3.88,-7.42 c -0.25,-0.26 -0.53,-0.44 -0.82,-0.55 -0.29,-0.11 -0.59,-0.15 -0.9,-0.11 -0.31,0.03 -0.63,0.14 -0.95,0.33 -0.33,0.18 -0.65,0.43 -0.98,0.76 -0.31,0.31 -0.55,0.61 -0.73,0.92 -0.17,0.3 -0.28,0.6 -0.33,0.9 -0.04,0.29 -0.01,0.57 0.08,0.85 0.1,0.27 0.26,0.52 0.5,0.76 0.18,0.18 0.39,0.32 0.6,0.42 0.22,0.09 0.45,0.15 0.7,0.17 0.24,0.01 0.51,0 0.79,-0.06 0.28,-0.05 0.58,-0.13 0.9,-0.24 -0.09,0.28 -0.15,0.54 -0.19,0.79 -0.03,0.24 -0.04,0.48 -0.01,0.7 0.02,0.22 0.08,0.43 0.17,0.62 0.09,0.19 0.22,0.37 0.39,0.53 0.2,0.21 0.44,0.37 0.69,0.48 0.26,0.1 0.53,0.15 0.82,0.13 0.28,-0.02 0.58,-0.1 0.89,-0.26 0.32,-0.15 0.63,-0.39 0.94,-0.7 0.3,-0.3 0.52,-0.59 0.67,-0.89 0.15,-0.29 0.23,-0.56 0.25,-0.83 0.02,-0.27 -0.03,-0.52 -0.13,-0.75 -0.1,-0.24 -0.24,-0.45 -0.44,-0.64 -0.15,-0.16 -0.33,-0.29 -0.52,-0.38 -0.2,-0.09 -0.41,-0.15 -0.63,-0.18 -0.23,-0.03 -0.47,-0.03 -0.72,0 -0.26,0.03 -0.52,0.08 -0.81,0.17 0.11,-0.32 0.2,-0.63 0.25,-0.91 0.06,-0.28 0.08,-0.55 0.07,-0.79 -0.02,-0.25 -0.07,-0.47 -0.16,-0.68 -0.08,-0.2 -0.21,-0.39 -0.39,-0.56 z m 2.06,4.03 c 0.13,0.13 0.22,0.27 0.28,0.42 0.06,0.15 0.09,0.3 0.07,0.46 -0.01,0.16 -0.06,0.32 -0.15,0.48 -0.09,0.17 -0.21,0.33 -0.37,0.49 -0.33,0.34 -0.66,0.51 -0.98,0.53 -0.32,0.02 -0.61,-0.1 -0.87,-0.36 -0.12,-0.12 -0.21,-0.25 -0.27,-0.39 -0.06,-0.15 -0.09,-0.31 -0.1,-0.49 0,-0.18 0.02,-0.38 0.06,-0.6 0.05,-0.22 0.12,-0.47 0.21,-0.74 0.46,-0.15 0.88,-0.22 1.23,-0.19 0.36,0.03 0.66,0.16 0.89,0.39 z m -2.94,-3.32 c 0.14,0.14 0.25,0.3 0.31,0.46 0.06,0.17 0.09,0.35 0.08,0.56 0,0.2 -0.04,0.43 -0.1,0.68 -0.07,0.25 -0.15,0.53 -0.26,0.84 -0.29,0.1 -0.55,0.17 -0.79,0.22 -0.24,0.05 -0.46,0.08 -0.65,0.07 -0.19,-0.01 -0.37,-0.04 -0.53,-0.11 -0.16,-0.06 -0.31,-0.16 -0.44,-0.3 -0.3,-0.29 -0.43,-0.62 -0.38,-0.99 0.04,-0.37 0.26,-0.75 0.66,-1.15 0.39,-0.4 0.77,-0.61 1.14,-0.65 0.36,-0.03 0.68,0.09 0.96,0.37 z m 7.16,-4.08 c -0.45,-0.45 -0.9,-0.83 -1.35,-1.14 -0.45,-0.3 -0.89,-0.5 -1.33,-0.61 -0.44,-0.1 -0.87,-0.09 -1.28,0.03 -0.42,0.12 -0.83,0.38 -1.22,0.77 -0.37,0.37 -0.62,0.75 -0.74,1.14 -0.13,0.39 -0.14,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.31,0.45 0.71,0.91 1.2,1.4 0.45,0.46 0.9,0.83 1.36,1.14 0.45,0.3 0.89,0.51 1.33,0.61 0.43,0.11 0.86,0.1 1.28,-0.02 0.41,-0.12 0.82,-0.38 1.21,-0.77 0.37,-0.38 0.62,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.11,-0.41 -0.31,-0.84 -0.63,-1.29 -0.31,-0.44 -0.71,-0.91 -1.2,-1.4 z m -0.86,0.76 c 0.3,0.29 0.55,0.57 0.77,0.83 0.21,0.25 0.39,0.49 0.53,0.72 0.14,0.22 0.24,0.43 0.3,0.62 0.07,0.2 0.09,0.38 0.09,0.56 -0.01,0.17 -0.06,0.34 -0.13,0.5 -0.08,0.15 -0.2,0.3 -0.34,0.45 -0.26,0.26 -0.54,0.41 -0.82,0.45 -0.29,0.04 -0.58,0 -0.89,-0.12 -0.31,-0.12 -0.62,-0.31 -0.94,-0.56 -0.32,-0.26 -0.65,-0.55 -0.98,-0.88 -0.44,-0.44 -0.8,-0.84 -1.06,-1.2 -0.26,-0.36 -0.44,-0.68 -0.54,-0.98 -0.1,-0.29 -0.11,-0.56 -0.05,-0.8 0.07,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.54,-0.37 0.18,-0.07 0.37,-0.11 0.57,-0.1 0.19,0.01 0.39,0.06 0.6,0.14 0.2,0.08 0.41,0.19 0.62,0.33 0.21,0.14 0.43,0.3 0.64,0.49 0.22,0.19 0.44,0.4 0.66,0.62 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3767" />
+        </g>
+      </g>
+      <g
+         id="g3769">
+        <g
+           id="g3771"
+           clip-path="url(#clipPath3775)">
+          <path
+             d="m 119.22,184.78 c -0.06,-0.06 -0.12,-0.11 -0.16,-0.14 -0.05,-0.03 -0.1,-0.05 -0.14,-0.06 -0.04,0 -0.07,0 -0.1,0 -0.03,0.01 -0.06,0.03 -0.08,0.05 l -3.1,3.1 c -0.02,0.02 -0.04,0.05 -0.05,0.08 0,0.03 0,0.06 0,0.1 0.01,0.04 0.03,0.09 0.06,0.14 0.03,0.05 0.08,0.1 0.14,0.16 0.05,0.05 0.1,0.1 0.15,0.13 0.05,0.03 0.09,0.05 0.13,0.06 0.04,0.01 0.08,0.02 0.11,0.01 0.04,-0.01 0.07,-0.02 0.09,-0.05 l 1.24,-1.23 4.51,4.51 -1.83,0.46 c -0.09,0.03 -0.15,0.06 -0.19,0.09 -0.04,0.03 -0.06,0.06 -0.07,0.1 0,0.04 0.02,0.09 0.06,0.14 0.04,0.06 0.09,0.12 0.16,0.19 0.05,0.05 0.1,0.09 0.14,0.13 0.04,0.03 0.08,0.05 0.11,0.07 0.04,0.01 0.07,0.02 0.11,0.02 0.03,0 0.07,0 0.12,-0.01 l 2.24,-0.49 c 0.02,0 0.05,-0.01 0.07,-0.02 0.03,-0.01 0.05,-0.03 0.09,-0.05 0.03,-0.02 0.07,-0.05 0.11,-0.09 0.03,-0.03 0.08,-0.08 0.14,-0.13 0.07,-0.08 0.13,-0.14 0.17,-0.2 0.04,-0.05 0.07,-0.1 0.09,-0.14 0.02,-0.03 0.02,-0.07 0.01,-0.09 0,-0.03 -0.02,-0.05 -0.04,-0.07 l -5.21,-5.21 1.07,-1.08 c 0.03,-0.02 0.04,-0.05 0.05,-0.09 0.01,-0.03 0.01,-0.07 -0.01,-0.11 -0.01,-0.04 -0.03,-0.08 -0.06,-0.13 -0.04,-0.05 -0.08,-0.1 -0.13,-0.15 z m 7.68,-1.9 c -0.26,-0.26 -0.53,-0.51 -0.83,-0.74 -0.29,-0.23 -0.6,-0.43 -0.91,-0.6 -0.32,-0.17 -0.65,-0.3 -0.98,-0.39 -0.34,-0.09 -0.68,-0.12 -1.03,-0.09 -0.34,0.03 -0.69,0.13 -1.04,0.3 -0.35,0.17 -0.7,0.42 -1.04,0.76 -0.13,0.13 -0.25,0.27 -0.36,0.41 -0.1,0.14 -0.19,0.27 -0.27,0.4 -0.07,0.12 -0.13,0.23 -0.17,0.33 -0.04,0.09 -0.06,0.17 -0.06,0.23 -0.01,0.05 0.01,0.11 0.04,0.17 0.03,0.07 0.09,0.14 0.17,0.22 0.07,0.06 0.12,0.11 0.17,0.15 0.04,0.03 0.08,0.06 0.11,0.07 0.03,0.01 0.06,0.01 0.08,0 0.03,0 0.05,-0.02 0.08,-0.05 0.03,-0.03 0.07,-0.09 0.1,-0.17 0.04,-0.09 0.09,-0.19 0.16,-0.31 0.07,-0.12 0.15,-0.26 0.25,-0.4 0.11,-0.15 0.23,-0.3 0.39,-0.46 0.3,-0.3 0.61,-0.49 0.94,-0.59 0.32,-0.1 0.65,-0.12 0.98,-0.06 0.32,0.06 0.65,0.18 0.97,0.37 0.32,0.18 0.63,0.41 0.91,0.69 -0.25,0.07 -0.53,0.18 -0.83,0.33 -0.3,0.15 -0.6,0.37 -0.89,0.67 -0.33,0.33 -0.56,0.65 -0.7,0.97 -0.13,0.31 -0.19,0.61 -0.17,0.91 0.02,0.29 0.11,0.57 0.26,0.85 0.15,0.27 0.36,0.53 0.61,0.79 0.27,0.26 0.55,0.47 0.87,0.63 0.31,0.16 0.64,0.25 0.98,0.27 0.34,0.02 0.69,-0.04 1.05,-0.19 0.36,-0.14 0.71,-0.39 1.06,-0.74 0.25,-0.24 0.44,-0.49 0.57,-0.75 0.12,-0.25 0.2,-0.51 0.22,-0.77 0.03,-0.26 0,-0.52 -0.07,-0.78 -0.07,-0.27 -0.18,-0.53 -0.33,-0.8 -0.15,-0.27 -0.33,-0.55 -0.55,-0.82 -0.22,-0.27 -0.47,-0.54 -0.74,-0.81 z m -0.72,0.89 c 0.39,0.39 0.7,0.74 0.91,1.06 0.22,0.32 0.36,0.61 0.42,0.88 0.07,0.27 0.06,0.51 -0.01,0.73 -0.08,0.22 -0.21,0.43 -0.4,0.62 -0.2,0.2 -0.41,0.33 -0.62,0.4 -0.21,0.07 -0.42,0.09 -0.63,0.06 -0.21,-0.03 -0.42,-0.1 -0.61,-0.21 -0.2,-0.11 -0.38,-0.25 -0.54,-0.41 -0.18,-0.18 -0.33,-0.37 -0.44,-0.55 -0.11,-0.19 -0.17,-0.38 -0.19,-0.57 -0.02,-0.19 0.01,-0.38 0.09,-0.58 0.08,-0.19 0.22,-0.39 0.43,-0.59 0.22,-0.23 0.48,-0.42 0.76,-0.56 0.29,-0.15 0.56,-0.24 0.83,-0.28 z m 3.89,-7.42 c -0.26,-0.26 -0.53,-0.44 -0.82,-0.55 -0.3,-0.11 -0.6,-0.15 -0.91,-0.11 -0.31,0.03 -0.62,0.14 -0.95,0.33 -0.32,0.18 -0.65,0.43 -0.98,0.76 -0.3,0.31 -0.54,0.61 -0.72,0.92 -0.18,0.3 -0.29,0.6 -0.33,0.9 -0.04,0.29 -0.02,0.57 0.08,0.85 0.09,0.27 0.26,0.52 0.49,0.76 0.19,0.18 0.39,0.32 0.61,0.42 0.22,0.09 0.45,0.15 0.69,0.17 0.25,0.01 0.51,0 0.8,-0.06 0.28,-0.05 0.58,-0.13 0.89,-0.24 -0.09,0.28 -0.15,0.54 -0.18,0.79 -0.04,0.24 -0.04,0.48 -0.02,0.7 0.03,0.22 0.09,0.43 0.18,0.62 0.09,0.19 0.22,0.37 0.38,0.53 0.21,0.21 0.44,0.37 0.7,0.48 0.26,0.1 0.53,0.15 0.81,0.13 0.29,-0.02 0.59,-0.1 0.9,-0.26 0.31,-0.15 0.62,-0.39 0.93,-0.7 0.3,-0.3 0.53,-0.59 0.67,-0.89 0.15,-0.29 0.23,-0.56 0.25,-0.83 0.02,-0.27 -0.02,-0.52 -0.12,-0.75 -0.1,-0.24 -0.25,-0.45 -0.44,-0.64 -0.16,-0.16 -0.33,-0.29 -0.53,-0.38 -0.19,-0.09 -0.4,-0.15 -0.63,-0.18 -0.22,-0.03 -0.46,-0.03 -0.72,0 -0.25,0.03 -0.52,0.08 -0.8,0.17 0.11,-0.32 0.19,-0.63 0.25,-0.91 0.06,-0.28 0.08,-0.55 0.06,-0.79 -0.01,-0.25 -0.06,-0.47 -0.15,-0.68 -0.09,-0.2 -0.22,-0.39 -0.39,-0.56 z m 2.05,4.03 c 0.13,0.13 0.23,0.27 0.29,0.42 0.06,0.15 0.08,0.3 0.07,0.46 -0.01,0.16 -0.06,0.32 -0.15,0.48 -0.09,0.17 -0.22,0.33 -0.38,0.49 -0.33,0.34 -0.65,0.51 -0.97,0.53 -0.32,0.02 -0.61,-0.1 -0.87,-0.36 -0.12,-0.12 -0.21,-0.25 -0.27,-0.39 -0.07,-0.15 -0.1,-0.31 -0.1,-0.49 -0.01,-0.18 0.01,-0.38 0.06,-0.6 0.05,-0.22 0.11,-0.47 0.2,-0.74 0.47,-0.15 0.88,-0.22 1.24,-0.19 0.36,0.03 0.65,0.16 0.88,0.39 z m -2.93,-3.32 c 0.14,0.14 0.24,0.3 0.3,0.46 0.07,0.17 0.1,0.35 0.09,0.56 -0.01,0.2 -0.04,0.43 -0.11,0.68 -0.06,0.25 -0.15,0.53 -0.25,0.84 -0.29,0.1 -0.55,0.17 -0.79,0.22 -0.24,0.05 -0.46,0.08 -0.66,0.07 -0.19,-0.01 -0.37,-0.04 -0.53,-0.11 -0.15,-0.06 -0.3,-0.16 -0.44,-0.3 -0.29,-0.29 -0.42,-0.62 -0.38,-0.99 0.04,-0.37 0.26,-0.75 0.67,-1.15 0.39,-0.4 0.77,-0.61 1.13,-0.65 0.37,-0.03 0.69,0.09 0.97,0.37 z m 4.32,-6.52 c -0.06,-0.06 -0.11,-0.1 -0.16,-0.14 -0.05,-0.03 -0.1,-0.06 -0.14,-0.07 -0.04,-0.02 -0.08,-0.02 -0.12,-0.01 -0.04,0.01 -0.07,0.03 -0.1,0.05 l -3.27,3.28 c -0.05,0.05 -0.08,0.09 -0.1,0.13 -0.02,0.05 -0.03,0.09 -0.03,0.14 0,0.05 0.02,0.1 0.05,0.15 0.04,0.06 0.09,0.12 0.16,0.19 0.06,0.06 0.11,0.11 0.17,0.15 0.05,0.04 0.1,0.07 0.15,0.09 0.05,0.02 0.1,0.04 0.16,0.05 0.06,0.01 0.13,0.02 0.21,0.02 l 2.4,0.03 c 0.56,0.01 1.03,0.04 1.42,0.1 0.39,0.06 0.72,0.14 0.99,0.23 0.28,0.09 0.5,0.2 0.68,0.32 0.18,0.12 0.33,0.25 0.46,0.38 0.14,0.13 0.24,0.28 0.31,0.44 0.08,0.16 0.11,0.33 0.12,0.5 0,0.18 -0.03,0.35 -0.1,0.53 -0.08,0.18 -0.2,0.35 -0.36,0.51 -0.19,0.19 -0.39,0.34 -0.6,0.44 -0.2,0.1 -0.39,0.18 -0.57,0.23 -0.18,0.06 -0.33,0.1 -0.46,0.12 -0.13,0.03 -0.21,0.06 -0.25,0.1 -0.02,0.02 -0.03,0.05 -0.04,0.08 -0.01,0.03 0,0.06 0.02,0.1 0.01,0.04 0.04,0.08 0.08,0.13 0.04,0.06 0.09,0.11 0.16,0.18 0.04,0.04 0.08,0.08 0.12,0.11 0.04,0.03 0.07,0.06 0.1,0.07 0.04,0.02 0.07,0.03 0.1,0.04 0.04,0.01 0.09,0.02 0.16,0.01 0.06,0 0.17,-0.02 0.32,-0.06 0.14,-0.03 0.31,-0.09 0.5,-0.18 0.19,-0.08 0.38,-0.18 0.58,-0.31 0.2,-0.13 0.39,-0.28 0.58,-0.46 0.28,-0.29 0.49,-0.58 0.63,-0.88 0.13,-0.29 0.2,-0.58 0.2,-0.87 0,-0.28 -0.05,-0.55 -0.17,-0.81 -0.12,-0.25 -0.28,-0.49 -0.49,-0.7 -0.19,-0.19 -0.4,-0.36 -0.62,-0.51 -0.22,-0.16 -0.49,-0.29 -0.82,-0.4 -0.33,-0.11 -0.73,-0.2 -1.2,-0.26 -0.47,-0.06 -1.05,-0.1 -1.74,-0.11 l -1.92,-0.04 2.58,-2.58 c 0.02,-0.03 0.04,-0.06 0.05,-0.09 0.01,-0.04 0.01,-0.08 0,-0.12 -0.01,-0.05 -0.03,-0.1 -0.07,-0.14 -0.03,-0.05 -0.08,-0.1 -0.13,-0.16 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3777" />
+        </g>
+      </g>
+      <g
+         id="g3779">
+        <g
+           id="g3781"
+           clip-path="url(#clipPath3785)">
+          <path
+             d="m 139.75,184.78 c -0.06,-0.06 -0.11,-0.11 -0.16,-0.14 -0.05,-0.03 -0.09,-0.05 -0.13,-0.06 -0.04,0 -0.08,0 -0.11,0 -0.03,0.01 -0.05,0.03 -0.08,0.05 l -3.1,3.1 c -0.02,0.02 -0.03,0.05 -0.04,0.08 -0.01,0.03 -0.01,0.06 0,0.1 0.01,0.04 0.03,0.09 0.06,0.14 0.03,0.05 0.07,0.1 0.13,0.16 0.06,0.05 0.11,0.1 0.16,0.13 0.04,0.03 0.09,0.05 0.13,0.06 0.04,0.01 0.08,0.02 0.11,0.01 0.03,-0.01 0.06,-0.02 0.09,-0.05 l 1.23,-1.23 4.52,4.51 -1.83,0.46 c -0.09,0.03 -0.16,0.06 -0.2,0.09 -0.04,0.03 -0.06,0.06 -0.06,0.1 0,0.04 0.02,0.09 0.05,0.14 0.04,0.06 0.1,0.12 0.17,0.19 0.05,0.05 0.1,0.09 0.14,0.13 0.04,0.03 0.08,0.05 0.11,0.07 0.03,0.01 0.07,0.02 0.1,0.02 0.04,0 0.08,0 0.12,-0.01 l 2.25,-0.49 c 0.02,0 0.04,-0.01 0.07,-0.02 0.02,-0.01 0.05,-0.03 0.08,-0.05 0.04,-0.02 0.07,-0.05 0.11,-0.09 0.04,-0.03 0.09,-0.08 0.14,-0.13 0.07,-0.08 0.13,-0.14 0.17,-0.2 0.05,-0.05 0.08,-0.1 0.09,-0.14 0.02,-0.03 0.03,-0.07 0.02,-0.09 -0.01,-0.03 -0.02,-0.05 -0.04,-0.07 l -5.22,-5.21 1.08,-1.08 c 0.02,-0.02 0.04,-0.05 0.05,-0.09 0,-0.03 0,-0.07 -0.01,-0.11 -0.01,-0.04 -0.04,-0.08 -0.07,-0.13 -0.03,-0.05 -0.07,-0.1 -0.13,-0.15 z m 7.68,-1.9 c -0.25,-0.26 -0.53,-0.51 -0.82,-0.74 -0.3,-0.23 -0.6,-0.43 -0.92,-0.6 -0.31,-0.17 -0.64,-0.3 -0.98,-0.39 -0.33,-0.09 -0.68,-0.12 -1.02,-0.09 -0.35,0.03 -0.7,0.13 -1.05,0.3 -0.34,0.17 -0.69,0.42 -1.03,0.76 -0.13,0.13 -0.25,0.27 -0.36,0.41 -0.11,0.14 -0.2,0.27 -0.27,0.4 -0.08,0.12 -0.14,0.23 -0.18,0.33 -0.04,0.09 -0.06,0.17 -0.06,0.23 0,0.05 0.01,0.11 0.05,0.17 0.03,0.07 0.09,0.14 0.17,0.22 0.06,0.06 0.12,0.11 0.16,0.15 0.05,0.03 0.09,0.06 0.12,0.07 0.03,0.01 0.05,0.01 0.08,0 0.02,0 0.05,-0.02 0.07,-0.05 0.04,-0.03 0.07,-0.09 0.11,-0.17 0.04,-0.09 0.09,-0.19 0.16,-0.31 0.06,-0.12 0.15,-0.26 0.25,-0.4 0.1,-0.15 0.23,-0.3 0.39,-0.46 0.29,-0.3 0.6,-0.49 0.93,-0.59 0.33,-0.1 0.66,-0.12 0.98,-0.06 0.33,0.06 0.65,0.18 0.97,0.37 0.33,0.18 0.63,0.41 0.92,0.69 -0.26,0.07 -0.54,0.18 -0.84,0.33 -0.3,0.15 -0.59,0.37 -0.89,0.67 -0.33,0.33 -0.56,0.65 -0.69,0.97 -0.14,0.31 -0.2,0.61 -0.18,0.91 0.02,0.29 0.11,0.57 0.27,0.85 0.15,0.27 0.35,0.53 0.61,0.79 0.26,0.26 0.55,0.47 0.86,0.63 0.32,0.16 0.64,0.25 0.99,0.27 0.34,0.02 0.69,-0.04 1.05,-0.19 0.35,-0.14 0.71,-0.39 1.06,-0.74 0.24,-0.24 0.43,-0.49 0.56,-0.75 0.13,-0.25 0.2,-0.51 0.23,-0.77 0.02,-0.26 0,-0.52 -0.07,-0.78 -0.07,-0.27 -0.18,-0.53 -0.33,-0.8 -0.15,-0.27 -0.34,-0.55 -0.56,-0.82 -0.22,-0.27 -0.47,-0.54 -0.74,-0.81 z m -0.71,0.89 c 0.39,0.39 0.69,0.74 0.91,1.06 0.21,0.32 0.35,0.61 0.42,0.88 0.06,0.27 0.06,0.51 -0.02,0.73 -0.07,0.22 -0.2,0.43 -0.4,0.62 -0.19,0.2 -0.4,0.33 -0.61,0.4 -0.22,0.07 -0.43,0.09 -0.64,0.06 -0.21,-0.03 -0.41,-0.1 -0.61,-0.21 -0.19,-0.11 -0.37,-0.25 -0.53,-0.41 -0.19,-0.18 -0.33,-0.37 -0.44,-0.55 -0.11,-0.19 -0.18,-0.38 -0.2,-0.57 -0.02,-0.19 0.02,-0.38 0.1,-0.58 0.08,-0.19 0.22,-0.39 0.42,-0.59 0.23,-0.23 0.49,-0.42 0.77,-0.56 0.28,-0.15 0.56,-0.24 0.83,-0.28 z m 3.88,-7.42 c -0.25,-0.26 -0.53,-0.44 -0.82,-0.55 -0.29,-0.11 -0.59,-0.15 -0.9,-0.11 -0.31,0.03 -0.63,0.14 -0.95,0.33 -0.33,0.18 -0.65,0.43 -0.98,0.76 -0.31,0.31 -0.55,0.61 -0.73,0.92 -0.17,0.3 -0.28,0.6 -0.33,0.9 -0.04,0.29 -0.01,0.57 0.08,0.85 0.1,0.27 0.26,0.52 0.5,0.76 0.18,0.18 0.39,0.32 0.6,0.42 0.22,0.09 0.45,0.15 0.7,0.17 0.24,0.01 0.51,0 0.79,-0.06 0.28,-0.05 0.58,-0.13 0.9,-0.24 -0.09,0.28 -0.15,0.54 -0.19,0.79 -0.03,0.24 -0.04,0.48 -0.01,0.7 0.02,0.22 0.08,0.43 0.17,0.62 0.09,0.19 0.22,0.37 0.39,0.53 0.2,0.21 0.44,0.37 0.69,0.48 0.26,0.1 0.53,0.15 0.82,0.13 0.28,-0.02 0.58,-0.1 0.89,-0.26 0.32,-0.15 0.63,-0.39 0.94,-0.7 0.3,-0.3 0.52,-0.59 0.67,-0.89 0.15,-0.29 0.23,-0.56 0.25,-0.83 0.02,-0.27 -0.03,-0.52 -0.13,-0.75 -0.1,-0.24 -0.24,-0.45 -0.44,-0.64 -0.15,-0.16 -0.33,-0.29 -0.52,-0.38 -0.2,-0.09 -0.41,-0.15 -0.63,-0.18 -0.23,-0.03 -0.47,-0.03 -0.72,0 -0.26,0.03 -0.52,0.08 -0.81,0.17 0.11,-0.32 0.2,-0.63 0.25,-0.91 0.06,-0.28 0.08,-0.55 0.07,-0.79 -0.02,-0.25 -0.07,-0.47 -0.16,-0.68 -0.08,-0.2 -0.21,-0.39 -0.39,-0.56 z m 2.06,4.03 c 0.13,0.13 0.22,0.27 0.28,0.42 0.06,0.15 0.09,0.3 0.07,0.46 -0.01,0.16 -0.06,0.32 -0.15,0.48 -0.09,0.17 -0.21,0.33 -0.37,0.49 -0.33,0.34 -0.66,0.51 -0.98,0.53 -0.32,0.02 -0.61,-0.1 -0.87,-0.36 -0.12,-0.12 -0.21,-0.25 -0.27,-0.39 -0.06,-0.15 -0.09,-0.31 -0.1,-0.49 0,-0.18 0.02,-0.38 0.06,-0.6 0.05,-0.22 0.12,-0.47 0.21,-0.74 0.46,-0.15 0.88,-0.22 1.23,-0.19 0.36,0.03 0.66,0.16 0.89,0.39 z m -2.94,-3.32 c 0.14,0.14 0.25,0.3 0.31,0.46 0.06,0.17 0.09,0.35 0.08,0.56 0,0.2 -0.04,0.43 -0.1,0.68 -0.07,0.25 -0.15,0.53 -0.26,0.84 -0.29,0.1 -0.55,0.17 -0.79,0.22 -0.24,0.05 -0.46,0.08 -0.65,0.07 -0.2,-0.01 -0.37,-0.04 -0.53,-0.11 -0.16,-0.06 -0.31,-0.16 -0.44,-0.3 -0.3,-0.29 -0.43,-0.62 -0.38,-0.99 0.04,-0.37 0.26,-0.75 0.66,-1.15 0.39,-0.4 0.77,-0.61 1.14,-0.65 0.36,-0.03 0.68,0.09 0.96,0.37 z m 5.92,-5.42 c -0.1,-0.1 -0.19,-0.17 -0.28,-0.2 -0.09,-0.02 -0.16,-0.01 -0.22,0.04 l -0.67,0.67 -1.24,-1.24 c -0.03,-0.03 -0.05,-0.04 -0.08,-0.05 -0.03,0 -0.07,0.01 -0.11,0.03 -0.05,0.02 -0.1,0.05 -0.15,0.09 -0.06,0.05 -0.13,0.11 -0.21,0.19 -0.07,0.07 -0.13,0.14 -0.18,0.19 -0.04,0.06 -0.07,0.11 -0.09,0.15 -0.02,0.04 -0.02,0.08 -0.02,0.11 0.01,0.03 0.02,0.05 0.05,0.08 l 1.25,1.24 -2.43,2.43 c -0.04,0.04 -0.06,0.07 -0.08,0.11 -0.01,0.03 -0.02,0.07 -0.02,0.11 0.01,0.05 0.03,0.1 0.07,0.15 0.04,0.05 0.09,0.12 0.17,0.19 0.05,0.06 0.11,0.11 0.16,0.15 0.05,0.04 0.09,0.08 0.14,0.11 0.05,0.03 0.1,0.05 0.15,0.07 0.05,0.02 0.1,0.04 0.16,0.06 l 5.73,1.49 c 0.04,0.01 0.08,0.01 0.13,0 0.05,-0.01 0.1,-0.04 0.16,-0.07 0.06,-0.04 0.12,-0.09 0.2,-0.15 0.07,-0.06 0.15,-0.14 0.25,-0.24 0.1,-0.1 0.19,-0.19 0.25,-0.28 0.07,-0.08 0.12,-0.15 0.16,-0.21 0.03,-0.06 0.05,-0.11 0.06,-0.16 0,-0.04 -0.01,-0.08 -0.04,-0.11 l -3.78,-3.78 0.67,-0.67 c 0.05,-0.06 0.06,-0.12 0.04,-0.21 -0.02,-0.09 -0.09,-0.18 -0.2,-0.29 z m 1.95,5.21 -0.01,0.01 -5.16,-1.35 1.92,-1.92 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3787" />
+        </g>
+      </g>
+      <g
+         id="g3789">
+        <g
+           id="g3791"
+           clip-path="url(#clipPath3795)">
+          <path
+             d="m 160.29,184.78 c -0.06,-0.06 -0.12,-0.11 -0.16,-0.14 -0.05,-0.03 -0.1,-0.05 -0.14,-0.06 -0.04,0 -0.07,0 -0.1,0 -0.03,0.01 -0.06,0.03 -0.08,0.05 l -3.1,3.1 c -0.02,0.02 -0.04,0.05 -0.05,0.08 0,0.03 0,0.06 0,0.1 0.01,0.04 0.03,0.09 0.06,0.14 0.03,0.05 0.08,0.1 0.14,0.16 0.05,0.05 0.1,0.1 0.15,0.13 0.05,0.03 0.09,0.05 0.13,0.06 0.04,0.01 0.08,0.02 0.11,0.01 0.04,-0.01 0.07,-0.02 0.09,-0.05 l 1.24,-1.23 4.51,4.51 -1.83,0.46 c -0.09,0.03 -0.15,0.06 -0.19,0.09 -0.04,0.03 -0.06,0.06 -0.07,0.1 0,0.04 0.02,0.09 0.06,0.14 0.04,0.06 0.09,0.12 0.16,0.19 0.05,0.05 0.1,0.09 0.14,0.13 0.04,0.03 0.08,0.05 0.11,0.07 0.04,0.01 0.07,0.02 0.11,0.02 0.03,0 0.07,0 0.12,-0.01 l 2.24,-0.49 c 0.02,0 0.05,-0.01 0.07,-0.02 0.02,-0.01 0.05,-0.03 0.09,-0.05 0.03,-0.02 0.07,-0.05 0.11,-0.09 0.03,-0.03 0.08,-0.08 0.14,-0.13 0.07,-0.08 0.13,-0.14 0.17,-0.2 0.04,-0.05 0.07,-0.1 0.09,-0.14 0.02,-0.03 0.02,-0.07 0.01,-0.09 0,-0.03 -0.02,-0.05 -0.04,-0.07 l -5.21,-5.21 1.07,-1.08 c 0.03,-0.02 0.04,-0.05 0.05,-0.09 0.01,-0.03 0.01,-0.07 -0.01,-0.11 -0.01,-0.04 -0.03,-0.08 -0.06,-0.13 -0.04,-0.05 -0.08,-0.1 -0.13,-0.15 z m 7.68,-1.9 c -0.26,-0.26 -0.53,-0.51 -0.83,-0.74 -0.29,-0.23 -0.6,-0.43 -0.91,-0.6 -0.32,-0.17 -0.65,-0.3 -0.98,-0.39 -0.34,-0.09 -0.68,-0.12 -1.03,-0.09 -0.34,0.03 -0.69,0.13 -1.04,0.3 -0.35,0.17 -0.7,0.42 -1.04,0.76 -0.13,0.13 -0.25,0.27 -0.36,0.41 -0.1,0.14 -0.19,0.27 -0.27,0.4 -0.07,0.12 -0.13,0.23 -0.17,0.33 -0.04,0.09 -0.06,0.17 -0.06,0.23 -0.01,0.05 0.01,0.11 0.04,0.17 0.03,0.07 0.09,0.14 0.17,0.22 0.07,0.06 0.12,0.11 0.17,0.15 0.04,0.03 0.08,0.06 0.11,0.07 0.03,0.01 0.06,0.01 0.08,0 0.03,0 0.05,-0.02 0.08,-0.05 0.03,-0.03 0.07,-0.09 0.1,-0.17 0.04,-0.09 0.09,-0.19 0.16,-0.31 0.07,-0.12 0.15,-0.26 0.25,-0.4 0.1,-0.15 0.23,-0.3 0.39,-0.46 0.3,-0.3 0.61,-0.49 0.94,-0.59 0.32,-0.1 0.65,-0.12 0.98,-0.06 0.32,0.06 0.65,0.18 0.97,0.37 0.32,0.18 0.63,0.41 0.91,0.69 -0.25,0.07 -0.53,0.18 -0.83,0.33 -0.3,0.15 -0.6,0.37 -0.89,0.67 -0.33,0.33 -0.56,0.65 -0.7,0.97 -0.13,0.31 -0.19,0.61 -0.17,0.91 0.02,0.29 0.11,0.57 0.26,0.85 0.15,0.27 0.36,0.53 0.61,0.79 0.27,0.26 0.55,0.47 0.87,0.63 0.31,0.16 0.64,0.25 0.98,0.27 0.34,0.02 0.69,-0.04 1.05,-0.19 0.36,-0.14 0.71,-0.39 1.06,-0.74 0.25,-0.24 0.44,-0.49 0.57,-0.75 0.12,-0.25 0.2,-0.51 0.22,-0.77 0.03,-0.26 0,-0.52 -0.07,-0.78 -0.07,-0.27 -0.18,-0.53 -0.33,-0.8 -0.15,-0.27 -0.33,-0.55 -0.55,-0.82 -0.22,-0.27 -0.47,-0.54 -0.74,-0.81 z m -0.72,0.89 c 0.39,0.39 0.7,0.74 0.91,1.06 0.22,0.32 0.36,0.61 0.42,0.88 0.07,0.27 0.06,0.51 -0.01,0.73 -0.08,0.22 -0.21,0.43 -0.4,0.62 -0.2,0.2 -0.41,0.33 -0.62,0.4 -0.21,0.07 -0.42,0.09 -0.63,0.06 -0.21,-0.03 -0.42,-0.1 -0.61,-0.21 -0.2,-0.11 -0.38,-0.25 -0.54,-0.41 -0.18,-0.18 -0.33,-0.37 -0.44,-0.55 -0.11,-0.19 -0.17,-0.38 -0.19,-0.57 -0.02,-0.19 0.01,-0.38 0.09,-0.58 0.08,-0.19 0.22,-0.39 0.43,-0.59 0.22,-0.23 0.48,-0.42 0.76,-0.56 0.29,-0.15 0.56,-0.24 0.83,-0.28 z m 3.89,-7.42 c -0.26,-0.26 -0.53,-0.44 -0.82,-0.55 -0.3,-0.11 -0.6,-0.15 -0.91,-0.11 -0.31,0.03 -0.62,0.14 -0.95,0.33 -0.32,0.18 -0.65,0.43 -0.98,0.76 -0.3,0.31 -0.54,0.61 -0.72,0.92 -0.18,0.3 -0.29,0.6 -0.33,0.9 -0.04,0.29 -0.02,0.57 0.08,0.85 0.09,0.27 0.26,0.52 0.49,0.76 0.19,0.18 0.39,0.32 0.61,0.42 0.22,0.09 0.45,0.15 0.69,0.17 0.25,0.01 0.51,0 0.8,-0.06 0.28,-0.05 0.58,-0.13 0.89,-0.24 -0.09,0.28 -0.15,0.54 -0.18,0.79 -0.04,0.24 -0.04,0.48 -0.02,0.7 0.03,0.22 0.09,0.43 0.18,0.62 0.09,0.19 0.22,0.37 0.38,0.53 0.21,0.21 0.44,0.37 0.7,0.48 0.25,0.1 0.53,0.15 0.81,0.13 0.29,-0.02 0.59,-0.1 0.9,-0.26 0.31,-0.15 0.62,-0.39 0.93,-0.7 0.3,-0.3 0.53,-0.59 0.67,-0.89 0.15,-0.29 0.23,-0.56 0.25,-0.83 0.02,-0.27 -0.02,-0.52 -0.12,-0.75 -0.1,-0.24 -0.25,-0.45 -0.44,-0.64 -0.16,-0.16 -0.33,-0.29 -0.53,-0.38 -0.19,-0.09 -0.4,-0.15 -0.63,-0.18 -0.22,-0.03 -0.46,-0.03 -0.72,0 -0.25,0.03 -0.52,0.08 -0.8,0.17 0.11,-0.32 0.19,-0.63 0.25,-0.91 0.06,-0.28 0.08,-0.55 0.06,-0.79 -0.01,-0.25 -0.06,-0.47 -0.15,-0.68 -0.09,-0.2 -0.22,-0.39 -0.39,-0.56 z m 2.05,4.03 c 0.13,0.13 0.23,0.27 0.29,0.42 0.06,0.15 0.08,0.3 0.07,0.46 -0.01,0.16 -0.06,0.32 -0.15,0.48 -0.09,0.17 -0.22,0.33 -0.38,0.49 -0.33,0.34 -0.65,0.51 -0.97,0.53 -0.32,0.02 -0.61,-0.1 -0.87,-0.36 -0.12,-0.12 -0.21,-0.25 -0.27,-0.39 -0.07,-0.15 -0.1,-0.31 -0.1,-0.49 -0.01,-0.18 0.01,-0.38 0.06,-0.6 0.05,-0.22 0.11,-0.47 0.2,-0.74 0.47,-0.15 0.88,-0.22 1.24,-0.19 0.36,0.03 0.65,0.16 0.88,0.39 z m -2.93,-3.32 c 0.14,0.14 0.24,0.3 0.3,0.46 0.07,0.17 0.1,0.35 0.09,0.56 -0.01,0.2 -0.04,0.43 -0.11,0.68 -0.06,0.25 -0.15,0.53 -0.25,0.84 -0.29,0.1 -0.55,0.17 -0.79,0.22 -0.24,0.05 -0.46,0.08 -0.66,0.07 -0.19,-0.01 -0.37,-0.04 -0.53,-0.11 -0.15,-0.06 -0.3,-0.16 -0.44,-0.3 -0.29,-0.29 -0.42,-0.62 -0.38,-0.99 0.04,-0.37 0.26,-0.75 0.67,-1.15 0.39,-0.4 0.77,-0.61 1.13,-0.65 0.37,-0.03 0.69,0.09 0.97,0.37 z m 6.05,-5.09 c -0.26,-0.26 -0.55,-0.47 -0.87,-0.63 -0.32,-0.17 -0.66,-0.26 -1.01,-0.28 -0.35,-0.02 -0.71,0.04 -1.07,0.18 -0.37,0.15 -0.72,0.39 -1.07,0.74 -0.25,0.24 -0.44,0.49 -0.56,0.74 -0.13,0.25 -0.21,0.51 -0.24,0.76 -0.03,0.25 0,0.51 0.07,0.77 0.07,0.26 0.18,0.52 0.34,0.79 0.15,0.26 0.34,0.54 0.57,0.81 0.22,0.28 0.48,0.56 0.77,0.85 0.25,0.25 0.52,0.49 0.81,0.72 0.29,0.24 0.59,0.44 0.9,0.61 0.31,0.17 0.63,0.3 0.97,0.39 0.33,0.1 0.67,0.13 1.01,0.11 0.34,-0.03 0.68,-0.12 1.02,-0.28 0.35,-0.17 0.69,-0.42 1.03,-0.75 0.11,-0.11 0.22,-0.24 0.32,-0.37 0.1,-0.13 0.19,-0.25 0.27,-0.37 0.07,-0.12 0.13,-0.23 0.17,-0.33 0.04,-0.09 0.06,-0.16 0.06,-0.2 0.01,-0.03 0.01,-0.07 0,-0.1 -0.01,-0.03 -0.02,-0.06 -0.04,-0.09 -0.02,-0.03 -0.04,-0.06 -0.07,-0.09 -0.02,-0.03 -0.06,-0.07 -0.1,-0.11 -0.05,-0.06 -0.1,-0.1 -0.14,-0.14 -0.04,-0.04 -0.08,-0.07 -0.12,-0.08 -0.03,-0.01 -0.06,-0.02 -0.09,-0.01 -0.03,0 -0.06,0.02 -0.09,0.04 -0.03,0.04 -0.07,0.09 -0.1,0.17 -0.04,0.08 -0.09,0.18 -0.14,0.29 -0.06,0.1 -0.14,0.23 -0.23,0.37 -0.1,0.14 -0.23,0.28 -0.38,0.44 -0.29,0.28 -0.59,0.47 -0.91,0.56 -0.32,0.09 -0.64,0.1 -0.97,0.03 -0.33,-0.06 -0.65,-0.19 -0.97,-0.39 -0.32,-0.19 -0.63,-0.43 -0.92,-0.7 0.13,-0.03 0.26,-0.08 0.41,-0.13 0.14,-0.05 0.29,-0.12 0.45,-0.2 0.15,-0.08 0.31,-0.18 0.46,-0.29 0.16,-0.11 0.31,-0.23 0.46,-0.38 0.32,-0.33 0.55,-0.64 0.68,-0.95 0.13,-0.3 0.19,-0.6 0.17,-0.89 -0.02,-0.29 -0.1,-0.57 -0.25,-0.84 -0.16,-0.27 -0.35,-0.52 -0.6,-0.77 z m -0.87,0.73 c 0.18,0.17 0.32,0.35 0.43,0.53 0.11,0.18 0.18,0.36 0.19,0.55 0.02,0.18 -0.01,0.37 -0.09,0.56 -0.08,0.2 -0.23,0.39 -0.43,0.59 -0.11,0.12 -0.23,0.22 -0.37,0.31 -0.13,0.1 -0.27,0.18 -0.41,0.25 -0.14,0.07 -0.28,0.13 -0.42,0.18 -0.15,0.05 -0.29,0.08 -0.42,0.11 -0.4,-0.4 -0.7,-0.75 -0.92,-1.07 -0.21,-0.31 -0.35,-0.6 -0.42,-0.86 -0.06,-0.26 -0.06,-0.49 0.02,-0.7 0.07,-0.21 0.21,-0.42 0.4,-0.61 0.2,-0.2 0.4,-0.33 0.62,-0.4 0.22,-0.07 0.43,-0.09 0.65,-0.06 0.22,0.03 0.43,0.1 0.63,0.21 0.2,0.11 0.38,0.24 0.54,0.41 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3797" />
+        </g>
+      </g>
+      <g
+         id="g3799">
+        <g
+           id="g3801"
+           clip-path="url(#clipPath3805)">
+          <path
+             d="m 180.82,184.78 c -0.06,-0.06 -0.11,-0.11 -0.16,-0.14 -0.05,-0.03 -0.09,-0.05 -0.13,-0.06 -0.04,0 -0.08,0 -0.11,0 -0.03,0.01 -0.05,0.03 -0.08,0.05 l -3.1,3.1 c -0.02,0.02 -0.03,0.05 -0.04,0.08 -0.01,0.03 -0.01,0.06 0,0.1 0.01,0.04 0.03,0.09 0.06,0.14 0.03,0.05 0.07,0.1 0.13,0.16 0.06,0.05 0.11,0.1 0.16,0.13 0.04,0.03 0.09,0.05 0.13,0.06 0.04,0.01 0.08,0.02 0.11,0.01 0.03,-0.01 0.06,-0.02 0.09,-0.05 l 1.23,-1.23 4.52,4.51 -1.83,0.46 c -0.09,0.03 -0.16,0.06 -0.2,0.09 -0.04,0.03 -0.06,0.06 -0.06,0.1 0,0.04 0.02,0.09 0.05,0.14 0.04,0.06 0.1,0.12 0.17,0.19 0.05,0.05 0.1,0.09 0.14,0.13 0.04,0.03 0.08,0.05 0.11,0.07 0.03,0.01 0.07,0.02 0.1,0.02 0.04,0 0.08,0 0.12,-0.01 l 2.25,-0.49 c 0.02,0 0.04,-0.01 0.07,-0.02 0.02,-0.01 0.05,-0.03 0.08,-0.05 0.04,-0.02 0.07,-0.05 0.11,-0.09 0.04,-0.03 0.09,-0.08 0.14,-0.13 0.07,-0.08 0.13,-0.14 0.17,-0.2 0.05,-0.05 0.08,-0.1 0.09,-0.14 0.02,-0.03 0.03,-0.07 0.02,-0.09 -0.01,-0.03 -0.02,-0.05 -0.04,-0.07 l -5.22,-5.21 1.08,-1.08 c 0.02,-0.02 0.04,-0.05 0.05,-0.09 0,-0.03 0,-0.07 -0.01,-0.11 -0.01,-0.04 -0.04,-0.08 -0.07,-0.13 -0.03,-0.05 -0.07,-0.1 -0.13,-0.15 z m 7.68,-1.9 c -0.25,-0.26 -0.53,-0.51 -0.82,-0.74 -0.3,-0.23 -0.6,-0.43 -0.92,-0.6 -0.31,-0.17 -0.64,-0.3 -0.98,-0.39 -0.33,-0.09 -0.68,-0.12 -1.02,-0.09 -0.35,0.03 -0.7,0.13 -1.05,0.3 -0.34,0.17 -0.69,0.42 -1.03,0.76 -0.13,0.13 -0.25,0.27 -0.36,0.41 -0.11,0.14 -0.2,0.27 -0.27,0.4 -0.08,0.12 -0.14,0.23 -0.18,0.33 -0.04,0.09 -0.06,0.17 -0.06,0.23 0,0.05 0.01,0.11 0.05,0.17 0.03,0.07 0.09,0.14 0.17,0.22 0.06,0.06 0.12,0.11 0.16,0.15 0.05,0.03 0.08,0.06 0.12,0.07 0.03,0.01 0.05,0.01 0.08,0 0.02,0 0.05,-0.02 0.07,-0.05 0.04,-0.03 0.07,-0.09 0.11,-0.17 0.04,-0.09 0.09,-0.19 0.16,-0.31 0.06,-0.12 0.15,-0.26 0.25,-0.4 0.1,-0.15 0.23,-0.3 0.39,-0.46 0.29,-0.3 0.6,-0.49 0.93,-0.59 0.33,-0.1 0.66,-0.12 0.98,-0.06 0.33,0.06 0.65,0.18 0.97,0.37 0.33,0.18 0.63,0.41 0.92,0.69 -0.26,0.07 -0.54,0.18 -0.84,0.33 -0.3,0.15 -0.59,0.37 -0.89,0.67 -0.33,0.33 -0.56,0.65 -0.69,0.97 -0.14,0.31 -0.2,0.61 -0.18,0.91 0.02,0.29 0.11,0.57 0.27,0.85 0.15,0.27 0.35,0.53 0.61,0.79 0.26,0.26 0.55,0.47 0.86,0.63 0.32,0.16 0.64,0.25 0.99,0.27 0.34,0.02 0.69,-0.04 1.05,-0.19 0.35,-0.14 0.71,-0.39 1.06,-0.74 0.24,-0.24 0.43,-0.49 0.56,-0.75 0.13,-0.25 0.2,-0.51 0.23,-0.77 0.02,-0.26 0,-0.52 -0.07,-0.78 -0.07,-0.27 -0.18,-0.53 -0.33,-0.8 -0.15,-0.27 -0.34,-0.55 -0.56,-0.82 -0.22,-0.27 -0.47,-0.54 -0.74,-0.81 z m -0.71,0.89 c 0.39,0.39 0.69,0.74 0.91,1.06 0.21,0.32 0.35,0.61 0.42,0.88 0.06,0.27 0.06,0.51 -0.02,0.73 -0.07,0.22 -0.2,0.43 -0.4,0.62 -0.19,0.2 -0.4,0.33 -0.61,0.4 -0.22,0.07 -0.43,0.09 -0.64,0.06 -0.21,-0.03 -0.41,-0.1 -0.61,-0.21 -0.19,-0.11 -0.37,-0.25 -0.53,-0.41 -0.19,-0.18 -0.33,-0.37 -0.44,-0.55 -0.11,-0.19 -0.18,-0.38 -0.2,-0.57 -0.02,-0.19 0.02,-0.38 0.1,-0.58 0.08,-0.19 0.22,-0.39 0.42,-0.59 0.23,-0.23 0.49,-0.42 0.77,-0.56 0.28,-0.15 0.56,-0.24 0.83,-0.28 z m 3.88,-7.42 c -0.25,-0.26 -0.53,-0.44 -0.82,-0.55 -0.29,-0.11 -0.59,-0.15 -0.9,-0.11 -0.31,0.03 -0.63,0.14 -0.95,0.33 -0.33,0.18 -0.65,0.43 -0.98,0.76 -0.31,0.31 -0.55,0.61 -0.73,0.92 -0.17,0.3 -0.28,0.6 -0.33,0.9 -0.04,0.29 -0.01,0.57 0.08,0.85 0.1,0.27 0.26,0.52 0.5,0.76 0.18,0.18 0.39,0.32 0.6,0.42 0.22,0.09 0.45,0.15 0.7,0.17 0.24,0.01 0.51,0 0.79,-0.06 0.28,-0.05 0.58,-0.13 0.9,-0.24 -0.09,0.28 -0.15,0.54 -0.19,0.79 -0.03,0.24 -0.04,0.48 -0.01,0.7 0.02,0.22 0.08,0.43 0.17,0.62 0.09,0.19 0.22,0.37 0.39,0.53 0.2,0.21 0.44,0.37 0.69,0.48 0.26,0.1 0.53,0.15 0.82,0.13 0.28,-0.02 0.58,-0.1 0.89,-0.26 0.32,-0.15 0.63,-0.39 0.94,-0.7 0.3,-0.3 0.52,-0.59 0.67,-0.89 0.15,-0.29 0.23,-0.56 0.25,-0.83 0.02,-0.27 -0.03,-0.52 -0.13,-0.75 -0.1,-0.24 -0.24,-0.45 -0.44,-0.64 -0.15,-0.16 -0.33,-0.29 -0.52,-0.38 -0.2,-0.09 -0.41,-0.15 -0.63,-0.18 -0.23,-0.03 -0.47,-0.03 -0.72,0 -0.26,0.03 -0.52,0.08 -0.81,0.17 0.11,-0.32 0.2,-0.63 0.25,-0.91 0.06,-0.28 0.08,-0.55 0.07,-0.79 -0.02,-0.25 -0.07,-0.47 -0.16,-0.68 -0.08,-0.2 -0.21,-0.39 -0.39,-0.56 z m 2.06,4.03 c 0.13,0.13 0.22,0.27 0.28,0.42 0.06,0.15 0.09,0.3 0.07,0.46 -0.01,0.16 -0.06,0.32 -0.15,0.48 -0.09,0.17 -0.21,0.33 -0.37,0.49 -0.33,0.34 -0.66,0.51 -0.98,0.53 -0.32,0.02 -0.61,-0.1 -0.87,-0.36 -0.12,-0.12 -0.21,-0.25 -0.27,-0.39 -0.06,-0.15 -0.09,-0.31 -0.1,-0.49 0,-0.18 0.02,-0.38 0.06,-0.6 0.05,-0.22 0.12,-0.47 0.21,-0.74 0.46,-0.15 0.88,-0.22 1.23,-0.19 0.36,0.03 0.66,0.16 0.89,0.39 z m -2.94,-3.32 c 0.14,0.14 0.25,0.3 0.31,0.46 0.06,0.17 0.09,0.35 0.08,0.56 0,0.2 -0.04,0.43 -0.1,0.68 -0.07,0.25 -0.15,0.53 -0.26,0.84 -0.29,0.1 -0.55,0.17 -0.79,0.22 -0.24,0.05 -0.46,0.08 -0.65,0.07 -0.2,-0.01 -0.37,-0.04 -0.53,-0.11 -0.16,-0.06 -0.31,-0.16 -0.44,-0.3 -0.3,-0.29 -0.43,-0.62 -0.38,-0.99 0.04,-0.37 0.26,-0.75 0.66,-1.15 0.39,-0.4 0.77,-0.61 1.14,-0.65 0.36,-0.03 0.68,0.09 0.96,0.37 z m 5.64,-5.47 c -0.25,-0.26 -0.53,-0.44 -0.82,-0.55 -0.29,-0.11 -0.59,-0.15 -0.9,-0.11 -0.31,0.03 -0.63,0.14 -0.95,0.33 -0.33,0.18 -0.65,0.43 -0.98,0.76 -0.31,0.31 -0.55,0.61 -0.73,0.92 -0.17,0.3 -0.28,0.6 -0.33,0.9 -0.04,0.29 -0.01,0.57 0.08,0.85 0.1,0.27 0.26,0.52 0.5,0.76 0.18,0.18 0.39,0.33 0.6,0.42 0.22,0.09 0.45,0.15 0.7,0.17 0.24,0.01 0.51,0 0.79,-0.06 0.28,-0.05 0.58,-0.13 0.9,-0.24 -0.09,0.28 -0.15,0.54 -0.19,0.79 -0.03,0.24 -0.04,0.48 -0.01,0.7 0.02,0.22 0.08,0.43 0.17,0.62 0.09,0.19 0.22,0.37 0.39,0.53 0.2,0.21 0.44,0.37 0.69,0.48 0.26,0.1 0.53,0.15 0.82,0.13 0.28,-0.02 0.58,-0.1 0.89,-0.26 0.32,-0.15 0.63,-0.39 0.94,-0.7 0.3,-0.3 0.52,-0.59 0.67,-0.88 0.15,-0.3 0.23,-0.57 0.25,-0.84 0.01,-0.27 -0.03,-0.52 -0.13,-0.75 -0.1,-0.24 -0.25,-0.45 -0.44,-0.64 -0.15,-0.16 -0.33,-0.28 -0.52,-0.38 -0.2,-0.09 -0.41,-0.15 -0.63,-0.18 -0.23,-0.03 -0.47,-0.03 -0.72,0 -0.26,0.03 -0.53,0.08 -0.81,0.17 0.11,-0.32 0.2,-0.63 0.25,-0.91 0.06,-0.28 0.08,-0.55 0.07,-0.79 -0.02,-0.25 -0.07,-0.47 -0.16,-0.68 -0.08,-0.2 -0.21,-0.39 -0.39,-0.56 z m 2.06,4.03 c 0.13,0.13 0.22,0.27 0.28,0.42 0.06,0.15 0.08,0.3 0.07,0.46 -0.01,0.16 -0.06,0.32 -0.15,0.48 -0.09,0.17 -0.21,0.33 -0.38,0.5 -0.33,0.33 -0.65,0.5 -0.97,0.52 -0.32,0.02 -0.61,-0.1 -0.87,-0.36 -0.12,-0.12 -0.21,-0.25 -0.27,-0.39 -0.06,-0.15 -0.09,-0.31 -0.1,-0.49 0,-0.18 0.02,-0.38 0.06,-0.6 0.05,-0.22 0.12,-0.47 0.21,-0.74 0.46,-0.15 0.88,-0.22 1.23,-0.19 0.36,0.03 0.66,0.16 0.89,0.39 z m -2.94,-3.32 c 0.14,0.14 0.25,0.3 0.31,0.46 0.06,0.17 0.09,0.35 0.08,0.56 0,0.2 -0.04,0.43 -0.1,0.68 -0.07,0.25 -0.15,0.53 -0.26,0.84 -0.29,0.1 -0.55,0.17 -0.79,0.22 -0.24,0.06 -0.46,0.08 -0.65,0.07 -0.2,-0.01 -0.37,-0.04 -0.53,-0.11 -0.16,-0.06 -0.31,-0.16 -0.44,-0.3 -0.3,-0.29 -0.43,-0.62 -0.38,-0.99 0.04,-0.37 0.26,-0.75 0.66,-1.15 0.39,-0.39 0.77,-0.61 1.14,-0.65 0.36,-0.03 0.68,0.09 0.96,0.37 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3807" />
+        </g>
+      </g>
+      <g
+         id="g3809">
+        <g
+           id="g3811"
+           clip-path="url(#clipPath3815)">
+          <path
+             d="m 201.36,184.78 c -0.06,-0.06 -0.12,-0.11 -0.16,-0.14 -0.05,-0.03 -0.1,-0.05 -0.14,-0.06 -0.04,0 -0.07,0 -0.1,0 -0.03,0.01 -0.06,0.03 -0.08,0.05 l -3.1,3.1 c -0.02,0.02 -0.04,0.05 -0.05,0.08 0,0.03 0,0.06 0,0.1 0.01,0.04 0.03,0.09 0.06,0.14 0.03,0.05 0.08,0.1 0.14,0.16 0.05,0.05 0.1,0.1 0.15,0.13 0.05,0.03 0.09,0.05 0.13,0.06 0.04,0.01 0.08,0.02 0.11,0.01 0.04,-0.01 0.07,-0.02 0.09,-0.05 l 1.24,-1.23 4.51,4.51 -1.83,0.46 c -0.09,0.03 -0.15,0.06 -0.19,0.09 -0.04,0.03 -0.06,0.06 -0.07,0.1 0,0.04 0.02,0.09 0.06,0.14 0.04,0.06 0.09,0.12 0.16,0.19 0.05,0.05 0.1,0.09 0.14,0.13 0.04,0.03 0.08,0.05 0.11,0.07 0.04,0.01 0.07,0.02 0.11,0.02 0.03,0 0.07,0 0.12,-0.01 l 2.24,-0.49 c 0.02,0 0.05,-0.01 0.07,-0.02 0.02,-0.01 0.05,-0.03 0.09,-0.05 0.03,-0.02 0.07,-0.05 0.11,-0.09 0.03,-0.03 0.08,-0.08 0.14,-0.13 0.07,-0.08 0.13,-0.14 0.17,-0.2 0.04,-0.05 0.07,-0.1 0.09,-0.14 0.02,-0.03 0.02,-0.07 0.01,-0.09 0,-0.03 -0.02,-0.05 -0.04,-0.07 l -5.21,-5.21 1.07,-1.08 c 0.03,-0.02 0.04,-0.05 0.05,-0.09 0.01,-0.03 0.01,-0.07 -0.01,-0.11 -0.01,-0.04 -0.03,-0.08 -0.06,-0.13 -0.04,-0.05 -0.08,-0.1 -0.13,-0.15 z m 7.68,-1.9 c -0.26,-0.26 -0.53,-0.51 -0.83,-0.74 -0.29,-0.23 -0.6,-0.43 -0.91,-0.6 -0.32,-0.17 -0.65,-0.3 -0.98,-0.39 -0.34,-0.09 -0.68,-0.12 -1.03,-0.09 -0.34,0.03 -0.69,0.13 -1.04,0.3 -0.35,0.17 -0.7,0.42 -1.04,0.76 -0.13,0.13 -0.25,0.27 -0.36,0.41 -0.1,0.14 -0.19,0.27 -0.27,0.4 -0.07,0.12 -0.13,0.23 -0.17,0.33 -0.04,0.09 -0.06,0.17 -0.06,0.23 -0.01,0.05 0.01,0.11 0.04,0.17 0.03,0.07 0.09,0.14 0.17,0.22 0.07,0.06 0.12,0.11 0.17,0.15 0.04,0.03 0.08,0.06 0.11,0.07 0.03,0.01 0.06,0.01 0.08,0 0.03,0 0.05,-0.02 0.08,-0.05 0.03,-0.03 0.07,-0.09 0.1,-0.17 0.04,-0.09 0.09,-0.19 0.16,-0.31 0.07,-0.12 0.15,-0.26 0.25,-0.4 0.1,-0.15 0.23,-0.3 0.39,-0.46 0.3,-0.3 0.61,-0.49 0.94,-0.59 0.32,-0.1 0.65,-0.12 0.98,-0.06 0.32,0.06 0.65,0.18 0.97,0.37 0.32,0.18 0.63,0.41 0.91,0.69 -0.25,0.07 -0.53,0.18 -0.83,0.33 -0.3,0.15 -0.6,0.37 -0.89,0.67 -0.33,0.33 -0.56,0.65 -0.7,0.97 -0.13,0.31 -0.19,0.61 -0.17,0.91 0.02,0.29 0.11,0.57 0.26,0.85 0.15,0.27 0.36,0.53 0.61,0.79 0.27,0.26 0.55,0.47 0.87,0.63 0.31,0.16 0.64,0.25 0.98,0.27 0.34,0.02 0.69,-0.04 1.05,-0.19 0.36,-0.14 0.71,-0.39 1.06,-0.74 0.25,-0.24 0.44,-0.49 0.57,-0.75 0.12,-0.25 0.2,-0.51 0.22,-0.77 0.03,-0.26 0,-0.52 -0.07,-0.78 -0.07,-0.27 -0.18,-0.53 -0.33,-0.8 -0.15,-0.27 -0.33,-0.55 -0.55,-0.82 -0.22,-0.27 -0.47,-0.54 -0.74,-0.81 z m -0.72,0.89 c 0.39,0.39 0.7,0.74 0.91,1.06 0.22,0.32 0.36,0.61 0.42,0.88 0.07,0.27 0.06,0.51 -0.01,0.73 -0.08,0.22 -0.21,0.43 -0.4,0.62 -0.2,0.2 -0.41,0.33 -0.62,0.4 -0.21,0.07 -0.42,0.09 -0.63,0.06 -0.21,-0.03 -0.42,-0.1 -0.61,-0.21 -0.2,-0.11 -0.38,-0.25 -0.54,-0.41 -0.18,-0.18 -0.33,-0.37 -0.44,-0.55 -0.11,-0.19 -0.17,-0.38 -0.19,-0.57 -0.02,-0.19 0.01,-0.38 0.09,-0.58 0.08,-0.19 0.22,-0.39 0.43,-0.59 0.22,-0.23 0.48,-0.42 0.76,-0.56 0.29,-0.15 0.56,-0.24 0.83,-0.28 z m 5.48,-5.65 c -0.26,-0.26 -0.54,-0.51 -0.83,-0.74 -0.29,-0.23 -0.6,-0.43 -0.91,-0.6 -0.32,-0.17 -0.65,-0.3 -0.98,-0.39 -0.34,-0.09 -0.68,-0.12 -1.03,-0.09 -0.35,0.03 -0.69,0.13 -1.04,0.3 -0.35,0.17 -0.7,0.42 -1.04,0.76 -0.13,0.14 -0.25,0.27 -0.36,0.41 -0.1,0.14 -0.19,0.27 -0.27,0.4 -0.07,0.12 -0.13,0.23 -0.17,0.33 -0.04,0.09 -0.06,0.17 -0.07,0.23 0,0.05 0.02,0.11 0.05,0.17 0.03,0.07 0.09,0.14 0.17,0.22 0.07,0.06 0.12,0.11 0.17,0.15 0.04,0.03 0.08,0.06 0.11,0.07 0.03,0.01 0.06,0.01 0.08,0.01 0.03,-0.01 0.05,-0.03 0.08,-0.06 0.03,-0.03 0.07,-0.09 0.1,-0.17 0.04,-0.09 0.09,-0.19 0.16,-0.31 0.07,-0.12 0.15,-0.25 0.25,-0.4 0.1,-0.15 0.23,-0.3 0.39,-0.46 0.3,-0.3 0.61,-0.49 0.94,-0.59 0.32,-0.1 0.65,-0.12 0.98,-0.06 0.32,0.06 0.65,0.18 0.97,0.37 0.32,0.18 0.62,0.41 0.91,0.69 -0.25,0.07 -0.53,0.18 -0.83,0.33 -0.3,0.15 -0.6,0.38 -0.89,0.67 -0.33,0.33 -0.57,0.65 -0.7,0.97 -0.13,0.31 -0.19,0.62 -0.17,0.91 0.02,0.29 0.11,0.57 0.26,0.85 0.15,0.27 0.36,0.53 0.61,0.79 0.26,0.26 0.55,0.47 0.87,0.63 0.31,0.16 0.64,0.25 0.98,0.27 0.34,0.02 0.69,-0.04 1.05,-0.19 0.36,-0.14 0.71,-0.39 1.06,-0.74 0.25,-0.24 0.44,-0.49 0.56,-0.75 0.13,-0.25 0.21,-0.51 0.23,-0.77 0.02,-0.25 0,-0.52 -0.07,-0.78 -0.07,-0.27 -0.18,-0.53 -0.33,-0.8 -0.15,-0.27 -0.33,-0.55 -0.55,-0.82 -0.22,-0.27 -0.47,-0.54 -0.74,-0.81 z m -0.72,0.89 c 0.39,0.39 0.7,0.74 0.91,1.06 0.22,0.32 0.36,0.61 0.42,0.88 0.07,0.27 0.06,0.51 -0.01,0.73 -0.08,0.22 -0.21,0.43 -0.4,0.62 -0.2,0.2 -0.41,0.33 -0.62,0.4 -0.21,0.07 -0.42,0.09 -0.63,0.06 -0.21,-0.03 -0.42,-0.1 -0.61,-0.21 -0.2,-0.11 -0.38,-0.25 -0.54,-0.41 -0.18,-0.18 -0.33,-0.37 -0.44,-0.55 -0.11,-0.19 -0.17,-0.38 -0.19,-0.57 -0.02,-0.19 0.01,-0.38 0.09,-0.58 0.08,-0.19 0.22,-0.39 0.43,-0.59 0.22,-0.23 0.48,-0.42 0.76,-0.56 0.29,-0.15 0.56,-0.24 0.83,-0.28 z m 5.41,-6.03 c -0.46,-0.45 -0.91,-0.83 -1.36,-1.14 -0.45,-0.3 -0.89,-0.5 -1.33,-0.61 -0.43,-0.1 -0.86,-0.09 -1.28,0.03 -0.42,0.12 -0.82,0.38 -1.22,0.77 -0.37,0.37 -0.62,0.75 -0.74,1.14 -0.12,0.39 -0.13,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.31,0.45 0.72,0.91 1.2,1.4 0.46,0.46 0.91,0.83 1.36,1.14 0.45,0.3 0.89,0.51 1.33,0.61 0.44,0.11 0.86,0.1 1.28,-0.02 0.42,-0.12 0.82,-0.38 1.21,-0.77 0.38,-0.38 0.63,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.1,-0.41 -0.31,-0.84 -0.62,-1.29 -0.31,-0.44 -0.71,-0.91 -1.2,-1.4 z m -0.86,0.76 c 0.29,0.29 0.55,0.57 0.76,0.83 0.22,0.25 0.39,0.49 0.53,0.72 0.14,0.22 0.24,0.43 0.31,0.62 0.06,0.2 0.09,0.38 0.08,0.56 -0.01,0.17 -0.05,0.34 -0.13,0.5 -0.08,0.15 -0.19,0.3 -0.34,0.45 -0.26,0.26 -0.53,0.41 -0.82,0.45 -0.28,0.04 -0.58,0 -0.88,-0.12 -0.31,-0.12 -0.62,-0.31 -0.95,-0.56 -0.32,-0.26 -0.64,-0.55 -0.97,-0.88 -0.45,-0.44 -0.8,-0.84 -1.06,-1.2 -0.27,-0.36 -0.45,-0.68 -0.55,-0.98 -0.09,-0.29 -0.11,-0.56 -0.04,-0.8 0.06,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.53,-0.37 0.19,-0.07 0.38,-0.11 0.57,-0.1 0.2,0.01 0.4,0.06 0.6,0.14 0.21,0.08 0.42,0.19 0.63,0.33 0.21,0.14 0.42,0.3 0.64,0.49 0.22,0.19 0.44,0.4 0.66,0.62 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3817" />
+        </g>
+      </g>
+      <g
+         id="g3819">
+        <g
+           id="g3821"
+           clip-path="url(#clipPath3825)">
+          <path
+             d="m 221.89,184.78 c -0.06,-0.06 -0.11,-0.11 -0.16,-0.14 -0.05,-0.03 -0.09,-0.05 -0.13,-0.06 -0.04,0 -0.08,0 -0.11,0 -0.03,0.01 -0.05,0.03 -0.08,0.05 l -3.1,3.1 c -0.02,0.02 -0.03,0.05 -0.04,0.08 -0.01,0.03 -0.01,0.06 0,0.1 0.01,0.04 0.03,0.09 0.06,0.14 0.03,0.05 0.07,0.1 0.13,0.16 0.06,0.05 0.11,0.1 0.16,0.13 0.04,0.03 0.09,0.05 0.13,0.06 0.04,0.01 0.08,0.02 0.11,0.01 0.03,-0.01 0.06,-0.02 0.09,-0.05 l 1.23,-1.23 4.52,4.51 -1.83,0.46 c -0.09,0.03 -0.16,0.06 -0.2,0.09 -0.04,0.03 -0.06,0.06 -0.06,0.1 0,0.04 0.02,0.09 0.05,0.14 0.04,0.06 0.1,0.12 0.17,0.19 0.05,0.05 0.1,0.09 0.14,0.13 0.04,0.03 0.08,0.05 0.11,0.07 0.03,0.01 0.07,0.02 0.1,0.02 0.04,0 0.08,0 0.12,-0.01 l 2.25,-0.49 c 0.02,0 0.04,-0.01 0.07,-0.02 0.02,-0.01 0.05,-0.03 0.08,-0.05 0.04,-0.02 0.07,-0.05 0.11,-0.09 0.04,-0.03 0.09,-0.08 0.14,-0.13 0.07,-0.08 0.13,-0.14 0.17,-0.2 0.05,-0.05 0.08,-0.1 0.09,-0.14 0.02,-0.03 0.03,-0.07 0.02,-0.09 -0.01,-0.03 -0.02,-0.05 -0.04,-0.07 l -5.22,-5.21 1.08,-1.08 c 0.02,-0.02 0.04,-0.05 0.05,-0.09 0,-0.03 0,-0.07 -0.01,-0.11 -0.01,-0.04 -0.04,-0.08 -0.07,-0.13 -0.03,-0.05 -0.07,-0.1 -0.13,-0.15 z m 7.68,-1.9 c -0.25,-0.26 -0.53,-0.51 -0.82,-0.74 -0.3,-0.23 -0.6,-0.43 -0.92,-0.6 -0.31,-0.17 -0.64,-0.3 -0.98,-0.39 -0.33,-0.09 -0.68,-0.12 -1.02,-0.09 -0.35,0.03 -0.7,0.13 -1.05,0.3 -0.34,0.17 -0.69,0.42 -1.03,0.76 -0.13,0.13 -0.25,0.27 -0.36,0.41 -0.11,0.14 -0.2,0.27 -0.27,0.4 -0.08,0.12 -0.14,0.23 -0.18,0.33 -0.04,0.09 -0.06,0.17 -0.06,0.23 0,0.05 0.01,0.11 0.05,0.17 0.03,0.07 0.09,0.14 0.17,0.22 0.06,0.06 0.12,0.11 0.16,0.15 0.05,0.03 0.08,0.06 0.12,0.07 0.03,0.01 0.05,0.01 0.08,0 0.02,0 0.05,-0.02 0.07,-0.05 0.04,-0.03 0.07,-0.09 0.11,-0.17 0.04,-0.09 0.09,-0.19 0.16,-0.31 0.06,-0.12 0.15,-0.26 0.25,-0.4 0.1,-0.15 0.23,-0.3 0.39,-0.46 0.29,-0.3 0.6,-0.49 0.93,-0.59 0.33,-0.1 0.66,-0.12 0.98,-0.06 0.33,0.06 0.65,0.18 0.97,0.37 0.33,0.18 0.63,0.41 0.92,0.69 -0.26,0.07 -0.54,0.18 -0.84,0.33 -0.3,0.15 -0.59,0.37 -0.89,0.67 -0.33,0.33 -0.56,0.65 -0.69,0.97 -0.14,0.31 -0.2,0.61 -0.18,0.91 0.02,0.29 0.11,0.57 0.27,0.85 0.15,0.27 0.35,0.53 0.61,0.79 0.26,0.26 0.55,0.47 0.86,0.63 0.32,0.16 0.64,0.25 0.99,0.27 0.34,0.02 0.69,-0.04 1.05,-0.19 0.35,-0.14 0.71,-0.39 1.06,-0.74 0.24,-0.24 0.43,-0.49 0.56,-0.75 0.13,-0.25 0.2,-0.51 0.23,-0.77 0.02,-0.26 0,-0.52 -0.07,-0.78 -0.07,-0.27 -0.18,-0.53 -0.33,-0.8 -0.15,-0.27 -0.34,-0.55 -0.56,-0.82 -0.22,-0.27 -0.47,-0.54 -0.74,-0.81 z m -0.71,0.89 c 0.39,0.39 0.69,0.74 0.91,1.06 0.21,0.32 0.35,0.61 0.42,0.88 0.06,0.27 0.06,0.51 -0.02,0.73 -0.07,0.22 -0.2,0.43 -0.4,0.62 -0.19,0.2 -0.4,0.33 -0.61,0.4 -0.22,0.07 -0.43,0.09 -0.64,0.06 -0.21,-0.03 -0.41,-0.1 -0.61,-0.21 -0.19,-0.11 -0.37,-0.25 -0.53,-0.41 -0.19,-0.18 -0.33,-0.37 -0.44,-0.55 -0.11,-0.19 -0.18,-0.38 -0.2,-0.57 -0.02,-0.19 0.02,-0.38 0.1,-0.58 0.08,-0.19 0.22,-0.39 0.42,-0.59 0.23,-0.23 0.49,-0.42 0.77,-0.56 0.28,-0.15 0.56,-0.24 0.83,-0.28 z m 5.47,-5.65 c -0.26,-0.26 -0.53,-0.51 -0.82,-0.74 -0.3,-0.23 -0.6,-0.43 -0.92,-0.6 -0.32,-0.17 -0.64,-0.3 -0.98,-0.39 -0.33,-0.09 -0.68,-0.12 -1.02,-0.09 -0.35,0.03 -0.7,0.13 -1.05,0.3 -0.35,0.17 -0.69,0.42 -1.03,0.76 -0.13,0.14 -0.25,0.27 -0.36,0.41 -0.11,0.14 -0.2,0.27 -0.27,0.4 -0.08,0.12 -0.14,0.23 -0.18,0.33 -0.04,0.09 -0.06,0.17 -0.06,0.23 0,0.05 0.01,0.11 0.05,0.17 0.03,0.07 0.09,0.14 0.17,0.22 0.06,0.06 0.12,0.11 0.16,0.15 0.05,0.03 0.08,0.06 0.12,0.07 0.03,0.01 0.05,0.01 0.08,0.01 0.02,-0.01 0.05,-0.03 0.07,-0.06 0.03,-0.03 0.07,-0.09 0.11,-0.17 0.04,-0.09 0.09,-0.19 0.15,-0.31 0.07,-0.12 0.15,-0.25 0.26,-0.4 0.1,-0.15 0.23,-0.3 0.38,-0.46 0.3,-0.3 0.61,-0.49 0.94,-0.59 0.33,-0.1 0.65,-0.12 0.98,-0.06 0.33,0.06 0.65,0.18 0.97,0.37 0.33,0.18 0.63,0.41 0.92,0.69 -0.26,0.07 -0.54,0.18 -0.84,0.33 -0.3,0.15 -0.59,0.38 -0.89,0.67 -0.33,0.33 -0.56,0.65 -0.69,0.97 -0.14,0.31 -0.2,0.62 -0.18,0.91 0.02,0.29 0.11,0.57 0.26,0.85 0.16,0.27 0.36,0.53 0.62,0.79 0.26,0.26 0.55,0.47 0.86,0.63 0.32,0.16 0.64,0.25 0.99,0.27 0.34,0.02 0.69,-0.04 1.05,-0.19 0.35,-0.14 0.71,-0.39 1.06,-0.74 0.24,-0.24 0.43,-0.49 0.56,-0.75 0.13,-0.25 0.2,-0.51 0.23,-0.77 0.02,-0.25 0,-0.52 -0.07,-0.78 -0.07,-0.27 -0.18,-0.53 -0.33,-0.8 -0.15,-0.27 -0.34,-0.55 -0.56,-0.82 -0.22,-0.27 -0.47,-0.54 -0.74,-0.81 z m -0.71,0.89 c 0.39,0.39 0.69,0.74 0.91,1.06 0.21,0.32 0.35,0.61 0.42,0.88 0.06,0.27 0.06,0.51 -0.02,0.73 -0.07,0.22 -0.2,0.43 -0.4,0.62 -0.2,0.2 -0.4,0.33 -0.61,0.4 -0.22,0.07 -0.43,0.09 -0.64,0.06 -0.21,-0.03 -0.41,-0.1 -0.61,-0.21 -0.19,-0.11 -0.37,-0.25 -0.54,-0.41 -0.18,-0.18 -0.32,-0.37 -0.43,-0.55 -0.11,-0.19 -0.18,-0.38 -0.2,-0.57 -0.02,-0.19 0.01,-0.38 0.1,-0.58 0.08,-0.19 0.22,-0.39 0.42,-0.59 0.23,-0.23 0.49,-0.42 0.77,-0.56 0.28,-0.15 0.56,-0.24 0.83,-0.28 z m 2.56,-8.47 c -0.05,-0.06 -0.1,-0.1 -0.15,-0.14 -0.06,-0.03 -0.1,-0.06 -0.14,-0.07 -0.05,-0.02 -0.09,-0.02 -0.12,-0.01 -0.04,0.01 -0.07,0.03 -0.1,0.05 l -3.28,3.28 c -0.04,0.05 -0.07,0.09 -0.1,0.13 -0.02,0.05 -0.03,0.09 -0.03,0.14 0.01,0.05 0.02,0.1 0.06,0.15 0.03,0.06 0.09,0.12 0.15,0.19 0.06,0.06 0.12,0.11 0.17,0.15 0.05,0.04 0.1,0.07 0.15,0.09 0.05,0.02 0.11,0.04 0.17,0.05 0.06,0.01 0.12,0.02 0.2,0.02 l 2.41,0.03 c 0.55,0.01 1.03,0.04 1.41,0.1 0.39,0.06 0.72,0.14 1,0.23 0.27,0.09 0.5,0.2 0.67,0.32 0.18,0.12 0.34,0.25 0.47,0.38 0.13,0.13 0.23,0.28 0.31,0.44 0.07,0.16 0.11,0.33 0.11,0.5 0.01,0.18 -0.03,0.35 -0.1,0.53 -0.07,0.18 -0.19,0.35 -0.36,0.51 -0.19,0.19 -0.39,0.34 -0.59,0.44 -0.21,0.1 -0.4,0.18 -0.58,0.23 -0.17,0.06 -0.32,0.1 -0.45,0.12 -0.13,0.03 -0.22,0.06 -0.25,0.1 -0.03,0.02 -0.04,0.05 -0.05,0.08 0,0.03 0.01,0.06 0.02,0.1 0.02,0.04 0.05,0.08 0.09,0.13 0.04,0.06 0.09,0.11 0.15,0.18 0.05,0.04 0.09,0.08 0.13,0.11 0.03,0.03 0.07,0.06 0.1,0.07 0.03,0.02 0.06,0.03 0.1,0.04 0.03,0.01 0.08,0.02 0.15,0.01 0.07,0 0.18,-0.02 0.32,-0.06 0.15,-0.03 0.31,-0.09 0.5,-0.18 0.19,-0.08 0.39,-0.18 0.59,-0.31 0.2,-0.13 0.39,-0.28 0.57,-0.46 0.29,-0.29 0.5,-0.58 0.63,-0.88 0.14,-0.29 0.21,-0.58 0.21,-0.87 0,-0.28 -0.06,-0.55 -0.17,-0.81 -0.12,-0.25 -0.28,-0.49 -0.5,-0.7 -0.19,-0.19 -0.39,-0.36 -0.61,-0.51 -0.22,-0.16 -0.5,-0.29 -0.83,-0.4 -0.32,-0.11 -0.72,-0.2 -1.2,-0.26 -0.47,-0.06 -1.05,-0.1 -1.74,-0.11 l -1.92,-0.04 2.58,-2.58 c 0.03,-0.03 0.05,-0.06 0.06,-0.09 0,-0.04 0,-0.08 -0.01,-0.12 -0.01,-0.05 -0.03,-0.1 -0.06,-0.14 -0.04,-0.05 -0.08,-0.1 -0.14,-0.16 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3827" />
+        </g>
+      </g>
+      <g
+         id="g3829">
+        <g
+           id="g3831"
+           clip-path="url(#clipPath3835)">
+          <path
+             d="m 242.43,184.78 c -0.06,-0.06 -0.12,-0.11 -0.16,-0.14 -0.05,-0.03 -0.1,-0.05 -0.14,-0.06 -0.04,0 -0.07,0 -0.1,0 -0.03,0.01 -0.06,0.03 -0.08,0.05 l -3.1,3.1 c -0.02,0.02 -0.04,0.05 -0.05,0.08 0,0.03 0,0.06 0,0.1 0.01,0.04 0.03,0.09 0.06,0.14 0.03,0.05 0.08,0.1 0.14,0.16 0.05,0.05 0.1,0.1 0.15,0.13 0.05,0.03 0.09,0.05 0.13,0.06 0.04,0.01 0.08,0.02 0.11,0.01 0.04,-0.01 0.07,-0.02 0.09,-0.05 l 1.24,-1.23 4.51,4.51 -1.83,0.46 c -0.09,0.03 -0.15,0.06 -0.19,0.09 -0.04,0.03 -0.06,0.06 -0.07,0.1 0,0.04 0.02,0.09 0.06,0.14 0.04,0.06 0.09,0.12 0.16,0.19 0.05,0.05 0.1,0.09 0.14,0.13 0.04,0.03 0.08,0.05 0.11,0.07 0.04,0.01 0.07,0.02 0.11,0.02 0.03,0 0.07,0 0.12,-0.01 l 2.24,-0.49 c 0.02,0 0.05,-0.01 0.07,-0.02 0.02,-0.01 0.05,-0.03 0.09,-0.05 0.03,-0.02 0.07,-0.05 0.11,-0.09 0.03,-0.03 0.08,-0.08 0.14,-0.13 0.07,-0.08 0.13,-0.14 0.17,-0.2 0.04,-0.05 0.07,-0.1 0.09,-0.14 0.02,-0.03 0.02,-0.07 0.01,-0.09 0,-0.03 -0.02,-0.05 -0.04,-0.07 l -5.21,-5.21 1.07,-1.08 c 0.03,-0.02 0.04,-0.05 0.05,-0.09 0.01,-0.03 0.01,-0.07 -0.01,-0.11 -0.01,-0.04 -0.03,-0.08 -0.06,-0.13 -0.04,-0.05 -0.08,-0.1 -0.13,-0.15 z m 7.68,-1.9 c -0.26,-0.26 -0.53,-0.51 -0.83,-0.74 -0.29,-0.23 -0.6,-0.43 -0.91,-0.6 -0.32,-0.17 -0.65,-0.3 -0.98,-0.39 -0.34,-0.09 -0.68,-0.12 -1.03,-0.09 -0.34,0.03 -0.69,0.13 -1.04,0.3 -0.35,0.17 -0.7,0.42 -1.04,0.76 -0.13,0.13 -0.25,0.27 -0.36,0.41 -0.1,0.14 -0.19,0.27 -0.27,0.4 -0.07,0.12 -0.13,0.23 -0.17,0.33 -0.04,0.09 -0.06,0.17 -0.06,0.23 -0.01,0.05 0.01,0.11 0.04,0.17 0.03,0.07 0.09,0.14 0.17,0.22 0.07,0.06 0.12,0.11 0.17,0.15 0.04,0.03 0.08,0.06 0.11,0.07 0.03,0.01 0.06,0.01 0.08,0 0.03,0 0.05,-0.02 0.08,-0.05 0.03,-0.03 0.07,-0.09 0.1,-0.17 0.04,-0.09 0.09,-0.19 0.16,-0.31 0.07,-0.12 0.15,-0.26 0.25,-0.4 0.1,-0.15 0.23,-0.3 0.39,-0.46 0.3,-0.3 0.61,-0.49 0.94,-0.59 0.32,-0.1 0.65,-0.12 0.98,-0.06 0.32,0.06 0.65,0.18 0.97,0.37 0.32,0.18 0.63,0.41 0.91,0.69 -0.25,0.07 -0.53,0.18 -0.83,0.33 -0.3,0.15 -0.6,0.37 -0.89,0.67 -0.33,0.33 -0.56,0.65 -0.7,0.97 -0.13,0.31 -0.19,0.61 -0.17,0.91 0.02,0.29 0.11,0.57 0.26,0.85 0.15,0.27 0.36,0.53 0.61,0.79 0.27,0.26 0.55,0.47 0.87,0.63 0.31,0.16 0.64,0.25 0.98,0.27 0.34,0.02 0.69,-0.04 1.05,-0.19 0.36,-0.14 0.71,-0.39 1.06,-0.74 0.25,-0.24 0.44,-0.49 0.57,-0.75 0.12,-0.25 0.2,-0.51 0.22,-0.77 0.03,-0.26 0,-0.52 -0.07,-0.78 -0.07,-0.27 -0.18,-0.53 -0.33,-0.8 -0.15,-0.27 -0.33,-0.55 -0.55,-0.82 -0.22,-0.27 -0.47,-0.54 -0.74,-0.81 z m -0.72,0.89 c 0.39,0.39 0.7,0.74 0.91,1.06 0.22,0.32 0.36,0.61 0.42,0.88 0.07,0.27 0.06,0.51 -0.01,0.73 -0.08,0.22 -0.21,0.43 -0.4,0.62 -0.2,0.2 -0.41,0.33 -0.62,0.4 -0.21,0.07 -0.42,0.09 -0.63,0.06 -0.21,-0.03 -0.42,-0.1 -0.61,-0.21 -0.2,-0.11 -0.38,-0.25 -0.54,-0.41 -0.18,-0.18 -0.33,-0.37 -0.44,-0.55 -0.11,-0.19 -0.17,-0.38 -0.19,-0.57 -0.02,-0.19 0.01,-0.38 0.09,-0.58 0.08,-0.19 0.22,-0.39 0.43,-0.59 0.22,-0.23 0.48,-0.42 0.76,-0.56 0.29,-0.15 0.56,-0.24 0.83,-0.28 z m 5.48,-5.65 c -0.26,-0.26 -0.54,-0.51 -0.83,-0.74 -0.29,-0.23 -0.6,-0.43 -0.91,-0.6 -0.32,-0.17 -0.65,-0.3 -0.98,-0.39 -0.34,-0.09 -0.68,-0.12 -1.03,-0.09 -0.35,0.03 -0.69,0.13 -1.04,0.3 -0.35,0.17 -0.7,0.42 -1.04,0.76 -0.13,0.14 -0.25,0.27 -0.36,0.41 -0.1,0.14 -0.19,0.27 -0.27,0.4 -0.07,0.12 -0.13,0.23 -0.17,0.33 -0.04,0.09 -0.06,0.17 -0.07,0.23 0,0.05 0.02,0.11 0.05,0.17 0.03,0.07 0.09,0.14 0.17,0.22 0.07,0.06 0.12,0.11 0.17,0.15 0.04,0.03 0.08,0.06 0.11,0.07 0.03,0.01 0.06,0.01 0.08,0.01 0.03,-0.01 0.05,-0.03 0.08,-0.06 0.03,-0.03 0.07,-0.09 0.1,-0.17 0.04,-0.09 0.09,-0.19 0.16,-0.31 0.07,-0.12 0.15,-0.25 0.25,-0.4 0.1,-0.15 0.23,-0.3 0.39,-0.46 0.3,-0.3 0.61,-0.49 0.94,-0.59 0.32,-0.1 0.65,-0.12 0.98,-0.06 0.32,0.06 0.65,0.18 0.97,0.37 0.32,0.18 0.62,0.41 0.91,0.69 -0.25,0.07 -0.53,0.18 -0.83,0.33 -0.3,0.15 -0.6,0.38 -0.89,0.67 -0.33,0.33 -0.57,0.65 -0.7,0.97 -0.13,0.31 -0.19,0.62 -0.17,0.91 0.02,0.29 0.11,0.57 0.26,0.85 0.15,0.27 0.36,0.53 0.61,0.79 0.26,0.26 0.55,0.47 0.87,0.63 0.31,0.16 0.64,0.25 0.98,0.27 0.34,0.02 0.69,-0.04 1.05,-0.19 0.36,-0.14 0.71,-0.39 1.06,-0.74 0.25,-0.24 0.44,-0.49 0.56,-0.75 0.13,-0.25 0.21,-0.51 0.23,-0.77 0.02,-0.25 0,-0.52 -0.07,-0.78 -0.07,-0.27 -0.18,-0.53 -0.33,-0.8 -0.15,-0.27 -0.33,-0.55 -0.55,-0.82 -0.22,-0.27 -0.47,-0.54 -0.74,-0.81 z m -0.72,0.89 c 0.39,0.39 0.7,0.74 0.91,1.06 0.22,0.32 0.36,0.61 0.42,0.88 0.07,0.27 0.06,0.51 -0.01,0.73 -0.08,0.22 -0.21,0.43 -0.4,0.62 -0.2,0.2 -0.41,0.33 -0.62,0.4 -0.21,0.07 -0.42,0.09 -0.63,0.06 -0.21,-0.03 -0.42,-0.1 -0.61,-0.21 -0.2,-0.11 -0.38,-0.25 -0.54,-0.41 -0.18,-0.18 -0.33,-0.37 -0.44,-0.55 -0.11,-0.19 -0.17,-0.38 -0.19,-0.57 -0.02,-0.19 0.01,-0.38 0.09,-0.58 0.08,-0.19 0.22,-0.39 0.43,-0.59 0.22,-0.23 0.48,-0.42 0.76,-0.56 0.29,-0.15 0.56,-0.24 0.83,-0.28 z m 4.17,-7.37 c -0.1,-0.1 -0.2,-0.17 -0.29,-0.2 -0.08,-0.02 -0.16,-0.01 -0.21,0.04 l -0.67,0.67 -1.25,-1.24 c -0.02,-0.03 -0.05,-0.04 -0.08,-0.05 -0.03,0 -0.06,0.01 -0.11,0.03 -0.04,0.02 -0.09,0.05 -0.15,0.09 -0.06,0.05 -0.12,0.11 -0.2,0.19 -0.08,0.07 -0.14,0.14 -0.18,0.19 -0.05,0.06 -0.08,0.11 -0.09,0.15 -0.02,0.04 -0.03,0.08 -0.02,0.11 0,0.03 0.02,0.05 0.04,0.08 l 1.25,1.24 -2.43,2.43 c -0.03,0.04 -0.06,0.07 -0.07,0.11 -0.02,0.03 -0.03,0.07 -0.02,0.11 0,0.05 0.03,0.1 0.06,0.15 0.04,0.05 0.1,0.12 0.17,0.19 0.06,0.06 0.11,0.11 0.16,0.15 0.05,0.04 0.1,0.08 0.15,0.11 0.04,0.03 0.09,0.05 0.14,0.07 0.05,0.02 0.11,0.04 0.17,0.06 l 5.72,1.49 c 0.04,0.01 0.08,0.01 0.13,0 0.05,-0.01 0.1,-0.04 0.16,-0.07 0.06,-0.04 0.13,-0.09 0.2,-0.15 0.07,-0.06 0.16,-0.14 0.25,-0.24 0.1,-0.1 0.19,-0.19 0.26,-0.28 0.07,-0.08 0.12,-0.15 0.15,-0.21 0.04,-0.06 0.06,-0.11 0.06,-0.16 0.01,-0.04 0,-0.08 -0.03,-0.11 l -3.79,-3.78 0.67,-0.67 c 0.05,-0.06 0.07,-0.12 0.05,-0.21 -0.03,-0.09 -0.09,-0.18 -0.2,-0.29 z m 1.95,5.21 -0.01,0.01 -5.17,-1.35 1.92,-1.92 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3837" />
+        </g>
+      </g>
+      <g
+         id="g3839">
+        <g
+           id="g3841"
+           clip-path="url(#clipPath3845)">
+          <path
+             d="m 262.96,184.78 c -0.06,-0.06 -0.11,-0.11 -0.16,-0.14 -0.05,-0.03 -0.09,-0.05 -0.13,-0.06 -0.04,0 -0.08,0 -0.11,0 -0.03,0.01 -0.05,0.03 -0.08,0.05 l -3.1,3.1 c -0.02,0.02 -0.03,0.05 -0.04,0.08 -0.01,0.03 -0.01,0.06 0,0.1 0.01,0.04 0.03,0.09 0.06,0.14 0.03,0.05 0.07,0.1 0.13,0.16 0.05,0.05 0.11,0.1 0.16,0.13 0.04,0.03 0.09,0.05 0.13,0.06 0.04,0.01 0.08,0.02 0.11,0.01 0.03,-0.01 0.06,-0.02 0.09,-0.05 l 1.23,-1.23 4.52,4.51 -1.83,0.46 c -0.09,0.03 -0.16,0.06 -0.2,0.09 -0.04,0.03 -0.06,0.06 -0.06,0.1 0,0.04 0.02,0.09 0.05,0.14 0.04,0.06 0.1,0.12 0.17,0.19 0.05,0.05 0.1,0.09 0.14,0.13 0.04,0.03 0.08,0.05 0.11,0.07 0.03,0.01 0.07,0.02 0.1,0.02 0.04,0 0.08,0 0.12,-0.01 l 2.25,-0.49 c 0.02,0 0.04,-0.01 0.07,-0.02 0.02,-0.01 0.05,-0.03 0.08,-0.05 0.04,-0.02 0.07,-0.05 0.11,-0.09 0.04,-0.03 0.09,-0.08 0.14,-0.13 0.07,-0.08 0.13,-0.14 0.17,-0.2 0.05,-0.05 0.08,-0.1 0.09,-0.14 0.02,-0.03 0.03,-0.07 0.02,-0.09 -0.01,-0.03 -0.02,-0.05 -0.04,-0.07 l -5.22,-5.21 1.08,-1.08 c 0.02,-0.02 0.04,-0.05 0.04,-0.09 0.01,-0.03 0.01,-0.07 0,-0.11 -0.01,-0.04 -0.04,-0.08 -0.07,-0.13 -0.03,-0.05 -0.07,-0.1 -0.13,-0.15 z m 7.68,-1.9 c -0.25,-0.26 -0.53,-0.51 -0.82,-0.74 -0.3,-0.23 -0.6,-0.43 -0.92,-0.6 -0.32,-0.17 -0.64,-0.3 -0.98,-0.39 -0.33,-0.09 -0.68,-0.12 -1.02,-0.09 -0.35,0.03 -0.7,0.13 -1.05,0.3 -0.35,0.17 -0.69,0.42 -1.03,0.76 -0.13,0.13 -0.25,0.27 -0.36,0.41 -0.11,0.14 -0.2,0.27 -0.27,0.4 -0.08,0.12 -0.14,0.23 -0.18,0.33 -0.04,0.09 -0.06,0.17 -0.06,0.23 0,0.05 0.01,0.11 0.05,0.17 0.03,0.07 0.09,0.14 0.17,0.22 0.06,0.06 0.12,0.11 0.16,0.15 0.05,0.03 0.08,0.06 0.12,0.07 0.03,0.01 0.05,0.01 0.08,0 0.02,0 0.05,-0.02 0.07,-0.05 0.03,-0.03 0.07,-0.09 0.11,-0.17 0.04,-0.09 0.09,-0.19 0.16,-0.31 0.06,-0.12 0.14,-0.26 0.25,-0.4 0.1,-0.15 0.23,-0.3 0.38,-0.46 0.3,-0.3 0.61,-0.49 0.94,-0.59 0.33,-0.1 0.66,-0.12 0.98,-0.06 0.33,0.06 0.65,0.18 0.97,0.37 0.33,0.18 0.63,0.41 0.92,0.69 -0.26,0.07 -0.54,0.18 -0.84,0.33 -0.3,0.15 -0.59,0.37 -0.89,0.67 -0.33,0.33 -0.56,0.65 -0.69,0.97 -0.14,0.31 -0.2,0.61 -0.18,0.91 0.02,0.29 0.11,0.57 0.27,0.85 0.15,0.27 0.35,0.53 0.61,0.79 0.26,0.26 0.55,0.47 0.86,0.63 0.32,0.16 0.64,0.25 0.99,0.27 0.34,0.02 0.69,-0.04 1.05,-0.19 0.35,-0.14 0.71,-0.39 1.06,-0.74 0.24,-0.24 0.43,-0.49 0.56,-0.75 0.13,-0.25 0.2,-0.51 0.23,-0.77 0.02,-0.26 0,-0.52 -0.07,-0.78 -0.07,-0.27 -0.18,-0.53 -0.33,-0.8 -0.15,-0.27 -0.34,-0.55 -0.56,-0.82 -0.22,-0.27 -0.47,-0.54 -0.74,-0.81 z m -0.71,0.89 c 0.39,0.39 0.69,0.74 0.91,1.06 0.21,0.32 0.35,0.61 0.42,0.88 0.06,0.27 0.06,0.51 -0.02,0.73 -0.07,0.22 -0.2,0.43 -0.4,0.62 -0.19,0.2 -0.4,0.33 -0.61,0.4 -0.22,0.07 -0.43,0.09 -0.64,0.06 -0.21,-0.03 -0.41,-0.1 -0.61,-0.21 -0.19,-0.11 -0.37,-0.25 -0.53,-0.41 -0.19,-0.18 -0.33,-0.37 -0.44,-0.55 -0.11,-0.19 -0.18,-0.38 -0.2,-0.57 -0.02,-0.19 0.02,-0.38 0.1,-0.58 0.08,-0.19 0.22,-0.39 0.42,-0.59 0.23,-0.23 0.49,-0.42 0.77,-0.56 0.28,-0.15 0.56,-0.24 0.83,-0.28 z m 5.47,-5.65 c -0.26,-0.26 -0.53,-0.51 -0.82,-0.74 -0.3,-0.23 -0.6,-0.43 -0.92,-0.6 -0.32,-0.17 -0.64,-0.3 -0.98,-0.39 -0.33,-0.09 -0.68,-0.12 -1.02,-0.09 -0.35,0.03 -0.7,0.13 -1.05,0.3 -0.35,0.17 -0.69,0.42 -1.03,0.76 -0.14,0.14 -0.25,0.27 -0.36,0.41 -0.11,0.14 -0.2,0.27 -0.27,0.4 -0.08,0.12 -0.14,0.23 -0.18,0.33 -0.04,0.09 -0.06,0.17 -0.06,0.23 0,0.05 0.01,0.11 0.05,0.17 0.03,0.07 0.09,0.14 0.17,0.22 0.06,0.06 0.12,0.11 0.16,0.15 0.05,0.03 0.08,0.06 0.11,0.07 0.04,0.01 0.06,0.01 0.09,0.01 0.02,-0.01 0.05,-0.03 0.07,-0.06 0.03,-0.03 0.07,-0.09 0.11,-0.17 0.04,-0.09 0.09,-0.19 0.15,-0.31 0.07,-0.12 0.15,-0.25 0.26,-0.4 0.1,-0.15 0.23,-0.3 0.38,-0.46 0.3,-0.3 0.61,-0.49 0.94,-0.59 0.33,-0.1 0.65,-0.12 0.98,-0.06 0.33,0.06 0.65,0.18 0.97,0.37 0.33,0.18 0.63,0.41 0.92,0.69 -0.26,0.07 -0.54,0.18 -0.84,0.33 -0.3,0.15 -0.59,0.38 -0.89,0.67 -0.33,0.33 -0.56,0.65 -0.69,0.97 -0.14,0.31 -0.2,0.62 -0.18,0.91 0.02,0.29 0.11,0.57 0.26,0.85 0.16,0.27 0.36,0.53 0.62,0.79 0.26,0.26 0.55,0.47 0.86,0.63 0.31,0.16 0.64,0.25 0.99,0.27 0.34,0.02 0.69,-0.04 1.05,-0.19 0.35,-0.14 0.71,-0.39 1.06,-0.74 0.24,-0.24 0.43,-0.49 0.56,-0.75 0.13,-0.25 0.2,-0.51 0.23,-0.77 0.02,-0.25 0,-0.52 -0.07,-0.78 -0.07,-0.27 -0.18,-0.53 -0.33,-0.8 -0.15,-0.27 -0.34,-0.55 -0.56,-0.82 -0.22,-0.27 -0.47,-0.54 -0.74,-0.81 z m -0.71,0.89 c 0.39,0.39 0.69,0.74 0.91,1.06 0.21,0.32 0.35,0.61 0.42,0.88 0.06,0.27 0.06,0.51 -0.02,0.73 -0.07,0.22 -0.2,0.43 -0.4,0.62 -0.2,0.2 -0.4,0.33 -0.61,0.4 -0.22,0.07 -0.43,0.09 -0.64,0.06 -0.21,-0.03 -0.41,-0.1 -0.61,-0.21 -0.19,-0.11 -0.37,-0.25 -0.54,-0.41 -0.18,-0.18 -0.32,-0.37 -0.43,-0.55 -0.12,-0.19 -0.18,-0.38 -0.2,-0.57 -0.02,-0.19 0.01,-0.38 0.1,-0.58 0.08,-0.19 0.22,-0.39 0.42,-0.59 0.23,-0.23 0.49,-0.42 0.77,-0.56 0.28,-0.15 0.56,-0.24 0.83,-0.28 z m 4.3,-7.04 c -0.26,-0.26 -0.55,-0.47 -0.88,-0.63 -0.32,-0.17 -0.66,-0.26 -1.01,-0.28 -0.35,-0.02 -0.7,0.04 -1.07,0.18 -0.36,0.15 -0.72,0.39 -1.07,0.74 -0.24,0.24 -0.43,0.49 -0.56,0.74 -0.13,0.25 -0.21,0.51 -0.23,0.76 -0.03,0.25 -0.01,0.51 0.06,0.77 0.07,0.26 0.19,0.52 0.34,0.79 0.16,0.26 0.35,0.54 0.57,0.81 0.23,0.28 0.49,0.56 0.77,0.85 0.26,0.25 0.53,0.49 0.82,0.72 0.28,0.24 0.58,0.44 0.89,0.61 0.32,0.17 0.64,0.3 0.97,0.39 0.34,0.1 0.67,0.13 1.01,0.11 0.34,-0.03 0.68,-0.12 1.03,-0.28 0.34,-0.17 0.69,-0.42 1.02,-0.75 0.12,-0.11 0.22,-0.24 0.33,-0.37 0.1,-0.13 0.19,-0.25 0.26,-0.37 0.08,-0.12 0.13,-0.23 0.17,-0.33 0.04,-0.09 0.07,-0.16 0.07,-0.2 0,-0.03 0,-0.07 -0.01,-0.1 -0.01,-0.03 -0.02,-0.06 -0.04,-0.09 -0.01,-0.03 -0.03,-0.06 -0.06,-0.09 -0.03,-0.03 -0.06,-0.07 -0.1,-0.11 -0.06,-0.06 -0.11,-0.1 -0.15,-0.14 -0.04,-0.04 -0.08,-0.07 -0.11,-0.08 -0.04,-0.01 -0.07,-0.02 -0.1,-0.01 -0.03,0 -0.06,0.02 -0.08,0.04 -0.04,0.04 -0.07,0.09 -0.11,0.17 -0.04,0.08 -0.08,0.18 -0.14,0.29 -0.06,0.1 -0.13,0.23 -0.23,0.37 -0.09,0.14 -0.22,0.28 -0.38,0.44 -0.28,0.28 -0.58,0.47 -0.91,0.56 -0.32,0.09 -0.64,0.1 -0.97,0.03 -0.32,-0.06 -0.64,-0.19 -0.97,-0.39 -0.32,-0.19 -0.62,-0.43 -0.91,-0.7 0.12,-0.03 0.26,-0.08 0.4,-0.13 0.15,-0.05 0.3,-0.12 0.45,-0.2 0.16,-0.08 0.31,-0.18 0.47,-0.29 0.15,-0.11 0.3,-0.23 0.45,-0.38 0.32,-0.33 0.55,-0.64 0.68,-0.95 0.14,-0.3 0.19,-0.6 0.18,-0.89 -0.02,-0.29 -0.11,-0.57 -0.26,-0.84 -0.15,-0.27 -0.35,-0.52 -0.59,-0.77 z m -0.87,0.73 c 0.17,0.17 0.32,0.35 0.43,0.53 0.11,0.18 0.17,0.36 0.19,0.55 0.02,0.18 -0.01,0.37 -0.1,0.56 -0.08,0.2 -0.22,0.39 -0.42,0.59 -0.12,0.12 -0.24,0.22 -0.37,0.31 -0.14,0.1 -0.27,0.18 -0.41,0.25 -0.14,0.07 -0.29,0.13 -0.43,0.18 -0.14,0.05 -0.28,0.08 -0.42,0.11 -0.39,-0.4 -0.7,-0.75 -0.91,-1.07 -0.22,-0.31 -0.36,-0.6 -0.42,-0.86 -0.07,-0.26 -0.06,-0.49 0.01,-0.7 0.08,-0.21 0.21,-0.42 0.41,-0.61 0.19,-0.2 0.4,-0.33 0.61,-0.4 0.22,-0.07 0.44,-0.09 0.66,-0.06 0.22,0.03 0.43,0.1 0.62,0.21 0.2,0.11 0.38,0.24 0.55,0.41 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3847" />
+        </g>
+      </g>
+      <g
+         id="g3849">
+        <g
+           id="g3851"
+           clip-path="url(#clipPath3855)">
+          <path
+             d="m 283.5,184.78 c -0.06,-0.06 -0.12,-0.11 -0.16,-0.14 -0.05,-0.03 -0.1,-0.05 -0.14,-0.06 -0.04,0 -0.07,0 -0.1,0 -0.03,0.01 -0.06,0.03 -0.08,0.05 l -3.1,3.1 c -0.02,0.02 -0.04,0.05 -0.05,0.08 0,0.03 0,0.06 0,0.1 0.01,0.04 0.03,0.09 0.06,0.14 0.03,0.05 0.08,0.1 0.13,0.16 0.06,0.05 0.11,0.1 0.16,0.13 0.05,0.03 0.09,0.05 0.13,0.06 0.04,0.01 0.08,0.02 0.11,0.01 0.04,-0.01 0.07,-0.02 0.09,-0.05 l 1.24,-1.23 4.51,4.51 -1.83,0.46 c -0.09,0.03 -0.15,0.06 -0.19,0.09 -0.04,0.03 -0.06,0.06 -0.07,0.1 0,0.04 0.02,0.09 0.06,0.14 0.04,0.06 0.09,0.12 0.16,0.19 0.05,0.05 0.1,0.09 0.14,0.13 0.04,0.03 0.08,0.05 0.11,0.07 0.04,0.01 0.07,0.02 0.11,0.02 0.03,0 0.07,0 0.12,-0.01 l 2.24,-0.49 c 0.02,0 0.05,-0.01 0.07,-0.02 0.02,-0.01 0.05,-0.03 0.09,-0.05 0.03,-0.02 0.07,-0.05 0.11,-0.09 0.03,-0.03 0.08,-0.08 0.14,-0.13 0.07,-0.08 0.13,-0.14 0.17,-0.2 0.04,-0.05 0.07,-0.1 0.09,-0.14 0.02,-0.03 0.02,-0.07 0.01,-0.09 0,-0.03 -0.02,-0.05 -0.04,-0.07 l -5.21,-5.21 1.07,-1.08 c 0.03,-0.02 0.04,-0.05 0.05,-0.09 0.01,-0.03 0.01,-0.07 -0.01,-0.11 -0.01,-0.04 -0.03,-0.08 -0.06,-0.13 -0.04,-0.05 -0.08,-0.1 -0.13,-0.15 z m 7.68,-1.9 c -0.26,-0.26 -0.53,-0.51 -0.83,-0.74 -0.29,-0.23 -0.6,-0.43 -0.91,-0.6 -0.32,-0.17 -0.65,-0.3 -0.98,-0.39 -0.34,-0.09 -0.68,-0.12 -1.03,-0.09 -0.35,0.03 -0.69,0.13 -1.04,0.3 -0.35,0.17 -0.7,0.42 -1.04,0.76 -0.13,0.13 -0.25,0.27 -0.36,0.41 -0.1,0.14 -0.19,0.27 -0.27,0.4 -0.07,0.12 -0.13,0.23 -0.17,0.33 -0.04,0.09 -0.06,0.17 -0.06,0.23 -0.01,0.05 0.01,0.11 0.04,0.17 0.03,0.07 0.09,0.14 0.17,0.22 0.07,0.06 0.12,0.11 0.17,0.15 0.04,0.03 0.08,0.06 0.11,0.07 0.03,0.01 0.06,0.01 0.08,0 0.03,0 0.05,-0.02 0.08,-0.05 0.03,-0.03 0.07,-0.09 0.1,-0.17 0.04,-0.09 0.09,-0.19 0.16,-0.31 0.07,-0.12 0.15,-0.26 0.25,-0.4 0.1,-0.15 0.23,-0.3 0.39,-0.46 0.3,-0.3 0.61,-0.49 0.94,-0.59 0.32,-0.1 0.65,-0.12 0.98,-0.06 0.32,0.06 0.65,0.18 0.97,0.37 0.32,0.18 0.62,0.41 0.91,0.69 -0.25,0.07 -0.53,0.18 -0.83,0.33 -0.3,0.15 -0.6,0.37 -0.89,0.67 -0.33,0.33 -0.56,0.65 -0.7,0.97 -0.13,0.31 -0.19,0.61 -0.17,0.91 0.02,0.29 0.11,0.57 0.26,0.85 0.15,0.27 0.36,0.53 0.61,0.79 0.27,0.26 0.55,0.47 0.87,0.63 0.31,0.16 0.64,0.25 0.98,0.27 0.34,0.02 0.69,-0.04 1.05,-0.19 0.36,-0.14 0.71,-0.39 1.06,-0.74 0.25,-0.24 0.44,-0.49 0.56,-0.75 0.13,-0.25 0.21,-0.51 0.23,-0.77 0.02,-0.26 0,-0.52 -0.07,-0.78 -0.07,-0.27 -0.18,-0.53 -0.33,-0.8 -0.15,-0.27 -0.33,-0.55 -0.55,-0.82 -0.22,-0.27 -0.47,-0.54 -0.74,-0.81 z m -0.72,0.89 c 0.39,0.39 0.7,0.74 0.91,1.06 0.22,0.32 0.36,0.61 0.42,0.88 0.07,0.27 0.06,0.51 -0.01,0.73 -0.08,0.22 -0.21,0.43 -0.4,0.62 -0.2,0.2 -0.41,0.33 -0.62,0.4 -0.21,0.07 -0.42,0.09 -0.63,0.06 -0.21,-0.03 -0.42,-0.1 -0.61,-0.21 -0.2,-0.11 -0.38,-0.25 -0.54,-0.41 -0.18,-0.18 -0.33,-0.37 -0.44,-0.55 -0.11,-0.19 -0.17,-0.38 -0.19,-0.57 -0.02,-0.19 0.01,-0.38 0.09,-0.58 0.08,-0.19 0.22,-0.39 0.43,-0.59 0.22,-0.23 0.48,-0.42 0.76,-0.56 0.29,-0.15 0.56,-0.24 0.83,-0.28 z m 5.48,-5.65 c -0.26,-0.26 -0.54,-0.51 -0.83,-0.74 -0.29,-0.23 -0.6,-0.43 -0.91,-0.6 -0.32,-0.17 -0.65,-0.3 -0.98,-0.39 -0.34,-0.09 -0.68,-0.12 -1.03,-0.09 -0.35,0.03 -0.69,0.13 -1.04,0.3 -0.35,0.17 -0.7,0.42 -1.04,0.76 -0.13,0.14 -0.25,0.27 -0.36,0.41 -0.1,0.14 -0.19,0.27 -0.27,0.4 -0.07,0.12 -0.13,0.23 -0.17,0.33 -0.04,0.09 -0.06,0.17 -0.07,0.23 0,0.05 0.02,0.11 0.05,0.17 0.03,0.07 0.09,0.14 0.17,0.22 0.07,0.06 0.12,0.11 0.17,0.15 0.04,0.03 0.08,0.06 0.11,0.07 0.03,0.01 0.06,0.01 0.08,0.01 0.03,-0.01 0.05,-0.03 0.08,-0.06 0.03,-0.03 0.07,-0.09 0.1,-0.17 0.04,-0.09 0.09,-0.19 0.16,-0.31 0.07,-0.12 0.15,-0.25 0.25,-0.4 0.1,-0.15 0.23,-0.3 0.39,-0.46 0.3,-0.3 0.61,-0.49 0.94,-0.59 0.32,-0.1 0.65,-0.12 0.98,-0.06 0.32,0.06 0.65,0.18 0.97,0.37 0.32,0.18 0.62,0.41 0.91,0.69 -0.25,0.07 -0.53,0.18 -0.83,0.33 -0.3,0.15 -0.6,0.38 -0.89,0.67 -0.33,0.33 -0.57,0.65 -0.7,0.97 -0.13,0.31 -0.19,0.62 -0.17,0.91 0.02,0.29 0.11,0.57 0.26,0.85 0.15,0.27 0.36,0.53 0.61,0.79 0.26,0.26 0.55,0.47 0.87,0.63 0.31,0.16 0.64,0.25 0.98,0.27 0.34,0.02 0.69,-0.04 1.05,-0.19 0.36,-0.14 0.71,-0.39 1.06,-0.74 0.25,-0.24 0.44,-0.49 0.56,-0.75 0.13,-0.25 0.21,-0.51 0.23,-0.77 0.02,-0.25 0,-0.52 -0.07,-0.78 -0.07,-0.27 -0.18,-0.53 -0.33,-0.8 -0.15,-0.27 -0.33,-0.55 -0.55,-0.82 -0.23,-0.27 -0.47,-0.54 -0.74,-0.81 z m -0.72,0.89 c 0.39,0.39 0.7,0.74 0.91,1.06 0.22,0.32 0.36,0.61 0.42,0.88 0.07,0.27 0.06,0.51 -0.01,0.73 -0.08,0.22 -0.21,0.43 -0.4,0.62 -0.2,0.2 -0.41,0.33 -0.62,0.4 -0.21,0.07 -0.42,0.09 -0.63,0.06 -0.21,-0.03 -0.42,-0.1 -0.61,-0.21 -0.2,-0.11 -0.38,-0.25 -0.54,-0.41 -0.18,-0.18 -0.33,-0.37 -0.44,-0.55 -0.11,-0.19 -0.18,-0.38 -0.19,-0.57 -0.02,-0.19 0.01,-0.38 0.09,-0.58 0.08,-0.19 0.22,-0.39 0.42,-0.59 0.23,-0.23 0.49,-0.42 0.77,-0.56 0.29,-0.15 0.56,-0.24 0.83,-0.28 z m 3.89,-7.42 c -0.26,-0.26 -0.53,-0.44 -0.82,-0.55 -0.3,-0.11 -0.6,-0.15 -0.91,-0.11 -0.31,0.03 -0.63,0.14 -0.95,0.33 -0.32,0.18 -0.65,0.43 -0.98,0.76 -0.3,0.31 -0.54,0.61 -0.72,0.92 -0.18,0.3 -0.29,0.6 -0.33,0.9 -0.04,0.29 -0.02,0.57 0.08,0.85 0.09,0.27 0.26,0.52 0.49,0.76 0.19,0.18 0.39,0.33 0.61,0.42 0.21,0.09 0.45,0.15 0.69,0.17 0.25,0.01 0.51,0 0.8,-0.06 0.28,-0.05 0.58,-0.13 0.89,-0.24 -0.09,0.28 -0.15,0.54 -0.18,0.79 -0.04,0.24 -0.04,0.48 -0.02,0.7 0.03,0.22 0.09,0.43 0.18,0.62 0.09,0.19 0.22,0.37 0.38,0.53 0.21,0.21 0.44,0.37 0.7,0.48 0.25,0.1 0.53,0.15 0.81,0.13 0.29,-0.02 0.59,-0.1 0.9,-0.26 0.31,-0.15 0.62,-0.39 0.93,-0.7 0.3,-0.3 0.53,-0.59 0.67,-0.88 0.15,-0.3 0.23,-0.57 0.25,-0.84 0.02,-0.27 -0.02,-0.52 -0.12,-0.75 -0.1,-0.24 -0.25,-0.45 -0.44,-0.64 -0.16,-0.16 -0.33,-0.28 -0.53,-0.38 -0.19,-0.09 -0.4,-0.15 -0.63,-0.18 -0.22,-0.03 -0.46,-0.03 -0.72,0 -0.25,0.03 -0.52,0.08 -0.8,0.17 0.11,-0.32 0.19,-0.63 0.25,-0.91 0.06,-0.28 0.08,-0.55 0.06,-0.79 -0.01,-0.25 -0.07,-0.47 -0.15,-0.68 -0.09,-0.2 -0.22,-0.39 -0.39,-0.56 z m 2.05,4.03 c 0.13,0.13 0.23,0.27 0.29,0.42 0.06,0.15 0.08,0.3 0.07,0.46 -0.01,0.16 -0.07,0.32 -0.15,0.48 -0.09,0.17 -0.22,0.33 -0.38,0.5 -0.33,0.33 -0.66,0.5 -0.97,0.52 -0.32,0.02 -0.61,-0.1 -0.87,-0.36 -0.12,-0.12 -0.21,-0.25 -0.27,-0.39 -0.07,-0.15 -0.1,-0.31 -0.1,-0.49 -0.01,-0.18 0.01,-0.38 0.06,-0.6 0.04,-0.22 0.11,-0.47 0.2,-0.74 0.47,-0.15 0.88,-0.22 1.24,-0.19 0.36,0.03 0.65,0.16 0.88,0.39 z m -2.93,-3.32 c 0.14,0.14 0.24,0.3 0.3,0.46 0.07,0.17 0.09,0.35 0.09,0.56 -0.01,0.2 -0.04,0.43 -0.11,0.68 -0.06,0.25 -0.15,0.53 -0.25,0.84 -0.29,0.1 -0.56,0.17 -0.8,0.22 -0.24,0.06 -0.45,0.08 -0.65,0.07 -0.19,-0.01 -0.37,-0.04 -0.53,-0.11 -0.16,-0.06 -0.3,-0.16 -0.44,-0.3 -0.29,-0.29 -0.42,-0.62 -0.38,-0.99 0.04,-0.37 0.26,-0.75 0.67,-1.15 0.39,-0.39 0.77,-0.61 1.13,-0.65 0.36,-0.03 0.69,0.09 0.97,0.37 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3857" />
+        </g>
+      </g>
+      <g
+         id="g3859">
+        <g
+           id="g3861"
+           clip-path="url(#clipPath3865)">
+          <path
+             d="m 304.04,184.82 c -0.05,-0.06 -0.1,-0.1 -0.15,-0.14 -0.05,-0.03 -0.1,-0.06 -0.14,-0.07 -0.05,-0.02 -0.09,-0.02 -0.12,-0.01 -0.04,0.01 -0.07,0.03 -0.1,0.05 l -3.28,3.28 c -0.04,0.05 -0.07,0.09 -0.09,0.13 -0.03,0.04 -0.04,0.09 -0.03,0.14 0,0.04 0.02,0.1 0.05,0.15 0.04,0.06 0.09,0.12 0.15,0.19 0.07,0.06 0.12,0.11 0.17,0.15 0.05,0.04 0.1,0.07 0.15,0.09 0.05,0.02 0.11,0.04 0.17,0.05 0.06,0.01 0.13,0.02 0.2,0.02 l 2.41,0.03 c 0.55,0.01 1.03,0.04 1.42,0.1 0.38,0.06 0.72,0.13 0.99,0.23 0.27,0.09 0.5,0.2 0.68,0.32 0.17,0.12 0.33,0.25 0.46,0.38 0.13,0.13 0.23,0.28 0.31,0.44 0.07,0.16 0.11,0.33 0.12,0.5 0,0.17 -0.03,0.35 -0.11,0.53 -0.07,0.18 -0.19,0.35 -0.36,0.51 -0.19,0.19 -0.39,0.34 -0.59,0.44 -0.21,0.1 -0.4,0.18 -0.57,0.23 -0.18,0.06 -0.33,0.1 -0.46,0.12 -0.13,0.03 -0.21,0.06 -0.25,0.1 -0.02,0.02 -0.04,0.04 -0.04,0.07 -0.01,0.03 0,0.07 0.01,0.11 0.02,0.04 0.05,0.08 0.09,0.13 0.04,0.06 0.09,0.11 0.15,0.18 0.05,0.04 0.09,0.08 0.13,0.11 0.03,0.03 0.07,0.06 0.1,0.07 0.03,0.02 0.07,0.03 0.1,0.04 0.03,0.01 0.08,0.01 0.15,0.01 0.07,-0.01 0.18,-0.03 0.32,-0.06 0.15,-0.04 0.32,-0.09 0.51,-0.18 0.19,-0.08 0.38,-0.18 0.58,-0.31 0.2,-0.13 0.39,-0.28 0.57,-0.46 0.29,-0.29 0.5,-0.58 0.63,-0.88 0.14,-0.29 0.21,-0.58 0.21,-0.87 0,-0.28 -0.06,-0.55 -0.17,-0.81 -0.12,-0.25 -0.28,-0.49 -0.49,-0.7 -0.19,-0.19 -0.4,-0.36 -0.62,-0.51 -0.22,-0.16 -0.5,-0.29 -0.82,-0.4 -0.33,-0.11 -0.73,-0.2 -1.2,-0.26 -0.48,-0.06 -1.06,-0.1 -1.74,-0.11 l -1.93,-0.04 2.59,-2.58 c 0.02,-0.03 0.04,-0.06 0.05,-0.09 0.01,-0.04 0,-0.08 -0.01,-0.13 -0.01,-0.04 -0.03,-0.09 -0.06,-0.14 -0.04,-0.04 -0.08,-0.1 -0.14,-0.15 z m 7.6,-2.32 c -0.45,-0.45 -0.9,-0.83 -1.35,-1.14 -0.45,-0.3 -0.89,-0.5 -1.33,-0.61 -0.44,-0.1 -0.86,-0.09 -1.28,0.03 -0.42,0.12 -0.83,0.38 -1.22,0.77 -0.37,0.37 -0.62,0.75 -0.74,1.14 -0.13,0.39 -0.14,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.31,0.45 0.71,0.91 1.2,1.4 0.45,0.45 0.91,0.83 1.36,1.14 0.45,0.3 0.89,0.51 1.33,0.61 0.43,0.11 0.86,0.1 1.28,-0.02 0.41,-0.12 0.82,-0.38 1.21,-0.77 0.38,-0.38 0.62,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.11,-0.41 -0.31,-0.84 -0.62,-1.29 -0.32,-0.44 -0.72,-0.91 -1.21,-1.4 z m -0.86,0.76 c 0.3,0.29 0.55,0.57 0.77,0.83 0.21,0.25 0.39,0.49 0.53,0.71 0.14,0.23 0.24,0.43 0.3,0.63 0.07,0.2 0.09,0.38 0.09,0.56 -0.01,0.17 -0.05,0.34 -0.13,0.5 -0.08,0.15 -0.2,0.3 -0.34,0.45 -0.26,0.26 -0.54,0.41 -0.82,0.45 -0.28,0.04 -0.58,0 -0.89,-0.12 -0.3,-0.12 -0.62,-0.31 -0.94,-0.56 -0.32,-0.26 -0.65,-0.55 -0.98,-0.88 -0.44,-0.44 -0.79,-0.84 -1.06,-1.2 -0.26,-0.36 -0.44,-0.68 -0.54,-0.98 -0.1,-0.29 -0.11,-0.56 -0.05,-0.8 0.07,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.54,-0.37 0.18,-0.07 0.37,-0.11 0.57,-0.1 0.19,0.01 0.39,0.06 0.6,0.14 0.2,0.08 0.41,0.19 0.62,0.33 0.21,0.14 0.43,0.3 0.65,0.49 0.21,0.19 0.43,0.4 0.65,0.62 z m 5.62,-5.52 c -0.45,-0.45 -0.9,-0.83 -1.35,-1.14 -0.45,-0.3 -0.89,-0.5 -1.33,-0.61 -0.44,-0.1 -0.87,-0.09 -1.28,0.03 -0.42,0.12 -0.83,0.38 -1.22,0.77 -0.37,0.37 -0.62,0.75 -0.74,1.14 -0.13,0.39 -0.14,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.31,0.45 0.71,0.91 1.2,1.4 0.45,0.45 0.9,0.83 1.36,1.14 0.45,0.3 0.89,0.51 1.33,0.61 0.43,0.11 0.86,0.1 1.28,-0.02 0.41,-0.12 0.82,-0.38 1.21,-0.77 0.37,-0.38 0.62,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.11,-0.41 -0.31,-0.84 -0.63,-1.29 -0.31,-0.44 -0.71,-0.91 -1.2,-1.4 z m -0.86,0.76 c 0.3,0.29 0.55,0.57 0.77,0.83 0.21,0.25 0.39,0.49 0.53,0.71 0.14,0.23 0.24,0.43 0.3,0.63 0.07,0.2 0.09,0.38 0.09,0.56 -0.01,0.17 -0.06,0.34 -0.13,0.5 -0.08,0.15 -0.2,0.3 -0.34,0.45 -0.26,0.26 -0.54,0.41 -0.82,0.45 -0.28,0.04 -0.58,0 -0.89,-0.12 -0.31,-0.12 -0.62,-0.31 -0.94,-0.56 -0.32,-0.26 -0.65,-0.55 -0.98,-0.88 -0.44,-0.44 -0.79,-0.84 -1.06,-1.2 -0.26,-0.36 -0.44,-0.68 -0.54,-0.98 -0.1,-0.29 -0.11,-0.56 -0.05,-0.8 0.07,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.54,-0.37 0.18,-0.07 0.37,-0.11 0.57,-0.1 0.19,0.01 0.39,0.06 0.6,0.14 0.2,0.08 0.41,0.19 0.62,0.33 0.21,0.14 0.43,0.3 0.64,0.49 0.22,0.19 0.44,0.4 0.66,0.62 z m 5.62,-5.52 c -0.45,-0.45 -0.91,-0.83 -1.35,-1.14 -0.45,-0.3 -0.89,-0.5 -1.33,-0.61 -0.44,-0.1 -0.87,-0.09 -1.28,0.03 -0.42,0.12 -0.83,0.38 -1.22,0.77 -0.37,0.37 -0.62,0.75 -0.74,1.14 -0.13,0.39 -0.14,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.31,0.45 0.71,0.91 1.2,1.4 0.45,0.46 0.9,0.83 1.36,1.14 0.45,0.3 0.89,0.51 1.33,0.61 0.43,0.11 0.86,0.1 1.28,-0.02 0.41,-0.12 0.82,-0.38 1.21,-0.77 0.37,-0.38 0.62,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.11,-0.41 -0.31,-0.84 -0.63,-1.29 -0.31,-0.44 -0.71,-0.91 -1.2,-1.4 z m -0.86,0.76 c 0.3,0.29 0.55,0.57 0.77,0.83 0.21,0.25 0.39,0.49 0.53,0.72 0.13,0.22 0.24,0.43 0.3,0.62 0.07,0.2 0.09,0.38 0.09,0.56 -0.01,0.17 -0.06,0.34 -0.13,0.5 -0.08,0.15 -0.2,0.3 -0.34,0.45 -0.26,0.26 -0.54,0.41 -0.82,0.45 -0.29,0.04 -0.58,0 -0.89,-0.12 -0.31,-0.12 -0.62,-0.31 -0.94,-0.56 -0.32,-0.26 -0.65,-0.55 -0.98,-0.88 -0.44,-0.44 -0.8,-0.84 -1.06,-1.2 -0.26,-0.36 -0.44,-0.68 -0.54,-0.98 -0.1,-0.29 -0.11,-0.56 -0.05,-0.8 0.07,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.54,-0.37 0.18,-0.07 0.37,-0.11 0.57,-0.1 0.19,0.01 0.39,0.06 0.6,0.14 0.2,0.08 0.41,0.19 0.62,0.33 0.21,0.14 0.43,0.3 0.64,0.49 0.22,0.19 0.44,0.4 0.66,0.62 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3867" />
+        </g>
+      </g>
+      <g
+         id="g3869">
+        <g
+           id="g3871"
+           clip-path="url(#clipPath3875)">
+          <path
+             d="m 324.58,184.82 c -0.06,-0.06 -0.11,-0.1 -0.16,-0.14 -0.05,-0.03 -0.1,-0.06 -0.14,-0.07 -0.04,-0.02 -0.08,-0.02 -0.12,-0.01 -0.03,0.01 -0.07,0.03 -0.09,0.05 l -3.28,3.28 c -0.05,0.05 -0.08,0.09 -0.1,0.13 -0.02,0.04 -0.03,0.09 -0.03,0.14 0,0.04 0.02,0.1 0.06,0.15 0.03,0.06 0.08,0.12 0.15,0.19 0.06,0.06 0.12,0.11 0.17,0.15 0.05,0.04 0.1,0.07 0.15,0.09 0.05,0.02 0.1,0.04 0.16,0.05 0.06,0.01 0.13,0.02 0.21,0.02 l 2.4,0.03 c 0.56,0.01 1.03,0.04 1.42,0.1 0.39,0.06 0.72,0.13 0.99,0.23 0.28,0.09 0.5,0.2 0.68,0.32 0.18,0.12 0.33,0.25 0.47,0.38 0.13,0.13 0.23,0.28 0.3,0.44 0.08,0.16 0.12,0.33 0.12,0.5 0.01,0.17 -0.03,0.35 -0.1,0.53 -0.08,0.18 -0.2,0.35 -0.36,0.51 -0.19,0.19 -0.39,0.34 -0.6,0.44 -0.2,0.1 -0.39,0.18 -0.57,0.23 -0.18,0.06 -0.33,0.1 -0.46,0.12 -0.13,0.03 -0.21,0.06 -0.25,0.1 -0.02,0.02 -0.03,0.04 -0.04,0.07 0,0.03 0,0.07 0.02,0.11 0.01,0.04 0.04,0.08 0.08,0.13 0.04,0.06 0.09,0.11 0.16,0.18 0.04,0.04 0.09,0.08 0.12,0.11 0.04,0.03 0.07,0.06 0.11,0.07 0.03,0.02 0.06,0.03 0.09,0.04 0.04,0.01 0.09,0.01 0.16,0.01 0.07,-0.01 0.17,-0.03 0.32,-0.06 0.14,-0.04 0.31,-0.09 0.5,-0.18 0.19,-0.08 0.39,-0.18 0.59,-0.31 0.2,-0.13 0.39,-0.28 0.57,-0.46 0.28,-0.29 0.49,-0.58 0.63,-0.88 0.13,-0.29 0.2,-0.58 0.2,-0.87 0.01,-0.28 -0.05,-0.55 -0.17,-0.81 -0.11,-0.25 -0.28,-0.49 -0.49,-0.7 -0.19,-0.19 -0.39,-0.36 -0.62,-0.51 -0.22,-0.16 -0.49,-0.29 -0.82,-0.4 -0.33,-0.11 -0.73,-0.2 -1.2,-0.26 -0.47,-0.06 -1.05,-0.1 -1.74,-0.11 l -1.92,-0.04 2.58,-2.58 c 0.03,-0.03 0.04,-0.06 0.05,-0.09 0.01,-0.04 0.01,-0.08 0,-0.13 -0.01,-0.04 -0.03,-0.09 -0.07,-0.14 -0.03,-0.04 -0.08,-0.1 -0.13,-0.15 z m 7.6,-2.32 c -0.46,-0.45 -0.91,-0.83 -1.36,-1.14 -0.45,-0.3 -0.89,-0.5 -1.32,-0.61 -0.44,-0.1 -0.87,-0.09 -1.29,0.03 -0.41,0.12 -0.82,0.38 -1.21,0.77 -0.38,0.37 -0.63,0.75 -0.75,1.14 -0.12,0.39 -0.13,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.32,0.45 0.72,0.91 1.21,1.4 0.45,0.45 0.9,0.83 1.35,1.14 0.45,0.3 0.9,0.51 1.33,0.61 0.44,0.11 0.86,0.1 1.28,-0.02 0.42,-0.12 0.82,-0.38 1.21,-0.77 0.38,-0.38 0.63,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.1,-0.41 -0.31,-0.84 -0.62,-1.29 -0.31,-0.44 -0.71,-0.91 -1.2,-1.4 z m -0.86,0.76 c 0.29,0.29 0.55,0.57 0.76,0.83 0.22,0.25 0.39,0.49 0.53,0.71 0.14,0.23 0.24,0.43 0.31,0.63 0.06,0.2 0.09,0.38 0.08,0.56 -0.01,0.17 -0.05,0.34 -0.13,0.5 -0.08,0.15 -0.19,0.3 -0.34,0.45 -0.26,0.26 -0.53,0.41 -0.81,0.45 -0.29,0.04 -0.59,0 -0.89,-0.12 -0.31,-0.12 -0.62,-0.31 -0.95,-0.56 -0.32,-0.26 -0.64,-0.55 -0.97,-0.88 -0.45,-0.44 -0.8,-0.84 -1.06,-1.2 -0.27,-0.36 -0.45,-0.68 -0.55,-0.98 -0.09,-0.29 -0.11,-0.56 -0.04,-0.8 0.06,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.53,-0.37 0.19,-0.07 0.38,-0.11 0.57,-0.1 0.2,0.01 0.4,0.06 0.6,0.14 0.21,0.08 0.42,0.19 0.63,0.33 0.21,0.14 0.42,0.3 0.64,0.49 0.22,0.19 0.44,0.4 0.66,0.62 z m 5.62,-5.52 c -0.46,-0.45 -0.91,-0.83 -1.36,-1.14 -0.45,-0.3 -0.89,-0.5 -1.33,-0.61 -0.43,-0.1 -0.86,-0.09 -1.28,0.03 -0.41,0.12 -0.82,0.38 -1.22,0.77 -0.37,0.37 -0.62,0.75 -0.74,1.14 -0.12,0.39 -0.13,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.32,0.45 0.72,0.91 1.21,1.4 0.45,0.45 0.9,0.83 1.35,1.14 0.45,0.3 0.89,0.51 1.33,0.61 0.44,0.11 0.86,0.1 1.28,-0.02 0.42,-0.12 0.82,-0.38 1.21,-0.77 0.38,-0.38 0.63,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.1,-0.41 -0.31,-0.84 -0.62,-1.29 -0.31,-0.44 -0.71,-0.91 -1.2,-1.4 z m -0.86,0.76 c 0.29,0.29 0.55,0.57 0.76,0.83 0.22,0.25 0.39,0.49 0.53,0.71 0.14,0.23 0.24,0.43 0.31,0.63 0.06,0.2 0.09,0.38 0.08,0.56 -0.01,0.17 -0.05,0.34 -0.13,0.5 -0.08,0.15 -0.19,0.3 -0.34,0.45 -0.26,0.26 -0.53,0.41 -0.82,0.45 -0.28,0.04 -0.58,0 -0.88,-0.12 -0.31,-0.12 -0.62,-0.31 -0.95,-0.56 -0.32,-0.26 -0.64,-0.55 -0.97,-0.88 -0.45,-0.44 -0.8,-0.84 -1.06,-1.2 -0.27,-0.36 -0.45,-0.68 -0.55,-0.98 -0.09,-0.29 -0.11,-0.56 -0.04,-0.8 0.06,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.53,-0.37 0.19,-0.07 0.38,-0.11 0.57,-0.1 0.2,0.01 0.4,0.06 0.6,0.14 0.21,0.08 0.42,0.19 0.63,0.33 0.21,0.14 0.42,0.3 0.64,0.49 0.22,0.19 0.44,0.4 0.66,0.62 z m 2.78,-7.96 c -0.06,-0.06 -0.11,-0.1 -0.16,-0.14 -0.05,-0.03 -0.1,-0.06 -0.14,-0.07 -0.04,-0.02 -0.08,-0.02 -0.12,-0.01 -0.04,0.01 -0.07,0.03 -0.1,0.05 l -3.28,3.28 c -0.04,0.05 -0.07,0.09 -0.09,0.13 -0.02,0.05 -0.03,0.09 -0.03,0.14 0,0.05 0.02,0.1 0.05,0.15 0.04,0.06 0.09,0.12 0.16,0.19 0.06,0.06 0.11,0.11 0.17,0.15 0.05,0.04 0.1,0.07 0.15,0.09 0.05,0.02 0.1,0.04 0.16,0.05 0.06,0.01 0.13,0.02 0.21,0.02 l 2.4,0.03 c 0.56,0.01 1.03,0.04 1.42,0.1 0.39,0.06 0.72,0.14 0.99,0.23 0.28,0.09 0.5,0.2 0.68,0.32 0.18,0.12 0.33,0.25 0.46,0.38 0.14,0.13 0.24,0.28 0.31,0.44 0.07,0.16 0.11,0.33 0.12,0.5 0,0.18 -0.03,0.35 -0.1,0.53 -0.08,0.18 -0.2,0.35 -0.36,0.51 -0.19,0.19 -0.39,0.34 -0.6,0.44 -0.2,0.1 -0.39,0.18 -0.57,0.23 -0.18,0.06 -0.33,0.1 -0.46,0.12 -0.13,0.03 -0.21,0.06 -0.25,0.1 -0.02,0.02 -0.04,0.05 -0.04,0.08 -0.01,0.03 0,0.06 0.02,0.1 0.01,0.04 0.04,0.08 0.08,0.13 0.04,0.06 0.09,0.11 0.16,0.18 0.04,0.04 0.08,0.08 0.12,0.11 0.04,0.03 0.07,0.06 0.1,0.07 0.04,0.02 0.07,0.03 0.1,0.04 0.04,0.01 0.09,0.02 0.16,0.01 0.06,0 0.17,-0.02 0.32,-0.06 0.14,-0.03 0.31,-0.09 0.5,-0.18 0.19,-0.08 0.38,-0.18 0.58,-0.31 0.2,-0.13 0.39,-0.28 0.58,-0.46 0.28,-0.29 0.49,-0.58 0.63,-0.88 0.13,-0.29 0.2,-0.58 0.2,-0.87 0,-0.28 -0.05,-0.55 -0.17,-0.81 -0.12,-0.25 -0.28,-0.49 -0.49,-0.7 -0.19,-0.19 -0.4,-0.36 -0.62,-0.51 -0.22,-0.16 -0.49,-0.29 -0.82,-0.4 -0.33,-0.11 -0.73,-0.2 -1.2,-0.26 -0.47,-0.06 -1.05,-0.1 -1.74,-0.11 l -1.92,-0.04 2.58,-2.58 c 0.02,-0.03 0.04,-0.06 0.05,-0.09 0.01,-0.04 0.01,-0.08 0,-0.12 -0.01,-0.05 -0.04,-0.1 -0.07,-0.14 -0.03,-0.05 -0.08,-0.1 -0.13,-0.16 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3877" />
+        </g>
+      </g>
+      <g
+         id="g3879">
+        <g
+           id="g3881"
+           clip-path="url(#clipPath3885)">
+          <path
+             d="m 345.11,184.82 c -0.05,-0.06 -0.1,-0.1 -0.15,-0.14 -0.05,-0.03 -0.1,-0.06 -0.14,-0.07 -0.05,-0.02 -0.09,-0.02 -0.12,-0.01 -0.04,0.01 -0.07,0.03 -0.1,0.05 l -3.28,3.28 c -0.04,0.05 -0.07,0.09 -0.1,0.13 -0.02,0.04 -0.03,0.09 -0.02,0.14 0,0.04 0.01,0.1 0.05,0.15 0.04,0.06 0.09,0.12 0.15,0.19 0.06,0.06 0.12,0.11 0.17,0.15 0.05,0.04 0.1,0.07 0.15,0.09 0.05,0.02 0.11,0.04 0.17,0.05 0.06,0.01 0.13,0.02 0.2,0.02 l 2.41,0.03 c 0.55,0.01 1.03,0.04 1.42,0.1 0.38,0.06 0.72,0.13 0.99,0.23 0.27,0.09 0.5,0.2 0.68,0.32 0.17,0.12 0.33,0.25 0.46,0.38 0.13,0.13 0.23,0.28 0.31,0.44 0.07,0.16 0.11,0.33 0.12,0.5 0,0.17 -0.03,0.35 -0.11,0.53 -0.07,0.18 -0.19,0.35 -0.36,0.51 -0.19,0.19 -0.39,0.34 -0.59,0.44 -0.21,0.1 -0.4,0.18 -0.57,0.23 -0.18,0.06 -0.33,0.1 -0.46,0.12 -0.13,0.03 -0.22,0.06 -0.25,0.1 -0.03,0.02 -0.04,0.04 -0.04,0.07 -0.01,0.03 0,0.07 0.01,0.11 0.02,0.04 0.05,0.08 0.09,0.13 0.04,0.06 0.09,0.11 0.15,0.18 0.05,0.04 0.09,0.08 0.13,0.11 0.03,0.03 0.07,0.06 0.1,0.07 0.03,0.02 0.06,0.03 0.1,0.04 0.03,0.01 0.08,0.01 0.15,0.01 0.07,-0.01 0.18,-0.03 0.32,-0.06 0.15,-0.04 0.32,-0.09 0.51,-0.18 0.19,-0.08 0.38,-0.18 0.58,-0.31 0.2,-0.13 0.39,-0.28 0.57,-0.46 0.29,-0.29 0.5,-0.58 0.63,-0.88 0.14,-0.29 0.21,-0.58 0.21,-0.87 0,-0.28 -0.06,-0.55 -0.17,-0.81 -0.12,-0.25 -0.28,-0.49 -0.49,-0.7 -0.19,-0.19 -0.4,-0.36 -0.62,-0.51 -0.22,-0.16 -0.5,-0.29 -0.82,-0.4 -0.33,-0.11 -0.73,-0.2 -1.2,-0.26 -0.48,-0.06 -1.06,-0.1 -1.74,-0.11 l -1.93,-0.04 2.59,-2.58 c 0.02,-0.03 0.04,-0.06 0.05,-0.09 0.01,-0.04 0,-0.08 -0.01,-0.13 -0.01,-0.04 -0.03,-0.09 -0.06,-0.14 -0.04,-0.04 -0.08,-0.1 -0.14,-0.15 z m 7.6,-2.32 c -0.45,-0.45 -0.9,-0.83 -1.35,-1.14 -0.45,-0.3 -0.89,-0.5 -1.33,-0.61 -0.44,-0.1 -0.86,-0.09 -1.28,0.03 -0.42,0.12 -0.83,0.38 -1.22,0.77 -0.37,0.37 -0.62,0.75 -0.74,1.14 -0.13,0.39 -0.14,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.31,0.45 0.71,0.91 1.2,1.4 0.45,0.45 0.9,0.83 1.36,1.14 0.45,0.3 0.89,0.51 1.33,0.61 0.43,0.11 0.86,0.1 1.28,-0.02 0.41,-0.12 0.82,-0.38 1.21,-0.77 0.38,-0.38 0.62,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.11,-0.41 -0.31,-0.84 -0.62,-1.29 -0.32,-0.44 -0.72,-0.91 -1.21,-1.4 z m -0.86,0.76 c 0.3,0.29 0.55,0.57 0.77,0.83 0.21,0.25 0.39,0.49 0.53,0.71 0.14,0.23 0.24,0.43 0.3,0.63 0.07,0.2 0.09,0.38 0.09,0.56 -0.01,0.17 -0.05,0.34 -0.13,0.5 -0.08,0.15 -0.2,0.3 -0.34,0.45 -0.26,0.26 -0.54,0.41 -0.82,0.45 -0.28,0.04 -0.58,0 -0.89,-0.12 -0.3,-0.12 -0.62,-0.31 -0.94,-0.56 -0.32,-0.26 -0.65,-0.55 -0.98,-0.88 -0.44,-0.44 -0.79,-0.84 -1.06,-1.2 -0.26,-0.36 -0.44,-0.68 -0.54,-0.98 -0.1,-0.29 -0.11,-0.56 -0.05,-0.8 0.07,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.54,-0.37 0.18,-0.07 0.37,-0.11 0.57,-0.1 0.19,0.01 0.39,0.06 0.6,0.14 0.2,0.08 0.41,0.19 0.62,0.33 0.21,0.14 0.43,0.3 0.65,0.49 0.21,0.19 0.43,0.4 0.65,0.62 z m 5.62,-5.52 c -0.45,-0.45 -0.9,-0.83 -1.35,-1.14 -0.45,-0.3 -0.89,-0.5 -1.33,-0.61 -0.44,-0.1 -0.87,-0.09 -1.28,0.03 -0.42,0.12 -0.83,0.38 -1.22,0.77 -0.37,0.37 -0.62,0.75 -0.74,1.14 -0.13,0.39 -0.14,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.31,0.45 0.71,0.91 1.2,1.4 0.45,0.45 0.9,0.83 1.36,1.14 0.45,0.3 0.89,0.51 1.33,0.61 0.43,0.11 0.86,0.1 1.28,-0.02 0.41,-0.12 0.82,-0.38 1.21,-0.77 0.37,-0.38 0.62,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.11,-0.41 -0.31,-0.84 -0.63,-1.29 -0.31,-0.44 -0.71,-0.91 -1.2,-1.4 z m -0.86,0.76 c 0.3,0.29 0.55,0.57 0.77,0.83 0.21,0.25 0.39,0.49 0.53,0.71 0.14,0.23 0.24,0.43 0.3,0.63 0.07,0.2 0.09,0.38 0.09,0.56 -0.01,0.17 -0.06,0.34 -0.13,0.5 -0.08,0.15 -0.2,0.3 -0.34,0.45 -0.26,0.26 -0.54,0.41 -0.82,0.45 -0.28,0.04 -0.58,0 -0.89,-0.12 -0.31,-0.12 -0.62,-0.31 -0.94,-0.56 -0.32,-0.26 -0.65,-0.55 -0.98,-0.88 -0.44,-0.44 -0.79,-0.84 -1.06,-1.2 -0.26,-0.36 -0.44,-0.68 -0.54,-0.98 -0.1,-0.29 -0.11,-0.56 -0.05,-0.8 0.07,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.54,-0.37 0.18,-0.07 0.37,-0.11 0.57,-0.1 0.19,0.01 0.39,0.06 0.6,0.14 0.2,0.08 0.41,0.19 0.62,0.33 0.21,0.14 0.43,0.3 0.64,0.49 0.22,0.19 0.44,0.4 0.66,0.62 z m 4.38,-6.86 c -0.1,-0.1 -0.19,-0.17 -0.28,-0.2 -0.09,-0.02 -0.16,-0.01 -0.22,0.04 l -0.67,0.67 -1.24,-1.24 c -0.03,-0.03 -0.05,-0.04 -0.08,-0.05 -0.03,0 -0.07,0.01 -0.11,0.03 -0.05,0.02 -0.1,0.05 -0.15,0.09 -0.06,0.05 -0.13,0.11 -0.21,0.19 -0.07,0.07 -0.13,0.14 -0.18,0.19 -0.04,0.06 -0.07,0.11 -0.09,0.15 -0.02,0.04 -0.02,0.08 -0.02,0.11 0.01,0.03 0.02,0.05 0.05,0.08 l 1.25,1.24 -2.43,2.43 c -0.04,0.04 -0.07,0.07 -0.08,0.11 -0.02,0.03 -0.02,0.07 -0.02,0.11 0.01,0.05 0.03,0.1 0.07,0.15 0.04,0.05 0.09,0.12 0.17,0.19 0.05,0.06 0.11,0.11 0.16,0.15 0.05,0.04 0.09,0.08 0.14,0.11 0.05,0.03 0.1,0.05 0.15,0.07 0.05,0.02 0.1,0.04 0.16,0.06 l 5.73,1.49 c 0.04,0.01 0.08,0.01 0.13,0 0.05,-0.01 0.1,-0.04 0.16,-0.07 0.06,-0.04 0.12,-0.09 0.2,-0.15 0.07,-0.06 0.15,-0.14 0.25,-0.24 0.1,-0.1 0.18,-0.19 0.25,-0.28 0.07,-0.08 0.12,-0.15 0.16,-0.21 0.03,-0.06 0.05,-0.11 0.06,-0.16 0,-0.04 -0.01,-0.08 -0.04,-0.11 l -3.78,-3.78 0.67,-0.67 c 0.05,-0.06 0.06,-0.12 0.04,-0.21 -0.02,-0.09 -0.09,-0.18 -0.2,-0.29 z m 1.95,5.21 -0.01,0.01 -5.16,-1.35 1.92,-1.92 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3887" />
+        </g>
+      </g>
+      <g
+         id="g3889">
+        <g
+           id="g3891"
+           clip-path="url(#clipPath3895)">
+          <path
+             d="m 365.65,184.82 c -0.06,-0.06 -0.11,-0.1 -0.16,-0.14 -0.05,-0.03 -0.1,-0.06 -0.14,-0.07 -0.04,-0.02 -0.08,-0.02 -0.12,-0.01 -0.03,0.01 -0.07,0.03 -0.09,0.05 l -3.28,3.28 c -0.05,0.05 -0.08,0.09 -0.1,0.13 -0.02,0.04 -0.03,0.09 -0.03,0.14 0,0.04 0.02,0.1 0.06,0.15 0.03,0.06 0.08,0.12 0.15,0.19 0.06,0.06 0.12,0.11 0.17,0.15 0.05,0.04 0.1,0.07 0.15,0.09 0.05,0.02 0.1,0.04 0.16,0.05 0.06,0.01 0.13,0.02 0.21,0.02 l 2.4,0.03 c 0.56,0.01 1.03,0.04 1.42,0.1 0.39,0.06 0.72,0.13 0.99,0.23 0.28,0.09 0.5,0.2 0.68,0.32 0.18,0.12 0.33,0.25 0.47,0.38 0.13,0.13 0.23,0.28 0.3,0.44 0.08,0.16 0.12,0.33 0.12,0.5 0.01,0.17 -0.03,0.35 -0.1,0.53 -0.08,0.18 -0.2,0.35 -0.36,0.51 -0.19,0.19 -0.39,0.34 -0.6,0.44 -0.2,0.1 -0.39,0.18 -0.57,0.23 -0.18,0.06 -0.33,0.1 -0.46,0.12 -0.13,0.03 -0.21,0.06 -0.25,0.1 -0.02,0.02 -0.03,0.04 -0.04,0.07 0,0.03 0,0.07 0.02,0.11 0.01,0.04 0.04,0.08 0.08,0.13 0.04,0.06 0.09,0.11 0.16,0.18 0.04,0.04 0.09,0.08 0.12,0.11 0.04,0.03 0.07,0.06 0.11,0.07 0.03,0.02 0.06,0.03 0.09,0.04 0.04,0.01 0.09,0.01 0.16,0.01 0.07,-0.01 0.17,-0.03 0.32,-0.06 0.14,-0.04 0.31,-0.09 0.5,-0.18 0.19,-0.08 0.39,-0.18 0.59,-0.31 0.2,-0.13 0.39,-0.28 0.57,-0.46 0.28,-0.29 0.49,-0.58 0.63,-0.88 0.13,-0.29 0.2,-0.58 0.2,-0.87 0.01,-0.28 -0.05,-0.55 -0.17,-0.81 -0.11,-0.25 -0.28,-0.49 -0.49,-0.7 -0.19,-0.19 -0.39,-0.36 -0.62,-0.51 -0.22,-0.16 -0.49,-0.29 -0.82,-0.4 -0.33,-0.11 -0.73,-0.2 -1.2,-0.26 -0.47,-0.06 -1.05,-0.1 -1.74,-0.11 l -1.92,-0.04 2.58,-2.58 c 0.03,-0.03 0.04,-0.06 0.05,-0.09 0.01,-0.04 0.01,-0.08 0,-0.13 -0.01,-0.04 -0.03,-0.09 -0.07,-0.14 -0.03,-0.04 -0.08,-0.1 -0.13,-0.15 z m 7.6,-2.32 c -0.46,-0.45 -0.91,-0.83 -1.36,-1.14 -0.45,-0.3 -0.89,-0.5 -1.32,-0.61 -0.44,-0.1 -0.87,-0.09 -1.29,0.03 -0.41,0.12 -0.82,0.38 -1.21,0.77 -0.38,0.37 -0.63,0.75 -0.75,1.14 -0.12,0.39 -0.13,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.32,0.45 0.72,0.91 1.21,1.4 0.45,0.45 0.9,0.83 1.35,1.14 0.45,0.3 0.9,0.51 1.33,0.61 0.44,0.11 0.86,0.1 1.28,-0.02 0.42,-0.12 0.82,-0.38 1.21,-0.77 0.38,-0.38 0.63,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.1,-0.41 -0.31,-0.84 -0.62,-1.29 -0.31,-0.44 -0.71,-0.91 -1.2,-1.4 z m -0.86,0.76 c 0.29,0.29 0.55,0.57 0.76,0.83 0.22,0.25 0.39,0.49 0.53,0.71 0.14,0.23 0.24,0.43 0.31,0.63 0.06,0.2 0.09,0.38 0.08,0.56 -0.01,0.17 -0.05,0.34 -0.13,0.5 -0.08,0.15 -0.19,0.3 -0.34,0.45 -0.26,0.26 -0.53,0.41 -0.81,0.45 -0.29,0.04 -0.59,0 -0.89,-0.12 -0.31,-0.12 -0.62,-0.31 -0.95,-0.56 -0.32,-0.26 -0.64,-0.55 -0.97,-0.88 -0.45,-0.44 -0.8,-0.84 -1.06,-1.2 -0.27,-0.36 -0.45,-0.68 -0.55,-0.98 -0.09,-0.29 -0.11,-0.56 -0.04,-0.8 0.06,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.53,-0.37 0.19,-0.07 0.38,-0.11 0.57,-0.1 0.2,0.01 0.4,0.06 0.6,0.14 0.21,0.08 0.42,0.19 0.63,0.33 0.21,0.14 0.42,0.3 0.64,0.49 0.22,0.19 0.44,0.4 0.66,0.62 z m 5.62,-5.52 c -0.46,-0.45 -0.91,-0.83 -1.36,-1.14 -0.45,-0.3 -0.89,-0.5 -1.33,-0.61 -0.43,-0.1 -0.86,-0.09 -1.28,0.03 -0.41,0.12 -0.82,0.38 -1.22,0.77 -0.37,0.37 -0.62,0.75 -0.74,1.14 -0.12,0.39 -0.13,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.32,0.45 0.72,0.91 1.21,1.4 0.45,0.45 0.9,0.83 1.35,1.14 0.45,0.3 0.89,0.51 1.33,0.61 0.44,0.11 0.86,0.1 1.28,-0.02 0.42,-0.12 0.82,-0.38 1.21,-0.77 0.38,-0.38 0.63,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.1,-0.41 -0.31,-0.84 -0.62,-1.29 -0.31,-0.44 -0.71,-0.91 -1.2,-1.4 z m -0.86,0.76 c 0.29,0.29 0.55,0.57 0.76,0.83 0.22,0.25 0.39,0.49 0.53,0.71 0.14,0.23 0.24,0.43 0.31,0.63 0.06,0.2 0.09,0.38 0.08,0.56 -0.01,0.17 -0.05,0.34 -0.13,0.5 -0.08,0.15 -0.19,0.3 -0.34,0.45 -0.26,0.26 -0.53,0.41 -0.82,0.45 -0.28,0.04 -0.58,0 -0.88,-0.12 -0.31,-0.12 -0.62,-0.31 -0.95,-0.56 -0.32,-0.26 -0.64,-0.55 -0.97,-0.88 -0.45,-0.44 -0.8,-0.84 -1.06,-1.2 -0.27,-0.36 -0.45,-0.68 -0.55,-0.98 -0.09,-0.29 -0.11,-0.56 -0.04,-0.8 0.06,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.53,-0.37 0.19,-0.07 0.38,-0.11 0.57,-0.1 0.2,0.01 0.4,0.06 0.6,0.14 0.21,0.08 0.42,0.19 0.63,0.33 0.21,0.14 0.42,0.3 0.64,0.49 0.22,0.19 0.44,0.4 0.66,0.62 z m 4.51,-6.53 c -0.26,-0.26 -0.55,-0.47 -0.87,-0.63 -0.32,-0.17 -0.66,-0.26 -1.01,-0.28 -0.35,-0.02 -0.71,0.04 -1.07,0.18 -0.37,0.15 -0.73,0.39 -1.07,0.74 -0.25,0.24 -0.44,0.49 -0.56,0.74 -0.13,0.25 -0.21,0.51 -0.24,0.76 -0.03,0.25 0,0.51 0.07,0.77 0.07,0.26 0.18,0.52 0.34,0.79 0.15,0.26 0.34,0.54 0.57,0.81 0.22,0.28 0.48,0.56 0.77,0.85 0.25,0.25 0.52,0.49 0.81,0.72 0.29,0.24 0.59,0.44 0.9,0.61 0.31,0.17 0.63,0.3 0.97,0.39 0.33,0.1 0.67,0.13 1.01,0.11 0.34,-0.03 0.68,-0.12 1.02,-0.28 0.35,-0.17 0.69,-0.42 1.03,-0.75 0.11,-0.11 0.22,-0.24 0.32,-0.37 0.1,-0.13 0.19,-0.25 0.27,-0.37 0.07,-0.12 0.13,-0.23 0.17,-0.33 0.04,-0.09 0.06,-0.16 0.06,-0.2 0.01,-0.03 0.01,-0.07 0,-0.1 -0.01,-0.03 -0.02,-0.06 -0.04,-0.09 -0.02,-0.03 -0.04,-0.06 -0.07,-0.09 -0.02,-0.03 -0.06,-0.07 -0.1,-0.11 -0.05,-0.06 -0.1,-0.1 -0.14,-0.14 -0.04,-0.04 -0.08,-0.07 -0.12,-0.08 -0.03,-0.01 -0.06,-0.02 -0.09,-0.01 -0.03,0 -0.06,0.02 -0.09,0.04 -0.03,0.04 -0.07,0.09 -0.1,0.17 -0.04,0.08 -0.09,0.18 -0.14,0.29 -0.06,0.1 -0.14,0.23 -0.23,0.37 -0.1,0.14 -0.23,0.28 -0.38,0.44 -0.29,0.28 -0.59,0.47 -0.91,0.56 -0.32,0.09 -0.64,0.1 -0.97,0.03 -0.33,-0.06 -0.65,-0.19 -0.97,-0.39 -0.32,-0.19 -0.63,-0.43 -0.92,-0.7 0.13,-0.03 0.26,-0.08 0.41,-0.13 0.14,-0.05 0.29,-0.12 0.45,-0.2 0.15,-0.08 0.31,-0.18 0.46,-0.29 0.16,-0.11 0.31,-0.23 0.46,-0.38 0.32,-0.33 0.55,-0.64 0.68,-0.95 0.13,-0.3 0.19,-0.6 0.17,-0.89 -0.02,-0.29 -0.1,-0.57 -0.25,-0.84 -0.16,-0.27 -0.35,-0.52 -0.6,-0.77 z m -0.87,0.73 c 0.18,0.17 0.32,0.35 0.43,0.53 0.11,0.18 0.18,0.36 0.19,0.55 0.02,0.18 -0.01,0.37 -0.09,0.56 -0.08,0.2 -0.23,0.39 -0.43,0.59 -0.11,0.12 -0.23,0.22 -0.37,0.31 -0.13,0.1 -0.27,0.18 -0.41,0.25 -0.14,0.07 -0.28,0.13 -0.42,0.18 -0.15,0.05 -0.29,0.08 -0.42,0.11 -0.4,-0.4 -0.7,-0.75 -0.92,-1.07 -0.21,-0.31 -0.35,-0.6 -0.42,-0.86 -0.06,-0.26 -0.06,-0.49 0.02,-0.7 0.07,-0.21 0.21,-0.42 0.4,-0.61 0.2,-0.2 0.4,-0.33 0.62,-0.4 0.22,-0.07 0.43,-0.09 0.65,-0.06 0.22,0.03 0.43,0.1 0.63,0.21 0.2,0.11 0.38,0.24 0.54,0.41 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3897" />
+        </g>
+      </g>
+      <g
+         id="g3899">
+        <g
+           id="g3901"
+           clip-path="url(#clipPath3905)">
+          <path
+             d="m 386.18,184.82 c -0.05,-0.06 -0.1,-0.1 -0.15,-0.14 -0.05,-0.03 -0.1,-0.06 -0.14,-0.07 -0.05,-0.02 -0.09,-0.02 -0.12,-0.01 -0.04,0.01 -0.07,0.03 -0.1,0.05 l -3.28,3.28 c -0.04,0.05 -0.07,0.09 -0.1,0.13 -0.02,0.04 -0.03,0.09 -0.02,0.14 0,0.04 0.01,0.1 0.05,0.15 0.04,0.06 0.09,0.12 0.15,0.19 0.06,0.06 0.12,0.11 0.17,0.15 0.05,0.04 0.1,0.07 0.15,0.09 0.05,0.02 0.11,0.04 0.17,0.05 0.06,0.01 0.13,0.02 0.2,0.02 l 2.41,0.03 c 0.55,0.01 1.03,0.04 1.42,0.1 0.38,0.06 0.72,0.13 0.99,0.23 0.27,0.09 0.5,0.2 0.68,0.32 0.17,0.12 0.33,0.25 0.46,0.38 0.13,0.13 0.23,0.28 0.31,0.44 0.07,0.16 0.11,0.33 0.12,0.5 0,0.17 -0.03,0.35 -0.11,0.53 -0.07,0.18 -0.19,0.35 -0.36,0.51 -0.19,0.19 -0.39,0.34 -0.59,0.44 -0.21,0.1 -0.4,0.18 -0.57,0.23 -0.18,0.06 -0.33,0.1 -0.46,0.12 -0.13,0.03 -0.22,0.06 -0.25,0.1 -0.03,0.02 -0.04,0.04 -0.04,0.07 -0.01,0.03 0,0.07 0.01,0.11 0.02,0.04 0.05,0.08 0.09,0.13 0.04,0.06 0.09,0.11 0.15,0.18 0.05,0.04 0.09,0.08 0.13,0.11 0.03,0.03 0.07,0.06 0.1,0.07 0.03,0.02 0.06,0.03 0.1,0.04 0.03,0.01 0.08,0.01 0.15,0.01 0.07,-0.01 0.18,-0.03 0.32,-0.06 0.15,-0.04 0.32,-0.09 0.51,-0.18 0.19,-0.08 0.38,-0.18 0.58,-0.31 0.2,-0.13 0.39,-0.28 0.57,-0.46 0.29,-0.29 0.5,-0.58 0.63,-0.88 0.14,-0.29 0.21,-0.58 0.21,-0.87 0,-0.28 -0.06,-0.55 -0.17,-0.81 -0.12,-0.25 -0.28,-0.49 -0.49,-0.7 -0.19,-0.19 -0.4,-0.36 -0.62,-0.51 -0.22,-0.16 -0.5,-0.29 -0.82,-0.4 -0.33,-0.11 -0.73,-0.2 -1.2,-0.26 -0.48,-0.06 -1.06,-0.1 -1.74,-0.11 l -1.93,-0.04 2.59,-2.58 c 0.02,-0.03 0.04,-0.06 0.05,-0.09 0.01,-0.04 0,-0.08 -0.01,-0.13 -0.01,-0.04 -0.03,-0.09 -0.06,-0.14 -0.04,-0.04 -0.08,-0.1 -0.14,-0.15 z m 7.6,-2.32 c -0.45,-0.45 -0.9,-0.83 -1.35,-1.14 -0.45,-0.3 -0.89,-0.5 -1.33,-0.61 -0.44,-0.1 -0.86,-0.09 -1.28,0.03 -0.42,0.12 -0.83,0.38 -1.22,0.77 -0.37,0.37 -0.62,0.75 -0.74,1.14 -0.13,0.39 -0.14,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.31,0.45 0.71,0.91 1.2,1.4 0.45,0.45 0.9,0.83 1.36,1.14 0.45,0.3 0.89,0.51 1.33,0.61 0.43,0.11 0.86,0.1 1.28,-0.02 0.41,-0.12 0.82,-0.38 1.21,-0.77 0.38,-0.38 0.62,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.11,-0.41 -0.31,-0.84 -0.62,-1.29 -0.32,-0.44 -0.72,-0.91 -1.21,-1.4 z m -0.86,0.76 c 0.3,0.29 0.55,0.57 0.77,0.83 0.21,0.25 0.39,0.49 0.53,0.71 0.14,0.23 0.24,0.43 0.3,0.63 0.07,0.2 0.09,0.38 0.09,0.56 -0.01,0.17 -0.05,0.34 -0.13,0.5 -0.08,0.15 -0.2,0.3 -0.34,0.45 -0.26,0.26 -0.54,0.41 -0.82,0.45 -0.28,0.04 -0.58,0 -0.89,-0.12 -0.3,-0.12 -0.62,-0.31 -0.94,-0.56 -0.32,-0.26 -0.65,-0.55 -0.98,-0.88 -0.44,-0.44 -0.79,-0.84 -1.06,-1.2 -0.26,-0.36 -0.44,-0.68 -0.54,-0.98 -0.1,-0.29 -0.11,-0.56 -0.05,-0.8 0.07,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.54,-0.37 0.18,-0.07 0.37,-0.11 0.57,-0.1 0.19,0.01 0.39,0.06 0.6,0.14 0.2,0.08 0.41,0.19 0.62,0.33 0.21,0.14 0.43,0.3 0.65,0.49 0.21,0.19 0.43,0.4 0.65,0.62 z m 5.62,-5.52 c -0.45,-0.45 -0.9,-0.83 -1.35,-1.14 -0.45,-0.3 -0.89,-0.5 -1.33,-0.61 -0.44,-0.1 -0.87,-0.09 -1.28,0.03 -0.42,0.12 -0.83,0.38 -1.22,0.77 -0.37,0.37 -0.62,0.75 -0.74,1.14 -0.13,0.39 -0.14,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.31,0.45 0.71,0.91 1.2,1.4 0.45,0.45 0.9,0.83 1.36,1.14 0.45,0.3 0.89,0.51 1.33,0.61 0.43,0.11 0.86,0.1 1.28,-0.02 0.41,-0.12 0.82,-0.38 1.21,-0.77 0.37,-0.38 0.62,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.11,-0.41 -0.31,-0.84 -0.63,-1.29 -0.31,-0.44 -0.71,-0.91 -1.2,-1.4 z m -0.86,0.76 c 0.3,0.29 0.55,0.57 0.77,0.83 0.21,0.25 0.39,0.49 0.53,0.71 0.14,0.23 0.24,0.43 0.3,0.63 0.07,0.2 0.09,0.38 0.09,0.56 -0.01,0.17 -0.06,0.34 -0.13,0.5 -0.08,0.15 -0.2,0.3 -0.34,0.45 -0.26,0.26 -0.54,0.41 -0.82,0.45 -0.28,0.04 -0.58,0 -0.89,-0.12 -0.31,-0.12 -0.62,-0.31 -0.94,-0.56 -0.32,-0.26 -0.65,-0.55 -0.98,-0.88 -0.44,-0.44 -0.79,-0.84 -1.06,-1.2 -0.26,-0.36 -0.44,-0.68 -0.54,-0.98 -0.1,-0.29 -0.11,-0.56 -0.05,-0.8 0.07,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.54,-0.37 0.18,-0.07 0.37,-0.11 0.57,-0.1 0.19,0.01 0.39,0.06 0.6,0.14 0.2,0.08 0.41,0.19 0.62,0.33 0.21,0.14 0.43,0.3 0.64,0.49 0.22,0.19 0.44,0.4 0.66,0.62 z m 4.1,-6.91 c -0.25,-0.26 -0.53,-0.44 -0.82,-0.55 -0.29,-0.11 -0.59,-0.15 -0.9,-0.11 -0.31,0.03 -0.63,0.14 -0.95,0.33 -0.33,0.18 -0.65,0.43 -0.98,0.76 -0.31,0.31 -0.55,0.61 -0.73,0.92 -0.17,0.3 -0.28,0.6 -0.33,0.9 -0.04,0.29 -0.01,0.57 0.08,0.85 0.1,0.27 0.26,0.52 0.5,0.76 0.18,0.18 0.39,0.33 0.6,0.42 0.22,0.09 0.45,0.15 0.7,0.17 0.24,0.01 0.51,0 0.79,-0.06 0.28,-0.05 0.58,-0.13 0.9,-0.24 -0.09,0.28 -0.15,0.54 -0.19,0.79 -0.03,0.24 -0.04,0.48 -0.01,0.7 0.02,0.22 0.08,0.43 0.17,0.62 0.09,0.19 0.22,0.37 0.39,0.53 0.2,0.21 0.44,0.37 0.69,0.48 0.26,0.1 0.53,0.15 0.82,0.13 0.28,-0.02 0.58,-0.1 0.89,-0.26 0.32,-0.15 0.63,-0.39 0.94,-0.7 0.3,-0.3 0.52,-0.59 0.67,-0.88 0.15,-0.3 0.23,-0.57 0.25,-0.84 0.01,-0.27 -0.03,-0.52 -0.13,-0.75 -0.1,-0.24 -0.25,-0.45 -0.44,-0.64 -0.15,-0.16 -0.33,-0.28 -0.52,-0.38 -0.2,-0.09 -0.41,-0.15 -0.63,-0.18 -0.23,-0.03 -0.47,-0.03 -0.72,0 -0.26,0.03 -0.53,0.08 -0.81,0.17 0.11,-0.32 0.2,-0.63 0.25,-0.91 0.06,-0.28 0.08,-0.55 0.07,-0.79 -0.02,-0.25 -0.07,-0.47 -0.16,-0.68 -0.08,-0.2 -0.21,-0.39 -0.39,-0.56 z m 2.06,4.03 c 0.13,0.13 0.22,0.27 0.28,0.42 0.06,0.15 0.08,0.3 0.07,0.46 -0.01,0.16 -0.06,0.32 -0.15,0.48 -0.09,0.17 -0.21,0.33 -0.38,0.5 -0.33,0.33 -0.65,0.5 -0.97,0.52 -0.32,0.02 -0.61,-0.1 -0.87,-0.36 -0.12,-0.12 -0.21,-0.25 -0.27,-0.39 -0.06,-0.15 -0.09,-0.31 -0.1,-0.49 0,-0.18 0.02,-0.38 0.06,-0.6 0.05,-0.22 0.12,-0.47 0.21,-0.74 0.46,-0.15 0.88,-0.22 1.23,-0.19 0.36,0.03 0.66,0.16 0.89,0.39 z m -2.94,-3.32 c 0.14,0.14 0.25,0.3 0.31,0.46 0.06,0.17 0.09,0.35 0.08,0.56 0,0.2 -0.04,0.43 -0.1,0.68 -0.07,0.25 -0.15,0.53 -0.26,0.84 -0.29,0.1 -0.55,0.17 -0.79,0.22 -0.24,0.06 -0.46,0.08 -0.65,0.07 -0.2,-0.01 -0.37,-0.04 -0.53,-0.11 -0.16,-0.06 -0.31,-0.16 -0.44,-0.3 -0.3,-0.29 -0.43,-0.62 -0.38,-0.99 0.04,-0.37 0.26,-0.75 0.66,-1.15 0.39,-0.39 0.77,-0.61 1.14,-0.65 0.36,-0.03 0.68,0.09 0.96,0.37 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3907" />
+        </g>
+      </g>
+      <g
+         id="g3909">
+        <g
+           id="g3911"
+           clip-path="url(#clipPath3915)">
+          <path
+             d="m 406.72,184.82 c -0.06,-0.06 -0.11,-0.1 -0.16,-0.14 -0.05,-0.03 -0.1,-0.06 -0.14,-0.07 -0.04,-0.02 -0.08,-0.02 -0.12,-0.01 -0.03,0.01 -0.07,0.03 -0.09,0.05 l -3.28,3.28 c -0.05,0.05 -0.08,0.09 -0.1,0.13 -0.02,0.04 -0.03,0.09 -0.03,0.14 0,0.04 0.02,0.1 0.06,0.15 0.03,0.06 0.08,0.12 0.15,0.19 0.06,0.06 0.12,0.11 0.17,0.15 0.05,0.04 0.1,0.07 0.15,0.09 0.05,0.02 0.1,0.04 0.16,0.05 0.06,0.01 0.13,0.02 0.21,0.02 l 2.4,0.03 c 0.56,0.01 1.03,0.04 1.42,0.1 0.39,0.06 0.72,0.13 0.99,0.23 0.28,0.09 0.5,0.2 0.68,0.32 0.18,0.12 0.33,0.25 0.47,0.38 0.13,0.13 0.23,0.28 0.3,0.44 0.08,0.16 0.12,0.33 0.12,0.5 0.01,0.17 -0.03,0.35 -0.1,0.53 -0.08,0.18 -0.2,0.35 -0.36,0.51 -0.19,0.19 -0.39,0.34 -0.6,0.44 -0.2,0.1 -0.39,0.18 -0.57,0.23 -0.18,0.06 -0.33,0.1 -0.46,0.12 -0.13,0.03 -0.21,0.06 -0.25,0.1 -0.02,0.02 -0.03,0.04 -0.04,0.07 0,0.03 0,0.07 0.02,0.11 0.01,0.04 0.04,0.08 0.08,0.13 0.04,0.06 0.09,0.11 0.16,0.18 0.04,0.04 0.09,0.08 0.12,0.11 0.04,0.03 0.07,0.06 0.1,0.07 0.04,0.02 0.07,0.03 0.1,0.04 0.04,0.01 0.09,0.01 0.16,0.01 0.07,-0.01 0.17,-0.03 0.32,-0.06 0.14,-0.04 0.31,-0.09 0.5,-0.18 0.19,-0.08 0.39,-0.18 0.59,-0.31 0.2,-0.13 0.39,-0.28 0.57,-0.46 0.28,-0.29 0.49,-0.58 0.63,-0.88 0.13,-0.29 0.2,-0.58 0.2,-0.87 0.01,-0.28 -0.05,-0.55 -0.17,-0.81 -0.11,-0.25 -0.28,-0.49 -0.49,-0.7 -0.19,-0.19 -0.39,-0.36 -0.62,-0.51 -0.22,-0.16 -0.49,-0.29 -0.82,-0.4 -0.33,-0.11 -0.73,-0.2 -1.2,-0.26 -0.47,-0.06 -1.05,-0.1 -1.74,-0.11 l -1.92,-0.04 2.58,-2.58 c 0.03,-0.03 0.04,-0.06 0.05,-0.09 0.01,-0.04 0.01,-0.08 0,-0.13 -0.01,-0.04 -0.03,-0.09 -0.07,-0.14 -0.03,-0.04 -0.08,-0.1 -0.13,-0.15 z m 7.6,-2.32 c -0.46,-0.45 -0.91,-0.83 -1.36,-1.14 -0.45,-0.3 -0.89,-0.5 -1.33,-0.61 -0.43,-0.1 -0.86,-0.09 -1.28,0.03 -0.41,0.12 -0.82,0.38 -1.21,0.77 -0.38,0.37 -0.63,0.75 -0.75,1.14 -0.12,0.39 -0.13,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.32,0.45 0.72,0.91 1.21,1.4 0.45,0.45 0.9,0.83 1.35,1.14 0.45,0.3 0.9,0.51 1.33,0.61 0.44,0.11 0.86,0.1 1.28,-0.02 0.42,-0.12 0.82,-0.38 1.21,-0.77 0.38,-0.38 0.63,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.1,-0.41 -0.31,-0.84 -0.62,-1.29 -0.31,-0.44 -0.71,-0.91 -1.2,-1.4 z m -0.86,0.76 c 0.29,0.29 0.55,0.57 0.76,0.83 0.22,0.25 0.39,0.49 0.53,0.71 0.14,0.23 0.24,0.43 0.31,0.63 0.06,0.2 0.09,0.38 0.08,0.56 -0.01,0.17 -0.05,0.34 -0.13,0.5 -0.08,0.15 -0.19,0.3 -0.34,0.45 -0.26,0.26 -0.53,0.41 -0.82,0.45 -0.28,0.04 -0.58,0 -0.88,-0.12 -0.31,-0.12 -0.62,-0.31 -0.95,-0.56 -0.32,-0.26 -0.64,-0.55 -0.97,-0.88 -0.45,-0.44 -0.8,-0.84 -1.06,-1.2 -0.27,-0.36 -0.45,-0.68 -0.55,-0.98 -0.09,-0.29 -0.11,-0.56 -0.04,-0.8 0.06,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.53,-0.37 0.19,-0.07 0.38,-0.11 0.57,-0.1 0.2,0.01 0.4,0.06 0.6,0.14 0.21,0.08 0.42,0.19 0.63,0.33 0.21,0.14 0.42,0.3 0.64,0.49 0.22,0.19 0.44,0.4 0.66,0.62 z m 2.76,-8 c -0.05,-0.06 -0.11,-0.1 -0.16,-0.13 -0.04,-0.04 -0.09,-0.06 -0.13,-0.06 -0.04,-0.01 -0.07,-0.01 -0.1,0 -0.03,0 -0.06,0.02 -0.08,0.04 l -3.1,3.1 c -0.02,0.02 -0.04,0.05 -0.05,0.08 0,0.03 0,0.06 0,0.1 0.01,0.04 0.03,0.09 0.06,0.14 0.03,0.05 0.08,0.1 0.13,0.16 0.06,0.05 0.11,0.1 0.16,0.13 0.05,0.03 0.09,0.05 0.13,0.06 0.04,0.01 0.08,0.02 0.11,0.01 0.04,-0.01 0.07,-0.02 0.09,-0.04 l 1.24,-1.24 4.51,4.51 -1.83,0.46 c -0.09,0.03 -0.15,0.06 -0.19,0.09 -0.04,0.03 -0.07,0.06 -0.07,0.1 0,0.05 0.02,0.09 0.06,0.15 0.04,0.05 0.09,0.11 0.16,0.18 0.05,0.05 0.1,0.1 0.14,0.13 0.04,0.03 0.08,0.05 0.11,0.07 0.04,0.01 0.07,0.02 0.11,0.02 0.03,0.01 0.07,0 0.12,-0.01 l 2.24,-0.49 c 0.02,0 0.04,-0.01 0.07,-0.02 0.02,-0.01 0.05,-0.03 0.09,-0.05 0.03,-0.02 0.07,-0.05 0.1,-0.09 0.04,-0.03 0.09,-0.08 0.14,-0.13 0.08,-0.08 0.14,-0.14 0.18,-0.19 0.04,-0.06 0.07,-0.11 0.09,-0.14 0.01,-0.04 0.02,-0.07 0.01,-0.1 -0.01,-0.03 -0.02,-0.05 -0.04,-0.07 l -5.21,-5.21 1.07,-1.08 c 0.03,-0.02 0.04,-0.05 0.05,-0.09 0.01,-0.03 0,-0.07 -0.01,-0.11 -0.01,-0.04 -0.03,-0.08 -0.06,-0.13 -0.04,-0.05 -0.08,-0.1 -0.14,-0.15 z m 7.62,-2.28 c -0.46,-0.45 -0.91,-0.83 -1.36,-1.14 -0.45,-0.3 -0.89,-0.5 -1.33,-0.61 -0.43,-0.1 -0.86,-0.09 -1.28,0.03 -0.42,0.12 -0.82,0.38 -1.22,0.77 -0.37,0.37 -0.62,0.75 -0.74,1.14 -0.12,0.39 -0.13,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.31,0.45 0.72,0.91 1.2,1.4 0.46,0.46 0.91,0.83 1.36,1.14 0.45,0.3 0.89,0.51 1.33,0.61 0.44,0.11 0.86,0.1 1.28,-0.02 0.42,-0.12 0.82,-0.38 1.21,-0.77 0.38,-0.38 0.63,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.1,-0.41 -0.31,-0.84 -0.62,-1.29 -0.31,-0.44 -0.71,-0.91 -1.2,-1.4 z m -0.87,0.76 c 0.3,0.29 0.56,0.57 0.77,0.83 0.22,0.25 0.39,0.49 0.53,0.72 0.14,0.22 0.24,0.43 0.31,0.62 0.06,0.2 0.09,0.38 0.08,0.56 -0.01,0.17 -0.05,0.34 -0.13,0.5 -0.08,0.15 -0.19,0.3 -0.34,0.45 -0.26,0.26 -0.53,0.41 -0.82,0.45 -0.28,0.04 -0.58,0 -0.88,-0.12 -0.31,-0.12 -0.63,-0.31 -0.95,-0.56 -0.32,-0.26 -0.64,-0.55 -0.97,-0.88 -0.45,-0.44 -0.8,-0.84 -1.06,-1.2 -0.27,-0.36 -0.45,-0.68 -0.55,-0.98 -0.09,-0.29 -0.11,-0.56 -0.04,-0.8 0.06,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.53,-0.37 0.19,-0.07 0.38,-0.11 0.57,-0.1 0.2,0.01 0.4,0.06 0.6,0.14 0.21,0.08 0.42,0.19 0.63,0.33 0.21,0.14 0.42,0.3 0.64,0.49 0.22,0.19 0.43,0.4 0.65,0.62 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3917" />
+        </g>
+      </g>
+      <g
+         id="g3919">
+        <g
+           id="g3921"
+           clip-path="url(#clipPath3925)">
+          <path
+             d="m 427.25,184.82 c -0.05,-0.06 -0.1,-0.1 -0.15,-0.14 -0.05,-0.03 -0.1,-0.06 -0.14,-0.07 -0.05,-0.02 -0.09,-0.02 -0.12,-0.01 -0.04,0.01 -0.07,0.03 -0.1,0.05 l -3.28,3.28 c -0.04,0.05 -0.07,0.09 -0.1,0.13 -0.02,0.04 -0.03,0.09 -0.02,0.14 0,0.04 0.01,0.1 0.05,0.15 0.04,0.06 0.09,0.12 0.15,0.19 0.06,0.06 0.12,0.11 0.17,0.15 0.05,0.04 0.1,0.07 0.15,0.09 0.05,0.02 0.11,0.04 0.17,0.05 0.06,0.01 0.13,0.02 0.2,0.02 l 2.41,0.03 c 0.55,0.01 1.03,0.04 1.42,0.1 0.38,0.06 0.72,0.13 0.99,0.23 0.27,0.09 0.5,0.2 0.68,0.32 0.17,0.12 0.33,0.25 0.46,0.38 0.13,0.13 0.23,0.28 0.31,0.44 0.07,0.16 0.11,0.33 0.12,0.5 0,0.17 -0.03,0.35 -0.11,0.53 -0.07,0.18 -0.19,0.35 -0.36,0.51 -0.19,0.19 -0.39,0.34 -0.59,0.44 -0.21,0.1 -0.4,0.18 -0.57,0.23 -0.18,0.06 -0.33,0.1 -0.46,0.12 -0.13,0.03 -0.22,0.06 -0.25,0.1 -0.03,0.02 -0.04,0.04 -0.04,0.07 -0.01,0.03 0,0.07 0.01,0.11 0.02,0.04 0.05,0.08 0.09,0.13 0.04,0.06 0.09,0.11 0.15,0.18 0.05,0.04 0.09,0.08 0.13,0.11 0.03,0.03 0.07,0.06 0.1,0.07 0.03,0.02 0.06,0.03 0.1,0.04 0.03,0.01 0.08,0.01 0.15,0.01 0.07,-0.01 0.18,-0.03 0.32,-0.06 0.15,-0.04 0.32,-0.09 0.51,-0.18 0.19,-0.08 0.38,-0.18 0.58,-0.31 0.2,-0.13 0.39,-0.28 0.57,-0.46 0.29,-0.29 0.5,-0.58 0.63,-0.88 0.14,-0.29 0.21,-0.58 0.21,-0.87 0,-0.28 -0.06,-0.55 -0.17,-0.81 -0.12,-0.25 -0.28,-0.49 -0.49,-0.7 -0.19,-0.19 -0.4,-0.36 -0.62,-0.51 -0.22,-0.16 -0.5,-0.29 -0.82,-0.4 -0.33,-0.11 -0.73,-0.2 -1.2,-0.26 -0.48,-0.06 -1.06,-0.1 -1.74,-0.11 l -1.93,-0.04 2.59,-2.58 c 0.02,-0.03 0.04,-0.06 0.05,-0.09 0.01,-0.04 0,-0.08 -0.01,-0.13 -0.01,-0.04 -0.03,-0.09 -0.06,-0.14 -0.04,-0.04 -0.08,-0.1 -0.14,-0.15 z m 7.6,-2.32 c -0.45,-0.45 -0.9,-0.83 -1.35,-1.14 -0.45,-0.3 -0.89,-0.5 -1.33,-0.61 -0.44,-0.1 -0.86,-0.09 -1.28,0.03 -0.42,0.12 -0.83,0.38 -1.22,0.77 -0.37,0.37 -0.62,0.75 -0.74,1.14 -0.13,0.39 -0.14,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.31,0.45 0.71,0.91 1.2,1.4 0.45,0.45 0.9,0.83 1.36,1.14 0.45,0.3 0.89,0.51 1.33,0.61 0.43,0.11 0.86,0.1 1.28,-0.02 0.41,-0.12 0.82,-0.38 1.21,-0.77 0.38,-0.38 0.62,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.11,-0.41 -0.31,-0.84 -0.63,-1.29 -0.31,-0.44 -0.71,-0.91 -1.2,-1.4 z m -0.86,0.76 c 0.3,0.29 0.55,0.57 0.77,0.83 0.21,0.25 0.39,0.49 0.53,0.71 0.14,0.23 0.24,0.43 0.3,0.63 0.07,0.2 0.09,0.38 0.09,0.56 -0.01,0.17 -0.05,0.34 -0.13,0.5 -0.08,0.15 -0.2,0.3 -0.34,0.45 -0.26,0.26 -0.54,0.41 -0.82,0.45 -0.28,0.04 -0.58,0 -0.89,-0.12 -0.3,-0.12 -0.62,-0.31 -0.94,-0.56 -0.32,-0.26 -0.65,-0.55 -0.98,-0.88 -0.44,-0.44 -0.79,-0.84 -1.06,-1.2 -0.26,-0.36 -0.44,-0.68 -0.54,-0.98 -0.1,-0.29 -0.11,-0.56 -0.05,-0.8 0.07,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.54,-0.37 0.18,-0.07 0.37,-0.11 0.57,-0.1 0.19,0.01 0.39,0.06 0.6,0.14 0.2,0.08 0.41,0.19 0.62,0.33 0.21,0.14 0.43,0.3 0.65,0.49 0.21,0.19 0.43,0.4 0.65,0.62 z m 2.77,-8 c -0.06,-0.06 -0.11,-0.1 -0.16,-0.13 -0.05,-0.04 -0.09,-0.06 -0.13,-0.06 -0.04,-0.01 -0.08,-0.01 -0.11,0 -0.03,0 -0.06,0.02 -0.08,0.04 l -3.1,3.1 c -0.02,0.02 -0.03,0.05 -0.04,0.08 -0.01,0.03 -0.01,0.06 0,0.1 0.01,0.04 0.03,0.09 0.06,0.14 0.03,0.05 0.07,0.1 0.13,0.16 0.05,0.05 0.11,0.1 0.15,0.13 0.05,0.03 0.1,0.05 0.14,0.06 0.04,0.01 0.07,0.02 0.11,0.01 0.03,-0.01 0.06,-0.02 0.09,-0.04 l 1.23,-1.24 4.52,4.51 -1.83,0.46 c -0.09,0.03 -0.16,0.06 -0.2,0.09 -0.04,0.03 -0.06,0.06 -0.06,0.1 0,0.05 0.01,0.09 0.05,0.15 0.04,0.05 0.1,0.11 0.17,0.18 0.05,0.05 0.09,0.1 0.14,0.13 0.04,0.03 0.07,0.05 0.11,0.07 0.03,0.01 0.07,0.02 0.1,0.02 0.04,0.01 0.08,0 0.12,-0.01 l 2.25,-0.49 c 0.02,0 0.04,-0.01 0.06,-0.02 0.03,-0.01 0.06,-0.03 0.09,-0.05 0.04,-0.02 0.07,-0.05 0.11,-0.09 0.04,-0.03 0.08,-0.08 0.14,-0.13 0.07,-0.08 0.13,-0.14 0.17,-0.19 0.05,-0.06 0.08,-0.11 0.09,-0.14 0.02,-0.04 0.02,-0.07 0.02,-0.1 -0.01,-0.03 -0.02,-0.05 -0.04,-0.07 l -5.22,-5.21 1.08,-1.08 c 0.02,-0.02 0.04,-0.05 0.04,-0.09 0.01,-0.03 0.01,-0.07 0,-0.11 -0.02,-0.04 -0.04,-0.08 -0.07,-0.13 -0.03,-0.05 -0.08,-0.1 -0.13,-0.15 z m 4.77,-4.72 c -0.05,-0.06 -0.1,-0.1 -0.16,-0.14 -0.05,-0.03 -0.09,-0.06 -0.14,-0.07 -0.04,-0.02 -0.08,-0.02 -0.11,-0.01 -0.04,0.01 -0.07,0.03 -0.1,0.05 l -3.28,3.28 c -0.04,0.05 -0.08,0.09 -0.1,0.13 -0.02,0.05 -0.03,0.09 -0.03,0.14 0.01,0.05 0.02,0.1 0.06,0.15 0.03,0.06 0.09,0.12 0.15,0.19 0.06,0.06 0.12,0.11 0.17,0.15 0.05,0.04 0.1,0.07 0.15,0.09 0.05,0.02 0.11,0.04 0.17,0.05 0.06,0.01 0.12,0.02 0.2,0.02 l 2.41,0.03 c 0.55,0.01 1.03,0.04 1.41,0.1 0.39,0.06 0.72,0.14 1,0.23 0.27,0.09 0.5,0.2 0.67,0.32 0.18,0.12 0.34,0.25 0.47,0.38 0.13,0.13 0.23,0.28 0.31,0.44 0.07,0.16 0.11,0.33 0.11,0.5 0.01,0.18 -0.03,0.35 -0.1,0.53 -0.07,0.18 -0.19,0.35 -0.36,0.51 -0.19,0.19 -0.39,0.34 -0.59,0.44 -0.21,0.1 -0.4,0.18 -0.58,0.23 -0.17,0.06 -0.32,0.1 -0.45,0.12 -0.13,0.03 -0.22,0.06 -0.25,0.1 -0.03,0.02 -0.04,0.05 -0.05,0.08 0,0.03 0.01,0.06 0.02,0.1 0.02,0.04 0.05,0.08 0.09,0.13 0.04,0.06 0.09,0.11 0.15,0.18 0.05,0.04 0.09,0.08 0.13,0.11 0.03,0.03 0.07,0.06 0.1,0.07 0.03,0.02 0.06,0.03 0.1,0.04 0.03,0.01 0.08,0.02 0.15,0.01 0.07,0 0.18,-0.02 0.32,-0.06 0.15,-0.03 0.31,-0.09 0.5,-0.18 0.19,-0.08 0.39,-0.18 0.59,-0.31 0.2,-0.13 0.39,-0.28 0.57,-0.46 0.29,-0.29 0.5,-0.58 0.63,-0.88 0.14,-0.29 0.21,-0.58 0.21,-0.87 0,-0.28 -0.06,-0.55 -0.17,-0.81 -0.12,-0.25 -0.28,-0.49 -0.5,-0.7 -0.19,-0.19 -0.39,-0.36 -0.61,-0.51 -0.22,-0.16 -0.5,-0.29 -0.83,-0.4 -0.32,-0.11 -0.72,-0.2 -1.2,-0.26 -0.47,-0.06 -1.05,-0.1 -1.74,-0.11 l -1.92,-0.04 2.58,-2.58 c 0.03,-0.03 0.05,-0.06 0.05,-0.09 0.01,-0.04 0.01,-0.08 0,-0.12 -0.01,-0.05 -0.03,-0.1 -0.06,-0.14 -0.04,-0.05 -0.08,-0.1 -0.14,-0.16 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3927" />
+        </g>
+      </g>
+      <g
+         id="g3929">
+        <g
+           id="g3931"
+           clip-path="url(#clipPath3935)">
+          <path
+             d="m 447.79,184.82 c -0.06,-0.06 -0.11,-0.1 -0.16,-0.14 -0.05,-0.03 -0.1,-0.06 -0.14,-0.07 -0.04,-0.02 -0.08,-0.02 -0.12,-0.01 -0.03,0.01 -0.07,0.03 -0.09,0.05 l -3.28,3.28 c -0.05,0.05 -0.08,0.09 -0.1,0.13 -0.02,0.04 -0.03,0.09 -0.03,0.14 0,0.04 0.02,0.1 0.06,0.15 0.03,0.06 0.08,0.12 0.15,0.19 0.06,0.06 0.12,0.11 0.17,0.15 0.05,0.04 0.1,0.07 0.15,0.09 0.05,0.02 0.1,0.04 0.16,0.05 0.06,0.01 0.13,0.02 0.21,0.02 l 2.4,0.03 c 0.56,0.01 1.03,0.04 1.42,0.1 0.39,0.06 0.72,0.13 0.99,0.23 0.28,0.09 0.5,0.2 0.68,0.32 0.18,0.12 0.33,0.25 0.46,0.38 0.14,0.13 0.24,0.28 0.31,0.44 0.08,0.16 0.12,0.33 0.12,0.5 0.01,0.17 -0.03,0.35 -0.1,0.53 -0.08,0.18 -0.2,0.35 -0.36,0.51 -0.19,0.19 -0.39,0.34 -0.6,0.44 -0.2,0.1 -0.39,0.18 -0.57,0.23 -0.18,0.06 -0.33,0.1 -0.46,0.12 -0.13,0.03 -0.21,0.06 -0.25,0.1 -0.02,0.02 -0.03,0.04 -0.04,0.07 0,0.03 0,0.07 0.02,0.11 0.01,0.04 0.04,0.08 0.08,0.13 0.04,0.06 0.09,0.11 0.16,0.18 0.04,0.04 0.08,0.08 0.12,0.11 0.04,0.03 0.07,0.06 0.1,0.07 0.04,0.02 0.07,0.03 0.1,0.04 0.04,0.01 0.09,0.01 0.16,0.01 0.07,-0.01 0.17,-0.03 0.32,-0.06 0.14,-0.04 0.31,-0.09 0.5,-0.18 0.19,-0.08 0.39,-0.18 0.59,-0.31 0.2,-0.13 0.39,-0.28 0.57,-0.46 0.28,-0.29 0.49,-0.58 0.63,-0.88 0.13,-0.29 0.2,-0.58 0.2,-0.87 0,-0.28 -0.05,-0.55 -0.17,-0.81 -0.11,-0.25 -0.28,-0.49 -0.49,-0.7 -0.19,-0.19 -0.39,-0.36 -0.62,-0.51 -0.22,-0.16 -0.49,-0.29 -0.82,-0.4 -0.33,-0.11 -0.73,-0.2 -1.2,-0.26 -0.47,-0.06 -1.05,-0.1 -1.74,-0.11 l -1.92,-0.04 2.58,-2.58 c 0.03,-0.03 0.04,-0.06 0.05,-0.09 0.01,-0.04 0.01,-0.08 0,-0.13 -0.01,-0.04 -0.03,-0.09 -0.07,-0.14 -0.03,-0.04 -0.08,-0.1 -0.13,-0.15 z m 7.6,-2.32 c -0.46,-0.45 -0.91,-0.83 -1.36,-1.14 -0.45,-0.3 -0.89,-0.5 -1.33,-0.61 -0.43,-0.1 -0.86,-0.09 -1.28,0.03 -0.41,0.12 -0.82,0.38 -1.21,0.77 -0.38,0.37 -0.63,0.75 -0.75,1.14 -0.12,0.39 -0.13,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.32,0.45 0.72,0.91 1.21,1.4 0.45,0.45 0.9,0.83 1.35,1.14 0.45,0.3 0.9,0.51 1.33,0.61 0.44,0.11 0.86,0.1 1.28,-0.02 0.42,-0.12 0.82,-0.38 1.21,-0.77 0.38,-0.38 0.63,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.1,-0.41 -0.31,-0.84 -0.62,-1.29 -0.31,-0.44 -0.71,-0.91 -1.2,-1.4 z m -0.86,0.76 c 0.29,0.29 0.55,0.57 0.76,0.83 0.22,0.25 0.39,0.49 0.53,0.71 0.14,0.23 0.24,0.43 0.31,0.63 0.06,0.2 0.09,0.38 0.08,0.56 -0.01,0.17 -0.05,0.34 -0.13,0.5 -0.08,0.15 -0.19,0.3 -0.34,0.45 -0.26,0.26 -0.53,0.41 -0.82,0.45 -0.28,0.04 -0.58,0 -0.88,-0.12 -0.31,-0.12 -0.62,-0.31 -0.95,-0.56 -0.32,-0.26 -0.64,-0.55 -0.97,-0.88 -0.45,-0.44 -0.8,-0.84 -1.06,-1.2 -0.27,-0.36 -0.45,-0.68 -0.55,-0.98 -0.09,-0.29 -0.11,-0.56 -0.04,-0.8 0.06,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.53,-0.37 0.19,-0.07 0.38,-0.11 0.57,-0.1 0.2,0.01 0.4,0.06 0.6,0.14 0.21,0.08 0.42,0.19 0.63,0.33 0.21,0.14 0.42,0.3 0.64,0.49 0.22,0.19 0.44,0.4 0.66,0.62 z m 2.76,-8 c -0.05,-0.06 -0.11,-0.1 -0.16,-0.13 -0.04,-0.04 -0.09,-0.06 -0.13,-0.06 -0.04,-0.01 -0.07,-0.01 -0.1,0 -0.03,0 -0.06,0.02 -0.08,0.04 l -3.1,3.1 c -0.02,0.02 -0.04,0.05 -0.05,0.08 0,0.03 0,0.06 0,0.1 0.01,0.04 0.03,0.09 0.06,0.14 0.03,0.05 0.08,0.1 0.13,0.16 0.06,0.05 0.11,0.1 0.16,0.13 0.05,0.03 0.09,0.05 0.13,0.06 0.04,0.01 0.08,0.02 0.11,0.01 0.04,-0.01 0.07,-0.02 0.09,-0.04 l 1.24,-1.24 4.51,4.51 -1.83,0.46 c -0.09,0.03 -0.15,0.06 -0.19,0.09 -0.04,0.03 -0.07,0.06 -0.07,0.1 0,0.05 0.02,0.09 0.06,0.15 0.04,0.05 0.09,0.11 0.16,0.18 0.05,0.05 0.1,0.1 0.14,0.13 0.04,0.03 0.08,0.05 0.11,0.07 0.04,0.01 0.07,0.02 0.11,0.02 0.03,0.01 0.07,0 0.12,-0.01 l 2.24,-0.49 c 0.02,0 0.04,-0.01 0.07,-0.02 0.02,-0.01 0.05,-0.03 0.09,-0.05 0.03,-0.02 0.07,-0.05 0.1,-0.09 0.04,-0.03 0.09,-0.08 0.14,-0.13 0.08,-0.08 0.14,-0.14 0.18,-0.19 0.04,-0.06 0.07,-0.11 0.09,-0.14 0.01,-0.04 0.02,-0.07 0.01,-0.1 -0.01,-0.03 -0.02,-0.05 -0.04,-0.07 l -5.21,-5.21 1.07,-1.08 c 0.03,-0.02 0.04,-0.05 0.05,-0.09 0.01,-0.03 0,-0.07 -0.01,-0.11 -0.01,-0.04 -0.03,-0.08 -0.06,-0.13 -0.04,-0.05 -0.08,-0.1 -0.14,-0.15 z m 6.38,-3.62 c -0.1,-0.1 -0.2,-0.17 -0.29,-0.2 -0.08,-0.02 -0.16,-0.01 -0.21,0.04 l -0.67,0.67 -1.25,-1.24 c -0.02,-0.03 -0.05,-0.04 -0.08,-0.05 -0.03,0 -0.07,0.01 -0.11,0.03 -0.04,0.02 -0.09,0.05 -0.15,0.09 -0.06,0.05 -0.12,0.11 -0.2,0.19 -0.08,0.07 -0.14,0.14 -0.18,0.19 -0.05,0.06 -0.08,0.11 -0.09,0.15 -0.02,0.04 -0.03,0.08 -0.02,0.11 0,0.03 0.02,0.05 0.04,0.08 l 1.25,1.24 -2.43,2.43 c -0.03,0.04 -0.06,0.07 -0.08,0.11 -0.01,0.03 -0.02,0.07 -0.01,0.11 0,0.05 0.03,0.1 0.06,0.15 0.04,0.05 0.1,0.12 0.17,0.19 0.06,0.06 0.11,0.11 0.16,0.15 0.05,0.04 0.1,0.08 0.15,0.11 0.04,0.03 0.09,0.05 0.14,0.07 0.05,0.02 0.11,0.04 0.17,0.06 l 5.72,1.49 c 0.04,0.01 0.08,0.01 0.13,0 0.05,-0.01 0.1,-0.04 0.16,-0.07 0.06,-0.04 0.13,-0.09 0.2,-0.15 0.07,-0.06 0.16,-0.14 0.25,-0.24 0.1,-0.1 0.19,-0.19 0.26,-0.28 0.07,-0.08 0.12,-0.15 0.15,-0.21 0.04,-0.06 0.06,-0.11 0.06,-0.16 0.01,-0.04 0,-0.08 -0.03,-0.11 l -3.79,-3.78 0.67,-0.67 c 0.05,-0.06 0.07,-0.12 0.05,-0.21 -0.03,-0.09 -0.09,-0.18 -0.2,-0.29 z m 1.95,5.21 -0.01,0.01 -5.17,-1.35 1.92,-1.92 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3937" />
+        </g>
+      </g>
+      <g
+         id="g3939">
+        <g
+           id="g3941"
+           clip-path="url(#clipPath3945)">
+          <path
+             d="m 468.32,184.82 c -0.05,-0.06 -0.1,-0.1 -0.15,-0.14 -0.05,-0.03 -0.1,-0.06 -0.14,-0.07 -0.05,-0.02 -0.09,-0.02 -0.12,-0.01 -0.04,0.01 -0.07,0.03 -0.1,0.05 l -3.28,3.28 c -0.04,0.05 -0.07,0.09 -0.1,0.13 -0.02,0.04 -0.03,0.09 -0.03,0.14 0.01,0.04 0.02,0.1 0.06,0.15 0.04,0.06 0.09,0.12 0.15,0.19 0.06,0.06 0.12,0.11 0.17,0.15 0.05,0.04 0.1,0.07 0.15,0.09 0.05,0.02 0.11,0.04 0.17,0.05 0.06,0.01 0.13,0.02 0.2,0.02 l 2.41,0.03 c 0.55,0.01 1.03,0.04 1.42,0.1 0.38,0.06 0.71,0.13 0.99,0.23 0.27,0.09 0.5,0.2 0.68,0.32 0.17,0.12 0.33,0.25 0.46,0.38 0.13,0.13 0.23,0.28 0.31,0.44 0.07,0.16 0.11,0.33 0.12,0.5 0,0.17 -0.03,0.35 -0.11,0.53 -0.07,0.18 -0.19,0.35 -0.36,0.51 -0.19,0.19 -0.39,0.34 -0.59,0.44 -0.21,0.1 -0.4,0.18 -0.57,0.23 -0.18,0.06 -0.33,0.1 -0.46,0.12 -0.13,0.03 -0.22,0.06 -0.25,0.1 -0.03,0.02 -0.04,0.04 -0.04,0.07 -0.01,0.03 0,0.07 0.01,0.11 0.02,0.04 0.05,0.08 0.09,0.13 0.04,0.06 0.09,0.11 0.15,0.18 0.05,0.04 0.09,0.08 0.13,0.11 0.03,0.03 0.07,0.06 0.1,0.07 0.03,0.02 0.06,0.03 0.1,0.04 0.03,0.01 0.08,0.01 0.15,0.01 0.07,-0.01 0.18,-0.03 0.32,-0.06 0.15,-0.04 0.32,-0.09 0.51,-0.18 0.19,-0.08 0.38,-0.18 0.58,-0.31 0.2,-0.13 0.39,-0.28 0.57,-0.46 0.29,-0.29 0.5,-0.58 0.63,-0.88 0.14,-0.29 0.21,-0.58 0.21,-0.87 0,-0.28 -0.06,-0.55 -0.17,-0.81 -0.12,-0.25 -0.28,-0.49 -0.49,-0.7 -0.19,-0.19 -0.4,-0.36 -0.62,-0.51 -0.22,-0.16 -0.5,-0.29 -0.82,-0.4 -0.33,-0.11 -0.73,-0.2 -1.2,-0.26 -0.48,-0.06 -1.06,-0.1 -1.74,-0.11 l -1.93,-0.04 2.59,-2.58 c 0.02,-0.03 0.04,-0.06 0.05,-0.09 0.01,-0.04 0,-0.08 -0.01,-0.13 -0.01,-0.04 -0.03,-0.09 -0.06,-0.14 -0.04,-0.04 -0.08,-0.1 -0.14,-0.15 z m 7.6,-2.32 c -0.45,-0.45 -0.9,-0.83 -1.35,-1.14 -0.45,-0.3 -0.89,-0.5 -1.33,-0.61 -0.44,-0.1 -0.86,-0.09 -1.28,0.03 -0.42,0.12 -0.83,0.38 -1.22,0.77 -0.37,0.37 -0.62,0.75 -0.74,1.14 -0.13,0.39 -0.14,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.31,0.45 0.71,0.91 1.2,1.4 0.45,0.45 0.9,0.83 1.36,1.14 0.45,0.3 0.89,0.51 1.33,0.61 0.43,0.11 0.86,0.1 1.28,-0.02 0.41,-0.12 0.82,-0.38 1.21,-0.77 0.38,-0.38 0.62,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.11,-0.41 -0.31,-0.84 -0.63,-1.29 -0.31,-0.44 -0.71,-0.91 -1.2,-1.4 z m -0.86,0.76 c 0.3,0.29 0.55,0.57 0.77,0.83 0.21,0.25 0.39,0.49 0.53,0.71 0.14,0.23 0.24,0.43 0.3,0.63 0.07,0.2 0.09,0.38 0.09,0.56 -0.01,0.17 -0.05,0.34 -0.13,0.5 -0.08,0.15 -0.2,0.3 -0.34,0.45 -0.26,0.26 -0.54,0.41 -0.82,0.45 -0.28,0.04 -0.58,0 -0.89,-0.12 -0.3,-0.12 -0.62,-0.31 -0.94,-0.56 -0.32,-0.26 -0.65,-0.55 -0.98,-0.88 -0.44,-0.44 -0.79,-0.84 -1.06,-1.2 -0.26,-0.36 -0.44,-0.68 -0.54,-0.98 -0.1,-0.29 -0.11,-0.56 -0.05,-0.8 0.07,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.54,-0.37 0.18,-0.07 0.37,-0.11 0.57,-0.1 0.19,0.01 0.39,0.06 0.6,0.14 0.2,0.08 0.41,0.19 0.62,0.33 0.21,0.14 0.43,0.3 0.64,0.49 0.22,0.19 0.44,0.4 0.66,0.62 z m 2.77,-8 c -0.06,-0.06 -0.11,-0.1 -0.16,-0.13 -0.05,-0.04 -0.09,-0.06 -0.13,-0.06 -0.04,-0.01 -0.08,-0.01 -0.11,0 -0.03,0 -0.06,0.02 -0.08,0.04 l -3.1,3.1 c -0.02,0.02 -0.03,0.05 -0.04,0.08 -0.01,0.03 -0.01,0.06 0,0.1 0.01,0.04 0.03,0.09 0.06,0.14 0.03,0.05 0.07,0.1 0.13,0.16 0.05,0.05 0.11,0.1 0.15,0.13 0.05,0.03 0.1,0.05 0.14,0.06 0.04,0.01 0.07,0.02 0.11,0.01 0.03,-0.01 0.06,-0.02 0.08,-0.04 l 1.24,-1.24 4.52,4.51 -1.83,0.46 c -0.09,0.03 -0.16,0.06 -0.2,0.09 -0.04,0.03 -0.06,0.06 -0.06,0.1 0,0.05 0.01,0.09 0.05,0.15 0.04,0.05 0.1,0.11 0.17,0.18 0.05,0.05 0.09,0.1 0.14,0.13 0.04,0.03 0.07,0.05 0.11,0.07 0.03,0.01 0.07,0.02 0.1,0.02 0.04,0.01 0.08,0 0.12,-0.01 l 2.25,-0.49 c 0.02,0 0.04,-0.01 0.06,-0.02 0.03,-0.01 0.06,-0.03 0.09,-0.05 0.03,-0.02 0.07,-0.05 0.11,-0.09 0.04,-0.03 0.08,-0.08 0.14,-0.13 0.07,-0.08 0.13,-0.14 0.17,-0.19 0.05,-0.06 0.08,-0.11 0.09,-0.14 0.02,-0.04 0.02,-0.07 0.02,-0.1 -0.01,-0.03 -0.02,-0.05 -0.04,-0.07 l -5.22,-5.21 1.08,-1.08 c 0.02,-0.02 0.04,-0.05 0.04,-0.09 0.01,-0.03 0.01,-0.07 0,-0.11 -0.02,-0.04 -0.04,-0.08 -0.07,-0.13 -0.03,-0.05 -0.08,-0.1 -0.13,-0.15 z m 6.51,-3.29 c -0.26,-0.26 -0.55,-0.47 -0.88,-0.63 -0.32,-0.17 -0.66,-0.26 -1.01,-0.28 -0.35,-0.02 -0.7,0.04 -1.07,0.18 -0.36,0.15 -0.72,0.39 -1.07,0.74 -0.24,0.24 -0.43,0.49 -0.56,0.74 -0.13,0.25 -0.21,0.51 -0.23,0.76 -0.03,0.25 -0.01,0.51 0.06,0.77 0.07,0.26 0.19,0.52 0.34,0.79 0.16,0.26 0.35,0.54 0.57,0.81 0.23,0.28 0.49,0.56 0.77,0.85 0.26,0.25 0.53,0.49 0.82,0.72 0.28,0.24 0.58,0.44 0.89,0.61 0.32,0.17 0.64,0.3 0.97,0.39 0.34,0.1 0.67,0.13 1.01,0.11 0.34,-0.03 0.68,-0.12 1.03,-0.28 0.34,-0.17 0.69,-0.42 1.02,-0.75 0.11,-0.11 0.22,-0.24 0.33,-0.37 0.1,-0.13 0.19,-0.25 0.26,-0.37 0.08,-0.12 0.13,-0.23 0.17,-0.33 0.04,-0.09 0.07,-0.16 0.07,-0.2 0,-0.03 0,-0.07 -0.01,-0.1 -0.01,-0.03 -0.02,-0.06 -0.04,-0.09 -0.01,-0.03 -0.03,-0.06 -0.06,-0.09 -0.03,-0.03 -0.06,-0.07 -0.1,-0.11 -0.06,-0.06 -0.11,-0.1 -0.15,-0.14 -0.04,-0.04 -0.08,-0.07 -0.11,-0.08 -0.04,-0.01 -0.07,-0.02 -0.1,-0.01 -0.03,0 -0.06,0.02 -0.08,0.04 -0.04,0.04 -0.07,0.09 -0.11,0.17 -0.04,0.08 -0.08,0.18 -0.14,0.29 -0.06,0.1 -0.13,0.23 -0.23,0.37 -0.1,0.14 -0.22,0.28 -0.38,0.44 -0.28,0.28 -0.58,0.47 -0.91,0.56 -0.32,0.09 -0.64,0.1 -0.97,0.03 -0.32,-0.06 -0.64,-0.19 -0.97,-0.39 -0.32,-0.19 -0.62,-0.43 -0.91,-0.7 0.12,-0.03 0.26,-0.08 0.4,-0.13 0.15,-0.05 0.3,-0.12 0.45,-0.2 0.16,-0.08 0.31,-0.18 0.47,-0.29 0.15,-0.11 0.3,-0.23 0.45,-0.38 0.32,-0.33 0.55,-0.64 0.68,-0.95 0.14,-0.3 0.19,-0.6 0.18,-0.89 -0.02,-0.29 -0.11,-0.57 -0.26,-0.84 -0.15,-0.27 -0.35,-0.52 -0.59,-0.77 z m -0.87,0.73 c 0.17,0.17 0.32,0.35 0.43,0.53 0.11,0.18 0.17,0.36 0.19,0.55 0.02,0.18 -0.01,0.37 -0.1,0.56 -0.08,0.2 -0.22,0.39 -0.42,0.59 -0.12,0.12 -0.24,0.22 -0.37,0.31 -0.14,0.1 -0.27,0.18 -0.41,0.25 -0.14,0.07 -0.29,0.13 -0.43,0.18 -0.14,0.05 -0.28,0.08 -0.42,0.11 -0.39,-0.4 -0.7,-0.75 -0.91,-1.07 -0.22,-0.31 -0.36,-0.6 -0.42,-0.86 -0.07,-0.26 -0.06,-0.49 0.01,-0.7 0.08,-0.21 0.21,-0.42 0.41,-0.61 0.19,-0.2 0.4,-0.33 0.61,-0.4 0.22,-0.07 0.44,-0.09 0.66,-0.06 0.22,0.03 0.43,0.1 0.62,0.21 0.2,0.11 0.38,0.24 0.55,0.41 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3947" />
+        </g>
+      </g>
+      <g
+         id="g3949">
+        <g
+           id="g3951"
+           clip-path="url(#clipPath3955)">
+          <path
+             d="m 488.86,184.82 c -0.06,-0.06 -0.11,-0.1 -0.16,-0.14 -0.05,-0.03 -0.1,-0.06 -0.14,-0.07 -0.04,-0.02 -0.08,-0.02 -0.12,-0.01 -0.03,0.01 -0.07,0.03 -0.09,0.05 l -3.28,3.28 c -0.05,0.05 -0.08,0.09 -0.1,0.13 -0.02,0.04 -0.03,0.09 -0.03,0.14 0,0.04 0.02,0.1 0.06,0.15 0.03,0.06 0.08,0.12 0.15,0.19 0.06,0.06 0.12,0.11 0.17,0.15 0.05,0.04 0.1,0.07 0.15,0.09 0.05,0.02 0.1,0.04 0.16,0.05 0.06,0.01 0.13,0.02 0.21,0.02 l 2.4,0.03 c 0.56,0.01 1.03,0.04 1.42,0.1 0.39,0.06 0.72,0.13 0.99,0.23 0.28,0.09 0.5,0.2 0.68,0.32 0.18,0.12 0.33,0.25 0.46,0.38 0.14,0.13 0.24,0.28 0.31,0.44 0.08,0.16 0.12,0.33 0.12,0.5 0.01,0.17 -0.03,0.35 -0.1,0.53 -0.08,0.18 -0.2,0.35 -0.36,0.51 -0.19,0.19 -0.39,0.34 -0.6,0.44 -0.2,0.1 -0.39,0.18 -0.57,0.23 -0.18,0.06 -0.33,0.1 -0.46,0.12 -0.13,0.03 -0.21,0.06 -0.25,0.1 -0.02,0.02 -0.03,0.04 -0.04,0.07 0,0.03 0,0.07 0.02,0.11 0.01,0.04 0.04,0.08 0.08,0.13 0.04,0.06 0.09,0.11 0.16,0.18 0.04,0.04 0.09,0.08 0.12,0.11 0.04,0.03 0.07,0.06 0.1,0.07 0.04,0.02 0.07,0.03 0.1,0.04 0.04,0.01 0.09,0.01 0.16,0.01 0.07,-0.01 0.17,-0.03 0.32,-0.06 0.14,-0.04 0.31,-0.09 0.5,-0.18 0.19,-0.08 0.39,-0.18 0.59,-0.31 0.2,-0.13 0.39,-0.28 0.57,-0.46 0.28,-0.29 0.49,-0.58 0.63,-0.88 0.13,-0.29 0.2,-0.58 0.2,-0.87 0,-0.28 -0.05,-0.55 -0.17,-0.81 -0.11,-0.25 -0.28,-0.49 -0.49,-0.7 -0.19,-0.19 -0.39,-0.36 -0.62,-0.51 -0.22,-0.16 -0.49,-0.29 -0.82,-0.4 -0.33,-0.11 -0.73,-0.2 -1.2,-0.26 -0.47,-0.06 -1.05,-0.1 -1.74,-0.11 l -1.92,-0.04 2.58,-2.58 c 0.03,-0.03 0.04,-0.06 0.05,-0.09 0.01,-0.04 0.01,-0.08 0,-0.13 -0.01,-0.04 -0.03,-0.09 -0.07,-0.14 -0.03,-0.04 -0.08,-0.1 -0.13,-0.15 z m 7.6,-2.32 c -0.46,-0.45 -0.91,-0.83 -1.36,-1.14 -0.45,-0.3 -0.89,-0.5 -1.33,-0.61 -0.43,-0.1 -0.86,-0.09 -1.28,0.03 -0.41,0.12 -0.82,0.38 -1.21,0.77 -0.38,0.37 -0.63,0.75 -0.75,1.14 -0.12,0.39 -0.13,0.79 -0.03,1.21 0.1,0.41 0.31,0.84 0.62,1.28 0.32,0.45 0.72,0.91 1.21,1.4 0.45,0.45 0.9,0.83 1.35,1.14 0.45,0.3 0.9,0.51 1.33,0.61 0.44,0.11 0.86,0.1 1.28,-0.02 0.42,-0.12 0.82,-0.38 1.21,-0.77 0.38,-0.38 0.63,-0.76 0.75,-1.15 0.12,-0.38 0.13,-0.79 0.03,-1.2 -0.1,-0.41 -0.31,-0.84 -0.62,-1.29 -0.31,-0.44 -0.71,-0.91 -1.2,-1.4 z m -0.86,0.76 c 0.29,0.29 0.55,0.57 0.76,0.83 0.22,0.25 0.39,0.49 0.53,0.71 0.14,0.23 0.24,0.43 0.31,0.63 0.06,0.2 0.09,0.38 0.08,0.56 -0.01,0.17 -0.05,0.34 -0.13,0.5 -0.08,0.15 -0.19,0.3 -0.34,0.45 -0.26,0.26 -0.53,0.41 -0.82,0.45 -0.28,0.04 -0.58,0 -0.88,-0.12 -0.31,-0.12 -0.62,-0.31 -0.95,-0.56 -0.32,-0.26 -0.64,-0.55 -0.97,-0.88 -0.45,-0.44 -0.8,-0.84 -1.06,-1.2 -0.27,-0.36 -0.45,-0.68 -0.55,-0.98 -0.09,-0.29 -0.11,-0.56 -0.04,-0.8 0.06,-0.25 0.21,-0.48 0.43,-0.7 0.17,-0.17 0.35,-0.29 0.53,-0.37 0.19,-0.07 0.38,-0.11 0.57,-0.1 0.2,0.01 0.4,0.06 0.6,0.14 0.21,0.08 0.42,0.19 0.63,0.33 0.21,0.14 0.42,0.3 0.64,0.49 0.22,0.19 0.44,0.4 0.66,0.62 z m 2.76,-8 c -0.05,-0.06 -0.11,-0.1 -0.16,-0.13 -0.04,-0.04 -0.09,-0.06 -0.13,-0.06 -0.04,-0.01 -0.07,-0.01 -0.1,0 -0.03,0 -0.06,0.02 -0.08,0.04 l -3.1,3.1 c -0.02,0.02 -0.04,0.05 -0.05,0.08 0,0.03 0,0.06 0,0.1 0.01,0.04 0.03,0.09 0.06,0.14 0.03,0.05 0.08,0.1 0.13,0.16 0.06,0.05 0.11,0.1 0.16,0.13 0.05,0.03 0.09,0.05 0.13,0.06 0.04,0.01 0.08,0.02 0.11,0.01 0.04,-0.01 0.07,-0.02 0.09,-0.04 l 1.24,-1.24 4.51,4.51 -1.83,0.46 c -0.09,0.03 -0.15,0.06 -0.19,0.09 -0.04,0.03 -0.07,0.06 -0.07,0.1 0,0.05 0.02,0.09 0.06,0.15 0.04,0.05 0.09,0.11 0.16,0.18 0.05,0.05 0.1,0.1 0.14,0.13 0.04,0.03 0.08,0.05 0.11,0.07 0.04,0.01 0.07,0.02 0.11,0.02 0.03,0.01 0.07,0 0.12,-0.01 l 2.24,-0.49 c 0.02,0 0.04,-0.01 0.07,-0.02 0.02,-0.01 0.05,-0.03 0.09,-0.05 0.03,-0.02 0.07,-0.05 0.1,-0.09 0.04,-0.03 0.09,-0.08 0.14,-0.13 0.08,-0.08 0.14,-0.14 0.18,-0.19 0.04,-0.06 0.07,-0.11 0.09,-0.14 0.01,-0.04 0.02,-0.07 0.01,-0.1 -0.01,-0.03 -0.02,-0.05 -0.04,-0.07 l -5.21,-5.21 1.07,-1.08 c 0.03,-0.02 0.04,-0.05 0.05,-0.09 0.01,-0.03 0,-0.07 -0.01,-0.11 -0.01,-0.04 -0.03,-0.08 -0.06,-0.13 -0.04,-0.05 -0.08,-0.1 -0.14,-0.15 z m 6.1,-3.67 c -0.26,-0.26 -0.53,-0.44 -0.82,-0.55 -0.3,-0.11 -0.6,-0.15 -0.91,-0.11 -0.31,0.03 -0.63,0.14 -0.95,0.33 -0.32,0.18 -0.65,0.43 -0.98,0.76 -0.3,0.31 -0.54,0.61 -0.72,0.92 -0.18,0.3 -0.29,0.6 -0.33,0.9 -0.04,0.29 -0.02,0.57 0.08,0.85 0.09,0.27 0.26,0.52 0.49,0.76 0.19,0.18 0.39,0.33 0.61,0.42 0.21,0.09 0.45,0.15 0.69,0.17 0.25,0.01 0.51,0 0.8,-0.06 0.28,-0.05 0.58,-0.13 0.89,-0.24 -0.09,0.28 -0.15,0.54 -0.18,0.79 -0.04,0.24 -0.04,0.48 -0.02,0.7 0.03,0.22 0.09,0.43 0.18,0.62 0.09,0.19 0.21,0.37 0.38,0.53 0.21,0.21 0.44,0.37 0.7,0.48 0.25,0.1 0.53,0.15 0.81,0.13 0.29,-0.02 0.59,-0.1 0.9,-0.26 0.31,-0.15 0.62,-0.39 0.93,-0.7 0.3,-0.3 0.53,-0.59 0.67,-0.88 0.15,-0.3 0.23,-0.57 0.25,-0.84 0.02,-0.27 -0.02,-0.52 -0.12,-0.75 -0.1,-0.24 -0.25,-0.45 -0.44,-0.64 -0.16,-0.16 -0.33,-0.28 -0.53,-0.38 -0.19,-0.09 -0.4,-0.15 -0.63,-0.18 -0.23,-0.03 -0.47,-0.03 -0.72,0 -0.25,0.03 -0.52,0.08 -0.8,0.17 0.11,-0.32 0.19,-0.63 0.25,-0.91 0.05,-0.28 0.08,-0.55 0.06,-0.79 -0.02,-0.25 -0.07,-0.47 -0.15,-0.68 -0.09,-0.2 -0.22,-0.39 -0.39,-0.56 z m 2.05,4.03 c 0.13,0.13 0.23,0.27 0.29,0.42 0.06,0.15 0.08,0.3 0.07,0.46 -0.02,0.16 -0.07,0.32 -0.15,0.48 -0.09,0.17 -0.22,0.33 -0.38,0.5 -0.33,0.33 -0.66,0.5 -0.98,0.52 -0.31,0.02 -0.6,-0.1 -0.86,-0.36 -0.12,-0.12 -0.21,-0.25 -0.27,-0.39 -0.07,-0.15 -0.1,-0.31 -0.1,-0.49 -0.01,-0.18 0.01,-0.38 0.06,-0.6 0.04,-0.22 0.11,-0.47 0.2,-0.74 0.47,-0.15 0.88,-0.22 1.24,-0.19 0.36,0.03 0.65,0.16 0.88,0.39 z m -2.93,-3.32 c 0.14,0.14 0.24,0.3 0.3,0.46 0.07,0.17 0.09,0.35 0.09,0.56 -0.01,0.2 -0.04,0.43 -0.11,0.68 -0.06,0.25 -0.15,0.53 -0.25,0.84 -0.29,0.1 -0.56,0.17 -0.8,0.22 -0.24,0.06 -0.45,0.08 -0.65,0.07 -0.19,-0.01 -0.37,-0.04 -0.53,-0.11 -0.16,-0.06 -0.3,-0.16 -0.44,-0.3 -0.29,-0.29 -0.42,-0.62 -0.38,-0.99 0.04,-0.37 0.26,-0.75 0.67,-1.15 0.39,-0.39 0.77,-0.61 1.13,-0.65 0.36,-0.03 0.69,0.09 0.97,0.37 z"
+             style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3957" />
+        </g>
+      </g>
+      <g
+         id="g3959">
+        <g
+           id="g3961"
+           clip-path="url(#clipPath3965)">
+          <text
+             transform="matrix(-4.4e-8,1,1,4.4e-8,68.904,374.78)"
+             style="font-variant:normal;font-weight:bold;font-size:13.296px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3969"><tspan
+               x="0 6.5815201 18.627695 25.767649 31.484928 37.614384 44.342159 50.910385"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3967">TWh/year</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3971">
+        <g
+           id="g3973"
+           clip-path="url(#clipPath3977)">
+          <text
+             transform="matrix(1,0,0,-1,196.2,611.88)"
+             style="font-variant:normal;font-weight:bold;font-size:13.296px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3981"><tspan
+               x="0 6.2890081 13.016784 20.156736 26.9244 32.947487 39.515713 42.78653 45.711647 52.439423 55.710239 62.464607 68.022339 72.636047 77.356125 80.626945 86.237854 89.508675 94.122383 100.42469 103.25674 110.39669 114.94392 122.09717 129.27701 136.41696 142.02788 146.64159 149.9124 157.06564 164.25879 167.02435 174.09782 180.40013 183.40503 188.71013 195.90326 203.04321 207.59045 213.14818"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3979">Senegal electricity production by source</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3983">
+        <g
+           id="g3985"
+           clip-path="url(#clipPath3989)">
+          <text
+             transform="matrix(1,0,0,-1,95.544,601.08)"
+             style="font-variant:normal;font-weight:normal;font-size:5.928px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3993"><tspan
+               x="0 2.75652 5.8509359 8.9631357 10.984584 13.492128 16.408705 18.009264 19.348991 23.154768 24.678265 27.434784 28.940496 30.280224 33.208656 36.320854 39.231503 41.270737 44.098392 46.760063 48.010872 49.516582 52.628784 54.3894 57.483814 59.523048 64.318802 67.15831 69.096771 70.442421 73.536842 76.64904 78.042122 81.492218 84.604416 89.382385 90.728043 93.84024 95.168114 97.485962 99.418488 101.45772 104.29723 106.23569 107.58134 110.67576"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3991">Source: U.S. Energy Information Administration</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3995">
+        <g
+           id="g3997"
+           clip-path="url(#clipPath4001)">
+          <text
+             transform="matrix(1,0,0,-1,95.544,593.83)"
+             style="font-variant:normal;font-weight:normal;font-size:5.952px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4005"><tspan
+               x="0 5.0639601 7.8899679 10.989768"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4003">Made</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4007">
+        <g
+           id="g4009"
+           clip-path="url(#clipPath4013)">
+          <text
+             transform="matrix(1,0,0,-1,110.78,593.83)"
+             style="font-variant:normal;font-weight:normal;font-size:5.952px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4017"><tspan
+               x="0 3.0950401 5.7615361 7.3566718 8.7018242 11.796864 14.647872 16.0704 17.415552 20.314177 23.165184 24.504383 25.849537 28.944576 32.039616 34.866817"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4015">by: Kaj Tallungs</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

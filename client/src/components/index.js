@@ -6,6 +6,7 @@ import BillInfo from "./BillInfo";
 import Chart from "./Chart";
 import TextButton from "./TextButton";
 import HeaderBar from "./HeaderBar";
+import IconButton from "./IconButton";
 
 export {
     BillItem,
@@ -15,5 +16,6 @@ export {
     BillInfo,
     Chart,
     TextButton,
-    HeaderBar
+    HeaderBar,
+    IconButton
 };

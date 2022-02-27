@@ -1,3 +1,6 @@
+import bgw_image from "../assets/images/bgw_image.jpg";
+import article_image from "../assets/images/article_image.jpg";
+
 export const billData = [{
         _id: 1,
         to: "Jonathan M. Ndao",
@@ -43,9 +46,51 @@ export const profile = {
     faceID: true,
     secretCode: "0000",
 }
+
+const infos = [
+    {
+        _id: 1,
+        publisher: "Bi-Gueneu-Woyoff",
+        profileImage: bgw_image,
+        image: article_image,
+        excerpt: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, ipsam.",
+        body: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda facere  temporibus id non nostrum, porro accusamus deleniti deserunt in, corporis et inventore obcaecati ipsa illum ducimus. In ratione error voluptatem quas voluptatum vero incidunt sit?",
+        likeArticles: [],
+        favoritePublishers: [],
+        rating: 4.5,
+        createdAt: "A month ago"
+    },
+    {
+        _id: 2,
+        publisher: "Bi-Gueneu-Woyoff",
+        profileImage: bgw_image,
+        image: article_image,
+        excerpt: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, ipsam.",
+        body: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda facere  temporibus id non nostrum, porro accusamus deleniti deserunt in, corporis et inventore obcaecati ipsa illum ducimus. In ratione error voluptatem quas voluptatum vero incidunt sit?",
+        likeArticles: [],
+        favoritePublishers: [],
+        rating: 4.5,
+        createdAt: "A month ago"
+    },
+    {
+        _id: 3,
+        publisher: "Bi-Gueneu-Woyoff",
+        profileImage: bgw_image,
+        image: article_image,
+        excerpt: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, ipsam.",
+        body: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda facere  temporibus id non nostrum, porro accusamus deleniti deserunt in, corporis et inventore obcaecati ipsa illum ducimus. In ratione error voluptatem quas voluptatum vero incidunt sit?",
+        likeArticles: [],
+        favoritePublishers: [],
+        rating: 4.5,
+        createdAt: "A month ago"
+    }
+];
+
+
 const data = {
     billData,
     profile,
+    infos
 };
 
 export default data;
