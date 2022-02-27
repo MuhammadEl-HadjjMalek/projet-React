@@ -169,7 +169,7 @@ const Info = () => {
                 data={data.infos}
                 listKey="Infos"
                 keyExtractor={item => `Info-${item._id}`}
-                showsHorizontalScrollIndicator={false}
+                showsVerticalScrollIndicator={false}
                 contentContainerStyle={{
                     marginTop: 5,
                     paddingHorizontal: SIZES.padding,

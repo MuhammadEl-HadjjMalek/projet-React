@@ -10,6 +10,42 @@ const { billData } = data;
 
 const HomeScreen = ({ navigation }) => {
 
+    function renderButtons() {
+        return (
+            <View
+                style={{
+                    flexDirection: "row",
+                    marginVertical: 5,
+                    width: '100%',
+                    justifyContent: 'center',
+                    alignItems: 'center'
+                }
+                }
+            >
+                <IconTextButton
+                    label="View"
+                    icon={<FontAwesome name="eye" size={20} color="black" />}
+                    containerStyle={{
+                        flex: 1,
+                        height: 40,
+                    }}
+                    onPress={() => console.log("View")}
+                />
+
+                <IconTextButton
+                    label="Pay Now"
+                    icon={<Entypo name="stopwatch" size={20} color="black" />}
+                    containerStyle={{
+                        flex: 1,
+                        height: 40,
+                        width: 60
+                    }}
+                    onPress={() => console.log("Pay Now")}
+                />
+            </View>
+        )
+    }
+
     const renderBillInfoSection = () => {
         return (
             <View
@@ -17,7 +53,6 @@ const HomeScreen = ({ navigation }) => {
                     paddingHorizontal: SIZES.base,
                     borderBottomLeftRadius: 20,
                     borderBottomRightRadius: 20,
-                    paddingBottom: 5,
                     backgroundColor: COLORS.gray
                 }}
             >
@@ -31,37 +66,6 @@ const HomeScreen = ({ navigation }) => {
                         padding: SIZES.base
                     }}
                 />
-                {/* Buttons */}
-                <View
-                    style={{
-                        flexDirection: "row",
-                        marginTop: 18,
-                        marginBottom: -15,
-                        paddingHorizontal: SIZES.radius
-                    }}
-                >
-                    <IconTextButton
-                        label="Voir"
-                        icon={<FontAwesome name="eye" size={20} color="black" />}
-                        containerStyle={{
-                            flex: 1,
-                            height: 40,
-                            marginRight: SIZES.radius,
-                        }}
-                        onPress={() => console.log("View")}
-                    />
-
-                    <IconTextButton
-                        label="Regler"
-                        icon={<Entypo name="stopwatch" size={20} color="black" />}
-                        containerStyle={{
-                            flex: 1,
-                            height: 40,
-                            marginRight: SIZES.radius,
-                        }}
-                        onPress={() => console.log("Pay Now")}
-                    />
-                </View>
 
             </View>
         )
@@ -79,26 +83,29 @@ const HomeScreen = ({ navigation }) => {
                 {/* Header Section - Bill Info */}
                 {renderBillInfoSection()}
 
-                {/* Chart */}
-                <Chart
-                    containerStyle={{
-                        marginTop: SIZES.padding
-                    }}
-                />
+                {/* Buttons View & Payment */}
+                {renderButtons()}
+
 
                 {/* Latest Bills */}
                 <FlatList
                     data={billData}
                     keyExtractor={item => item._id}
                     contentContainerStyle={{
-                        marginTop: 30,
-                        paddingHorizontal: SIZES.padding
+                        marginTop: SIZES.padding,
                     }}
                     ListHeaderComponent={
                         <View
                             style={{ marginBottom: SIZES.radius }}
                         >
-                            <Text style={{ color: COLORS.white, ...FONTS.h3, fontSize: 18 }}>
+
+                            {/* Chart */}
+                            <Chart
+                                containerStyle={{
+                                    width: '100%',
+                                }}
+                            />
+                            <Text style={{ color: COLORS.white, ...FONTS.h3, fontSize: 18, paddingHorizontal: SIZES.padding, marginTop: SIZES.radius }}>
                                 Factures Recentes
                             </Text>
                         </View>
@@ -113,7 +120,8 @@ const HomeScreen = ({ navigation }) => {
                                     alignItems: "center",
                                     justifyContent: "center",
                                     borderBottomWidth: 0.4,
-                                    borderBottomColor: COLORS.lightGray3
+                                    borderBottomColor: COLORS.lightGray3,
+                                    paddingHorizontal: SIZES.padding
                                 }}
                                 onPress={() => navigation.navigate("Detail", { item })}
                             >

@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text } from 'react-native';
-import { FONTS, COLORS } from '../constants';
+import { FONTS, COLORS, SIZES } from '../constants';
 
 const TabIcon = ({ focused, icon, label, isPayment }) => {
 
@@ -12,7 +12,7 @@ const TabIcon = ({ focused, icon, label, isPayment }) => {
                     justifyContent:"center",
                     width: 64,
                     height: 64,
-                    borderRadius: 20,
+                    borderRadius: SIZES.radius,
                     backgroundColor: COLORS.black,
                 }}
             >

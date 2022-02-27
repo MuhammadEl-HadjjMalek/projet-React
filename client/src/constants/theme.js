@@ -20,9 +20,9 @@ export const COLORS = {
 };
 export const SIZES = {
     // global sizes
-    base: 8,
+    base: 6,
     font: 14,
-    radius: 12,
+    radius: 8,
     padding: 24,
 
     // font sizes
